@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<title>P2PQuake: /home/takuya/Documents/p2pquake/src/050/Server/JMAInformation/Quake/JMAQuake.cs ソースファイル</title>
+
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<script type="text/javascript">
+  $(document).ready(initResizable);
+</script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/search.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() { searchBox.OnSelectItem(0); });
+</script>
+
+</head>
+<body>
+<div id="top"><!-- do not remove this div! -->
+
+
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  
+  
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">P2PQuake
+   
+   </div>
+   
+  </td>
+  
+  
+  
+ </tr>
+ </tbody>
+</table>
+</div>
+
+<!-- 作成： Doxygen 1.7.6.1 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'検索');
+</script>
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>メインページ</span></a></li>
+      <li><a href="namespaces.html"><span>パッケージ</span></a></li>
+      <li><a href="annotated.html"><span>クラス</span></a></li>
+      <li class="current"><a href="files.html"><span>ファイル</span></a></li>
+      <li><a href="dirs.html"><span>ディレクトリ</span></a></li>
+      <li>
+        <div id="MSearchBox" class="MSearchBoxInactive">
+        <span class="left">
+          <img id="MSearchSelect" src="search/mag_sel.png"
+               onmouseover="return searchBox.OnSearchSelectShow()"
+               onmouseout="return searchBox.OnSearchSelectHide()"
+               alt=""/>
+          <input type="text" id="MSearchField" value="検索" accesskey="S"
+               onfocus="searchBox.OnSearchFieldFocus(true)" 
+               onblur="searchBox.OnSearchFieldFocus(false)" 
+               onkeyup="searchBox.OnSearchFieldChange(event)"/>
+          </span><span class="right">
+            <a id="MSearchClose" href="javascript:searchBox.CloseResultsWindow()"><img id="MSearchCloseImg" border="0" src="search/close.png" alt=""/></a>
+          </span>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="files.html"><span>ファイル一覧</span></a></li>
+    </ul>
+  </div>
+</div>
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+  initNavTree('_j_m_a_quake_8cs.html','');
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle">
+<div class="title">JMAQuake.cs</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="_j_m_a_quake_8cs.html">説明を見る。</a><div class="fragment"><pre class="fragment"><a name="l00001"></a>00001 ﻿using System;
+<a name="l00002"></a>00002 <span class="keyword">using</span> System.Collections;
+<a name="l00003"></a>00003 <span class="keyword">using</span> System.Collections.Generic;
+<a name="l00004"></a>00004 <span class="keyword">using</span> System.Text;
+<a name="l00005"></a>00005 
+<a name="l00006"></a>00006 <span class="keyword">namespace </span>P2PQuake.JMAInformation.Quake
+<a name="l00007"></a>00007 {
+<a name="l00008"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html">00008</a>     <span class="keyword">public</span> <span class="keyword">class </span><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html">JMAQuake</a>
+<a name="l00009"></a>00009     {
+<a name="l00010"></a>00010         <span class="comment">// 発表の要素</span>
+<a name="l00012"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#ad67cf6d0edd2f639752f05e62413709f">00012</a> <span class="comment"></span>        <span class="keyword">public</span> <span class="keywordtype">string</span> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#ad67cf6d0edd2f639752f05e62413709f" title="発表元">issueOf</a>;
+<a name="l00014"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a51de1400422171977a9471af94e44281">00014</a>         <span class="keyword">public</span> DateTime <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a51de1400422171977a9471af94e44281" title="発表時刻">issueTime</a>;
+<a name="l00016"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a04eeb7cb6d3d9b8dfdf700ab40ff2f72">00016</a>         <span class="keyword">public</span> <a class="code" href="namespace_p2_p_quake_1_1_j_m_a_information_1_1_quake.html#aff99d0e87734895de2d3d4e4b335c3c8" title="発表の種類">IssueType</a> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a04eeb7cb6d3d9b8dfdf700ab40ff2f72" title="発表種類">issueType</a>;
+<a name="l00018"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a4870f1feec449c4c93df232fb823cf00">00018</a>         <span class="keyword">public</span> <a class="code" href="namespace_p2_p_quake_1_1_j_m_a_information_1_1_quake.html#a2ec71be3af2ab3839f78a2b6b0700575" title="訂正の有無">CorrectType</a> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a4870f1feec449c4c93df232fb823cf00" title="訂正報かどうか">correctType</a>;
+<a name="l00019"></a>00019 
+<a name="l00020"></a>00020         <span class="comment">// 地震の要素</span>
+<a name="l00022"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#ac02bec7411a886727aece60968421fa0">00022</a> <span class="comment"></span>        <span class="keyword">public</span> DateTime <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#ac02bec7411a886727aece60968421fa0" title="発生時刻">occuredTime</a>;
+<a name="l00024"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#ac52e3934b6cb293ec6b0149c89a0ac2e">00024</a>         <span class="keyword">public</span> <span class="keywordtype">string</span> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#ac52e3934b6cb293ec6b0149c89a0ac2e" title="震源地">occuredPlace</a>;
+<a name="l00026"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a3465db6f9a1cf324acbee8e3c071f4ac">00026</a>         <span class="keyword">public</span> <span class="keywordtype">double</span> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a3465db6f9a1cf324acbee8e3c071f4ac" title="緯度(北緯:+, 南緯:-) [度] （取得失敗時は -200）">occuredLatitude</a>;
+<a name="l00028"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#af03b4f28a7288fe502e7b1982215da4a">00028</a>         <span class="keyword">public</span> <span class="keywordtype">double</span> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#af03b4f28a7288fe502e7b1982215da4a" title="経度(東経:+, 西経:-) [度] （取得失敗時は -200）">occuredLongitude</a>;
+<a name="l00030"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a050b2c0d829e8593641ac2d72de707ef">00030</a>         <span class="keyword">public</span> <span class="keywordtype">int</span> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a050b2c0d829e8593641ac2d72de707ef" title="深さ [km]">occuredDepth</a>;
+<a name="l00032"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#aff22e22cef3ba2cd4d8bb887cde19fc2">00032</a>         <span class="keyword">public</span> <span class="keywordtype">double</span> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#aff22e22cef3ba2cd4d8bb887cde19fc2" title="マグニチュード">occuredMagnitude</a>;
+<a name="l00033"></a>00033 
+<a name="l00035"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a552afcd267db6d82f8f5029ff8deac16">00035</a>         <span class="keyword">public</span> <span class="keywordtype">int</span> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a552afcd267db6d82f8f5029ff8deac16" title="最大震度(10倍, &quot;弱&quot;は-5)">occuredScale</a>;
+<a name="l00036"></a>00036 
+<a name="l00037"></a>00037         <span class="comment">// 津波の要素</span>
+<a name="l00039"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#ae69387d9cda7d3acdf7767f0953847cc">00039</a> <span class="comment"></span>        <span class="keyword">public</span> <a class="code" href="namespace_p2_p_quake_1_1_j_m_a_information_1_1_quake.html#a046099141da71749f6ef3d09af2eb6be" title="日本への津波の有無">DomesticTsunamiType</a> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#ae69387d9cda7d3acdf7767f0953847cc" title="日本への津波の影響">domesticTsunamiType</a>;
+<a name="l00041"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#ae2adb35cf30382d17a4a311d11e0a07d">00041</a>         <span class="keyword">public</span> <a class="code" href="namespace_p2_p_quake_1_1_j_m_a_information_1_1_quake.html#a857d1733616c598bda16eb9d20a4ffa7" title="海外での津波の有無">ForeignTsunamiType</a> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#ae2adb35cf30382d17a4a311d11e0a07d" title="海外への津波の影響">foreignTsunamiType</a>;
+<a name="l00042"></a>00042 
+<a name="l00043"></a>00043         <span class="comment">// 各地の震度</span>
+<a name="l00044"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a07622d465fad67115c8d2bd4d4dbc323">00044</a>         <span class="keyword">public</span> IList&lt;ObservationPoint&gt; <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a07622d465fad67115c8d2bd4d4dbc323">observationPoints</a>;
+<a name="l00045"></a>00045 
+<a name="l00046"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#a15f381c226029d9ee7076e90a0006553">00046</a>         <span class="keyword">public</span> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html">JMAQuake</a>() : this(-1)
+<a name="l00047"></a>00047         {
+<a name="l00048"></a>00048 
+<a name="l00049"></a>00049         }
+<a name="l00050"></a>00050 
+<a name="l00051"></a><a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html#ac1a516f8cd46a1e81cb5ca859c1cb825">00051</a>         <span class="keyword">public</span> <a class="code" href="class_p2_p_quake_1_1_j_m_a_information_1_1_quake_1_1_j_m_a_quake.html">JMAQuake</a>(<span class="keywordtype">int</span> observationPointDefaultCapacity)
+<a name="l00052"></a>00052         {
+<a name="l00053"></a>00053             issueOf = <span class="stringliteral">&quot;&quot;</span>;
+<a name="l00054"></a>00054             issueTime = DateTime.MinValue;
+<a name="l00055"></a>00055             issueType = <a class="code" href="namespace_p2_p_quake_1_1_j_m_a_information_1_1_quake.html#aff99d0e87734895de2d3d4e4b335c3c8" title="発表の種類">IssueType</a>.Unknown;
+<a name="l00056"></a>00056             correctType = <a class="code" href="namespace_p2_p_quake_1_1_j_m_a_information_1_1_quake.html#a2ec71be3af2ab3839f78a2b6b0700575" title="訂正の有無">CorrectType</a>.Unknown;
+<a name="l00057"></a>00057 
+<a name="l00058"></a>00058             occuredTime = DateTime.MinValue;
+<a name="l00059"></a>00059             occuredPlace = <span class="stringliteral">&quot;&quot;</span>;
+<a name="l00060"></a>00060             occuredLatitude = -200;
+<a name="l00061"></a>00061             occuredLongitude = -200;
+<a name="l00062"></a>00062             occuredDepth = -1;
+<a name="l00063"></a>00063             occuredMagnitude = -1;
+<a name="l00064"></a>00064 
+<a name="l00065"></a>00065             occuredScale = -1;
+<a name="l00066"></a>00066 
+<a name="l00067"></a>00067             domesticTsunamiType = <a class="code" href="namespace_p2_p_quake_1_1_j_m_a_information_1_1_quake.html#a046099141da71749f6ef3d09af2eb6be" title="日本への津波の有無">DomesticTsunamiType</a>.Unknown;
+<a name="l00068"></a>00068             foreignTsunamiType = <a class="code" href="namespace_p2_p_quake_1_1_j_m_a_information_1_1_quake.html#a857d1733616c598bda16eb9d20a4ffa7" title="海外での津波の有無">ForeignTsunamiType</a>.Unknown;
+<a name="l00069"></a>00069 
+<a name="l00070"></a>00070             <span class="keywordflow">if</span> (observationPointDefaultCapacity &gt;= 0)
+<a name="l00071"></a>00071                     observationPoints = <span class="keyword">new</span> List&lt;ObservationPoint&gt;(observationPointDefaultCapacity); 
+<a name="l00072"></a>00072             <span class="keywordflow">else</span>
+<a name="l00073"></a>00073                     observationPoints = <span class="keyword">new</span> List&lt;ObservationPoint&gt;();
+<a name="l00074"></a>00074         }
+<a name="l00075"></a>00075     }
+<a name="l00076"></a>00076 }
+</pre></div></div><!-- contents -->
+</div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+<a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(0)"><span class="SelectionMark">&#160;</span>全て</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(1)"><span class="SelectionMark">&#160;</span>クラス</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(2)"><span class="SelectionMark">&#160;</span>ネームスペース</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(3)"><span class="SelectionMark">&#160;</span>ファイル</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(4)"><span class="SelectionMark">&#160;</span>関数</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(5)"><span class="SelectionMark">&#160;</span>変数</a><a class="SelectItem" href="javascript:void(0)" onclick="searchBox.OnSelectItem(6)"><span class="SelectionMark">&#160;</span>列挙型</a></div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+  <div id="nav-path" class="navpath">
+    <ul>
+      <li class="navelem"><a class="el" href="_j_m_a_quake_8cs.html">JMAQuake.cs</a>      </li>
+
+    <li class="footer">P2PQuakeに対してSun Aug 26 2012 21:26:51に生成されました。
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.7.6.1 </li>
+   </ul>
+ </div>
+
+
+</body>
+</html>
