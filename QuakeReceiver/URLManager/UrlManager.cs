@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Data.SQLite;
 
-namespace QuakeReceiver
+namespace QuakeReceiver.URLManager
 {
     public class UrlManager
     {

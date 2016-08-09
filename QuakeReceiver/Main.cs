@@ -1,16 +1,27 @@
 using System;
+using System.Data.Linq;
+using System.Net;
 using System.Collections.Generic;
 using P2PQuake.JMAInformation;
 using P2PQuake.JMAInformation.Quake.Convert.Receive;
+using QuakeReceiver.URLManager;
 
 namespace QuakeReceiver
 {
     class MainClass
     {
+        private static readonly string JMA_QUAKE_INDEX_URL = "http://www.jma.go.jp/jp/quake/";
+
         public static void Main (string[] args)
         {
             Console.WriteLine ("Launch at " + DateTime.Now.ToString ());
             Console.WriteLine ("Version " + System.Reflection.Assembly.GetExecutingAssembly().GetName ().Version.ToString());
+
+            // チェック実施判定
+            if (!hasCheckUpdate())
+            {
+                return;
+            }
 
             // URL管理
             UrlManager manager = new UrlManager();
@@ -41,6 +52,61 @@ namespace QuakeReceiver
             }
 
             Console.WriteLine ("Finish at " + DateTime.Now.ToString());
+        }
+
+        /// <summary>
+        /// 新規情報をチェックすべきかどうか判断します
+        /// </summary>
+        /// <returns></returns>
+        private static bool hasCheckUpdate()
+        {
+            UrlUpdateManager urlUpdateManager = new UrlUpdateManager();
+            long[] urlUpdateInfo = urlUpdateManager.getLastModified(JMA_QUAKE_INDEX_URL);
+
+            Console.Error.WriteLine("    現在日時: " + DateTime.Now);
+            Console.Error.WriteLine("最終確認日時: " + DateTime.FromBinary(urlUpdateInfo[1]));
+
+            // 更新確認から3分以内か？
+            if (DateTime.Now.Subtract(DateTime.FromBinary(urlUpdateInfo[1])).TotalSeconds < 200)
+            {
+                return true;
+            }
+
+            long lastModified = retreiveIndexLastModified();
+
+            Console.Error.WriteLine("更新日時(WEB): " + DateTime.FromBinary(lastModified));
+            Console.Error.WriteLine("更新日時(DB ): " + DateTime.FromBinary(urlUpdateInfo[0]));
+
+            // 更新されているか？
+            if (DateTime.FromBinary(lastModified) > DateTime.FromBinary(urlUpdateInfo[0]))
+            {
+                urlUpdateManager.setLastModified(JMA_QUAKE_INDEX_URL, lastModified, DateTime.Now.ToBinary());
+                return true;
+            }
+
+            return false;
+        }
+
+        /// <summary>
+        /// インデックスページの最終更新日時を取得する
+        /// </summary>
+        /// <returns></returns>
+        private static long retreiveIndexLastModified()
+        {
+            WebRequest webRequest = WebRequest.Create(JMA_QUAKE_INDEX_URL);
+            webRequest.Method = "HEAD";
+            WebResponse webResponse = webRequest.GetResponse();
+
+            DateTime lastModified = DateTime.MinValue;
+            foreach (string key in webResponse.Headers.Keys)
+            {
+                if (key.ToLower() == "last-modified")
+                {
+                    lastModified = DateTime.Parse(webResponse.Headers[key]);
+                }
+            }
+
+            return lastModified.ToBinary();
         }
     }
 }
