@@ -17,8 +17,8 @@ namespace QuakeReceiver
             Console.WriteLine ("Launch at " + DateTime.Now.ToString ());
             Console.WriteLine ("Version " + System.Reflection.Assembly.GetExecutingAssembly().GetName ().Version.ToString());
 
-            // チェック実施判定
-            if (!hasCheckUpdate())
+            // 実施判定
+            if (!hasToCheckUpdate())
             {
                 return;
             }
@@ -58,7 +58,7 @@ namespace QuakeReceiver
         /// 新規情報をチェックすべきかどうか判断します
         /// </summary>
         /// <returns></returns>
-        private static bool hasCheckUpdate()
+        private static bool hasToCheckUpdate()
         {
             UrlUpdateManager urlUpdateManager = new UrlUpdateManager();
             long[] urlUpdateInfo = urlUpdateManager.getLastModified(JMA_QUAKE_INDEX_URL);
