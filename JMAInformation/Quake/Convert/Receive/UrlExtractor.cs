@@ -35,7 +35,7 @@ namespace P2PQuake.JMAInformation.Quake.Convert.Receive
             List<string> list = new List<string>();
             
             foreach (string url in urls) {
-                System.Threading.Thread.Sleep (10000);
+                //System.Threading.Thread.Sleep (10000);
                 list.AddRange(ExtractUrls(url)); 
             }
             

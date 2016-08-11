@@ -40,7 +40,7 @@ namespace QuakeReceiver
 
             foreach (string url in newUrls)
             {
-                System.Threading.Thread.Sleep (10000);
+                System.Threading.Thread.Sleep(1000);
 
                 Console.WriteLine ("  new address: " + url);
 
@@ -48,7 +48,7 @@ namespace QuakeReceiver
                 if (fileName != null)
                     manager.addUrl (url);
                 else
-                    Console.WriteLine ("    ...fail!!");
+                    Console.WriteLine("    ...fail!!");
             }
 
             Console.WriteLine ("Finish at " + DateTime.Now.ToString());
