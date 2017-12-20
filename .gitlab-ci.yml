@@ -1,0 +1,18 @@
+stages:
+  - build
+  - test
+
+cache:
+ key: "$CI_PIPELINE_ID"
+ untracked: true
+
+build:
+ stage: build
+ script:
+    - msbuild Server.sln
+
+test_JMAInformation:
+ stage: test
+ script:
+    - msbuild Server.sln
+    - nunit-console TestJMAInformation/bin/Debug/TestJMAInformation.dll
