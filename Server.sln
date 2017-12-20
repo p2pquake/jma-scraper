@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuakeReceiver", "QuakeRecei
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuakeAnalyzer", "QuakeAnalyzer\QuakeAnalyzer.csproj", "{DA146290-2F63-4B69-9A83-7FE298C80609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJMAInformation", "TestJMAInformation\TestJMAInformation.csproj", "{E05754EB-589B-4799-9F7B-989DC489E611}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJMAInformation", "TestJMAInformation\TestJMAInformation.csproj", "{CAA09F17-1F87-4BD4-9042-725608F47334}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,13 +43,14 @@ Global
 		{DA146290-2F63-4B69-9A83-7FE298C80609}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DA146290-2F63-4B69-9A83-7FE298C80609}.Release|x86.ActiveCfg = Release|x86
 		{DA146290-2F63-4B69-9A83-7FE298C80609}.Release|x86.Build.0 = Release|x86
-		{E05754EB-589B-4799-9F7B-989DC489E611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E05754EB-589B-4799-9F7B-989DC489E611}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E05754EB-589B-4799-9F7B-989DC489E611}.Debug|x86.ActiveCfg = Debug|x86
-		{E05754EB-589B-4799-9F7B-989DC489E611}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E05754EB-589B-4799-9F7B-989DC489E611}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E05754EB-589B-4799-9F7B-989DC489E611}.Release|x86.ActiveCfg = Release|x86
-		{E05754EB-589B-4799-9F7B-989DC489E611}.Release|x86.Build.0 = Release|x86
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|x86.Build.0 = Debug|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|x86.ActiveCfg = Release|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
