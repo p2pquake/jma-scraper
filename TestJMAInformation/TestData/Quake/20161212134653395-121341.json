@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/12 13:46:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/12 13:41:00",
+    "hypocenter": {
+      "name": "新潟県中越地方",
+      "latitude": 37.1,
+      "longitude": 138.7,
+      "depth": 20,
+      "magnitude": 2.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "新潟県",
+      "addr": "十日町市松代",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

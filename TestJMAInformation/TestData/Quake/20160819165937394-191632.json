@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/08/19 16:59:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/08/19 16:32:00",
+    "hypocenter": {
+      "name": "サウスジョージア島",
+      "latitude": -55.3,
+      "longitude": -31.9,
+      "depth": -1,
+      "magnitude": 7.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Potential"
+  },
+  "points": []
+}

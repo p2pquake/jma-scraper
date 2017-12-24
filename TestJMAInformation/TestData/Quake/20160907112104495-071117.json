@@ -1,0 +1,90 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/07 11:21:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/07 11:17:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.4,
+      "longitude": 126.8,
+      "depth": 70,
+      "magnitude": 4.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "座間味村座間味",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "渡名喜村渡名喜",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "久米島町山城",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "久米島町謝名堂",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "久米島町仲泊",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "久米島町比嘉",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "国頭村辺土名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "粟国村浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "粟国村役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "豊見城市翁長",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "渡嘉敷村渡嘉敷",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

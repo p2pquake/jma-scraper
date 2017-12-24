@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/08/22 15:14:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/08/22 15:11:00",
+    "hypocenter": {
+      "name": "宮城県沖",
+      "latitude": 38.4,
+      "longitude": 142.2,
+      "depth": 30,
+      "magnitude": 5.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

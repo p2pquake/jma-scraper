@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/27 21:54:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/27 21:51:00",
+    "hypocenter": {
+      "name": "伊予灘",
+      "latitude": 33.3,
+      "longitude": 131.6,
+      "depth": 90,
+      "magnitude": 3.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "大分県",
+      "addr": "臼杵市臼杵",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

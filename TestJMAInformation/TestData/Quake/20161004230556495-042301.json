@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/04 23:05:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/04 23:01:00",
+    "hypocenter": {
+      "name": "父島近海",
+      "latitude": 27.9,
+      "longitude": 142.5,
+      "depth": 20,
+      "magnitude": 5.5
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "小笠原村父島西町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "小笠原村父島三日月山",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "小笠原村母島",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

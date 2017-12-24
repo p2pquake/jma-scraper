@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/08 17:26:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/08 17:20:00",
+    "hypocenter": {
+      "name": "熊本県阿蘇地方",
+      "latitude": 32.9,
+      "longitude": 131.0,
+      "depth": 20,
+      "magnitude": 2.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "南阿蘇村河陽",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

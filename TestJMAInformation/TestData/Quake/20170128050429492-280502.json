@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/28 5:04:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/28 5:02:00",
+    "hypocenter": {
+      "name": "徳島県北部",
+      "latitude": 33.9,
+      "longitude": 133.7,
+      "depth": 50,
+      "magnitude": 3.9
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

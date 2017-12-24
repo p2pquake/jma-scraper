@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/10/31 10:01:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/31 9:42:00",
+    "hypocenter": {
+      "name": "ローヤリティー諸島南東方",
+      "latitude": -21.7,
+      "longitude": 169.0,
+      "depth": -1,
+      "magnitude": 7.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "WarningNearby"
+  },
+  "points": []
+}

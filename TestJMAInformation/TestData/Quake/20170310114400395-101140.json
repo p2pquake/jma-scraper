@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/10 11:44:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/10 11:40:00",
+    "hypocenter": {
+      "name": "網走地方",
+      "latitude": 44.0,
+      "longitude": 145.0,
+      "depth": 10,
+      "magnitude": 2.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "羅臼町春日",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/21 7:01:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/21 6:59:00",
+    "hypocenter": {
+      "name": "茨城県沖",
+      "latitude": 35.9,
+      "longitude": 141.0,
+      "depth": 10,
+      "magnitude": 5.3
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

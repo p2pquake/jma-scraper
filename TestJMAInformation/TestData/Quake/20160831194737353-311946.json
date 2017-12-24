@@ -1,0 +1,60 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/08/31 19:47:00",
+    "type": "ScalePrompt",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/08/31 19:46:00",
+    "hypocenter": {
+      "name": "",
+      "latitude": -200.0,
+      "longitude": -200.0,
+      "depth": -1,
+      "magnitude": -1.0
+    },
+    "maxScale": 45,
+    "domesticTsunami": "Checking",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "熊本県熊本",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本県阿蘇",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本県天草・芦北",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "大分県",
+      "addr": "大分県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎県北部平野部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎県北部山沿い",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

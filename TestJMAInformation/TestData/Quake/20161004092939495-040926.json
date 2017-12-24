@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/04 9:29:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/04 9:26:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 27.4,
+      "longitude": 128.6,
+      "depth": 50,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "知名町瀬利覚",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

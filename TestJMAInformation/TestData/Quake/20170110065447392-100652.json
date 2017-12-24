@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/10 6:54:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/10 6:52:00",
+    "hypocenter": {
+      "name": "岐阜県美濃中西部",
+      "latitude": 35.8,
+      "longitude": 136.9,
+      "depth": 10,
+      "magnitude": 3.9
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

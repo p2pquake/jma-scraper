@@ -1,0 +1,60 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/25 20:51:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/25 20:48:00",
+    "hypocenter": {
+      "name": "兵庫県北部",
+      "latitude": 35.4,
+      "longitude": 134.7,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "兵庫県",
+      "addr": "養父市広谷",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "養父市八鹿町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "豊岡市日高町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "養父市大屋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "朝来市和田山町枚田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "朝来市和田山町柳原",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

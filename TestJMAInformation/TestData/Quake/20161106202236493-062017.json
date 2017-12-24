@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/11/06 20:22:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/06 20:17:00",
+    "hypocenter": {
+      "name": "福岡県北九州地方",
+      "latitude": 33.7,
+      "longitude": 131.0,
+      "depth": 10,
+      "magnitude": 3.3
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福岡県",
+      "addr": "福岡県北九州",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "行橋市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/20 18:07:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/20 18:03:00",
+    "hypocenter": {
+      "name": "種子島近海",
+      "latitude": 30.4,
+      "longitude": 130.4,
+      "depth": 70,
+      "magnitude": 3.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島十島村口之島出張所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "屋久島町尾之間",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

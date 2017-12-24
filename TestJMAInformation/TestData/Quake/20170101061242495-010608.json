@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/01 6:12:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/01 6:08:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.2,
+      "longitude": 128.9,
+      "depth": 10,
+      "magnitude": 4.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "国頭村辺土名",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

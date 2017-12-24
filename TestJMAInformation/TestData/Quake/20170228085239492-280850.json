@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/28 8:52:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/28 8:50:00",
+    "hypocenter": {
+      "name": "宮崎県南部平野部",
+      "latitude": 31.9,
+      "longitude": 131.2,
+      "depth": 10,
+      "magnitude": 3.7
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

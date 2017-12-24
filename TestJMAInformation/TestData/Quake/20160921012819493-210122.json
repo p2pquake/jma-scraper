@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/09/21 1:28:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/21 1:22:00",
+    "hypocenter": {
+      "name": "鳥島近海",
+      "latitude": 30.5,
+      "longitude": 142.3,
+      "depth": 10,
+      "magnitude": 6.3
+    },
+    "maxScale": -1,
+    "domesticTsunami": "NonEffective",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

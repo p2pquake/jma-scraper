@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/02 17:38:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/02 17:35:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.4,
+      "longitude": 128.7,
+      "depth": 10,
+      "magnitude": 4.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "国頭村辺土名",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

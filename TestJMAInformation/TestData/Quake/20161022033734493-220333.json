@@ -1,0 +1,90 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/10/22 3:37:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/22 3:33:00",
+    "hypocenter": {
+      "name": "日向灘",
+      "latitude": 32.8,
+      "longitude": 132.0,
+      "depth": 60,
+      "magnitude": 4.4
+    },
+    "maxScale": 40,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "大分県",
+      "addr": "大分県南部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本県阿蘇",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "大分県",
+      "addr": "大分県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎県北部平野部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎県北部山沿い",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "佐伯市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "産山村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "臼杵市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "津久見市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "延岡市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "宮崎美郷町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

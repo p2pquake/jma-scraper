@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/03 12:07:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/03 12:03:00",
+    "hypocenter": {
+      "name": "トカラ列島近海",
+      "latitude": 29.6,
+      "longitude": 129.7,
+      "depth": 0,
+      "magnitude": 2.8
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島十島村諏訪之瀬島",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/06/14 16:55:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/14 16:29:00",
+    "hypocenter": {
+      "name": "メキシコ、チアパス州沿岸",
+      "latitude": 14.9,
+      "longitude": -92.0,
+      "depth": -1,
+      "magnitude": 7.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "None"
+  },
+  "points": []
+}

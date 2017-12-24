@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/24 17:03:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/24 16:59:00",
+    "hypocenter": {
+      "name": "秋田県内陸北部",
+      "latitude": 40.1,
+      "longitude": 140.5,
+      "depth": 10,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市阿仁銀山",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

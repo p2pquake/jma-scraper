@@ -1,0 +1,60 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/30 11:50:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/30 11:48:00",
+    "hypocenter": {
+      "name": "石狩地方南部",
+      "latitude": 42.8,
+      "longitude": 141.5,
+      "depth": 10,
+      "magnitude": 2.9
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "千歳市若草",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "千歳市支笏湖温泉",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "千歳市北栄",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "恵庭市京町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "長沼町中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "苫小牧市旭町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

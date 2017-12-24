@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/18 5:07:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/18 5:03:00",
+    "hypocenter": {
+      "name": "トカラ列島近海",
+      "latitude": 29.8,
+      "longitude": 129.4,
+      "depth": 190,
+      "magnitude": 4.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "大崎町仮宿",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

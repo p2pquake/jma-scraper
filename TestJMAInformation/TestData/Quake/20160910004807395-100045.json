@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/10 0:48:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/10 0:45:00",
+    "hypocenter": {
+      "name": "網走沖",
+      "latitude": 44.3,
+      "longitude": 144.1,
+      "depth": 10,
+      "magnitude": 3.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "北見市常呂町常呂",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

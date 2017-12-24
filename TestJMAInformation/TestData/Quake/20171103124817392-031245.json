@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/03 12:48:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/03 12:45:00",
+    "hypocenter": {
+      "name": "十勝沖",
+      "latitude": 42.6,
+      "longitude": 143.8,
+      "depth": 60,
+      "magnitude": 5.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

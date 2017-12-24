@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/04 15:30:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/04 15:27:00",
+    "hypocenter": {
+      "name": "青森県東方沖",
+      "latitude": 41.2,
+      "longitude": 142.7,
+      "depth": 20,
+      "magnitude": 4.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "函館市泊町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "野辺地町野辺地",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

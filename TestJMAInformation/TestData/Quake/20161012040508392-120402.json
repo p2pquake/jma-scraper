@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/12 4:05:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/12 4:02:00",
+    "hypocenter": {
+      "name": "十勝地方南部",
+      "latitude": 42.3,
+      "longitude": 143.1,
+      "depth": 50,
+      "magnitude": 5.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

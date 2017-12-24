@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/09 16:47:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/09 16:42:00",
+    "hypocenter": {
+      "name": "八丈島東方沖",
+      "latitude": 32.2,
+      "longitude": 142.5,
+      "depth": 10,
+      "magnitude": 6.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "青ヶ島村",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

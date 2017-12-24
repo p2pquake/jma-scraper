@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/14 6:34:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/14 6:30:00",
+    "hypocenter": {
+      "name": "トカラ列島近海",
+      "latitude": 29.6,
+      "longitude": 129.7,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島十島村平島",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

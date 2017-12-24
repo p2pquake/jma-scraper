@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/31 15:37:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/31 15:34:00",
+    "hypocenter": {
+      "name": "京都府南部",
+      "latitude": 35.2,
+      "longitude": 135.5,
+      "depth": 10,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "京都府",
+      "addr": "京丹波町本庄",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

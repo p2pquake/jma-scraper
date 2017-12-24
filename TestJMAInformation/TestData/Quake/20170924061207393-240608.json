@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/09/24 6:12:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/24 6:08:00",
+    "hypocenter": {
+      "name": "伊豆大島近海",
+      "latitude": 34.8,
+      "longitude": 139.6,
+      "depth": 30,
+      "magnitude": 4.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "静岡県",
+      "addr": "静岡県伊豆",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "東伊豆町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

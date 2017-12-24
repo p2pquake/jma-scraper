@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/08 16:52:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/08 16:50:00",
+    "hypocenter": {
+      "name": "長野県南部",
+      "latitude": 35.9,
+      "longitude": 138.1,
+      "depth": 10,
+      "magnitude": 3.5
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/03/05 10:22:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/05 10:19:00",
+    "hypocenter": {
+      "name": "千葉県北東部",
+      "latitude": 35.7,
+      "longitude": 140.7,
+      "depth": 50,
+      "magnitude": 4.7
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "千葉県北東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "横芝光町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

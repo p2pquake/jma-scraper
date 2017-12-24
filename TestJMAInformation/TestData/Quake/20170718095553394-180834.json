@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/07/18 9:55:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/18 8:34:00",
+    "hypocenter": {
+      "name": "ロシア、コマンドル諸島",
+      "latitude": 54.5,
+      "longitude": 168.9,
+      "depth": -1,
+      "magnitude": 7.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "NonEffective",
+    "foreignTsunami": "WarningNearby"
+  },
+  "points": []
+}

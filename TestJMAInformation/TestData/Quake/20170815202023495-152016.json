@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/15 20:20:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/15 20:16:00",
+    "hypocenter": {
+      "name": "奄美大島近海",
+      "latitude": 28.5,
+      "longitude": 129.6,
+      "depth": 20,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "奄美市名瀬港町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

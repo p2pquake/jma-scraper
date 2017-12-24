@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/11 15:47:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/11 15:44:00",
+    "hypocenter": {
+      "name": "北海道南西沖",
+      "latitude": 41.7,
+      "longitude": 138.9,
+      "depth": 10,
+      "magnitude": 3.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "八雲町熊石雲石町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

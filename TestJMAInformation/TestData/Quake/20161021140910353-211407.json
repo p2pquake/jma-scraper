@@ -1,0 +1,204 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/10/21 14:09:00",
+    "type": "ScalePrompt",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/21 14:07:00",
+    "hypocenter": {
+      "name": "",
+      "latitude": -200.0,
+      "longitude": -200.0,
+      "depth": -1,
+      "magnitude": -1.0
+    },
+    "maxScale": 55,
+    "domesticTsunami": "Checking",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取県中部",
+      "scale": 55,
+      "isArea": true
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取県東部",
+      "scale": 50,
+      "isArea": true
+    },
+    {
+      "pref": "岡山県",
+      "addr": "岡山県北部",
+      "scale": 50,
+      "isArea": true
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取県西部",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根県隠岐",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "京都",
+      "addr": "京都府北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪府北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県南西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県淡路島",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根県東部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根県西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "岡山県",
+      "addr": "岡山県南部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島県北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島県南東部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島県南西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "香川県",
+      "addr": "香川県東部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "香川県",
+      "addr": "香川県西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "山口県",
+      "addr": "山口県東部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "福井県",
+      "addr": "福井県嶺南",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "滋賀県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "京都",
+      "addr": "京都府南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪府南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県南東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "徳島県",
+      "addr": "徳島県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "徳島県",
+      "addr": "徳島県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛媛県東予",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛媛県中予",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "高知県",
+      "addr": "高知県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "高知県",
+      "addr": "高知県中部",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

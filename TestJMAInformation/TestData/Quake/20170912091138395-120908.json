@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/12 9:11:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/12 9:08:00",
+    "hypocenter": {
+      "name": "福島県会津",
+      "latitude": 37.1,
+      "longitude": 139.3,
+      "depth": 10,
+      "magnitude": 1.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福島県",
+      "addr": "檜枝岐村上河原",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

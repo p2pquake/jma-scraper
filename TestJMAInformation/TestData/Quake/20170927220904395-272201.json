@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/27 22:09:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/27 22:01:00",
+    "hypocenter": {
+      "name": "岩手県内陸北部",
+      "latitude": 40.2,
+      "longitude": 141.1,
+      "depth": 10,
+      "magnitude": 1.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岩手県",
+      "addr": "二戸市浄法寺町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/12/09 5:10:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/09 2:39:00",
+    "hypocenter": {
+      "name": "ソロモン諸島",
+      "latitude": -10.7,
+      "longitude": 161.4,
+      "depth": -1,
+      "magnitude": 7.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "NonEffective",
+    "foreignTsunami": "WarningPacific"
+  },
+  "points": []
+}

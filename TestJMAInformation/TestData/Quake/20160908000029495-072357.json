@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/08 0:00:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/07 23:57:00",
+    "hypocenter": {
+      "name": "熊本県阿蘇地方",
+      "latitude": 32.9,
+      "longitude": 131.1,
+      "depth": 10,
+      "magnitude": 2.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "南阿蘇村中松",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

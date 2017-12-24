@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/05 14:01:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/05 13:58:00",
+    "hypocenter": {
+      "name": "宮古島近海",
+      "latitude": 24.8,
+      "longitude": 125.1,
+      "depth": 20,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "宮古島市伊良部国仲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "宮古島市伊良部長浜",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

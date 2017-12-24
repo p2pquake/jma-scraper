@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/08/25 4:12:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/08/25 4:09:00",
+    "hypocenter": {
+      "name": "大分県中部",
+      "latitude": 33.3,
+      "longitude": 131.5,
+      "depth": 10,
+      "magnitude": 2.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "大分県",
+      "addr": "別府市鶴見",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

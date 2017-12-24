@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/14 8:07:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/14 8:03:00",
+    "hypocenter": {
+      "name": "福岡県北西沖",
+      "latitude": 33.7,
+      "longitude": 130.3,
+      "depth": 20,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福岡県",
+      "addr": "春日市原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "福岡古賀市駅東",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

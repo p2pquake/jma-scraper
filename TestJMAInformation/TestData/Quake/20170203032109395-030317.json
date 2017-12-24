@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/03 3:21:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/03 3:17:00",
+    "hypocenter": {
+      "name": "岐阜県美濃中西部",
+      "latitude": 35.4,
+      "longitude": 136.9,
+      "depth": 10,
+      "magnitude": 2.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "愛知県",
+      "addr": "犬山市五郎丸",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

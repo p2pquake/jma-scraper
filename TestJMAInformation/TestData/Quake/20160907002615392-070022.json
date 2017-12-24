@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/07 0:26:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/07 0:22:00",
+    "hypocenter": {
+      "name": "宮古島近海",
+      "latitude": 24.8,
+      "longitude": 125.3,
+      "depth": 50,
+      "magnitude": 4.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

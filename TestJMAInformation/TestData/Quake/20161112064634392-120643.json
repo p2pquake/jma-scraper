@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/12 6:46:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/12 6:43:00",
+    "hypocenter": {
+      "name": "宮城県沖",
+      "latitude": 38.5,
+      "longitude": 141.6,
+      "depth": 60,
+      "magnitude": 5.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

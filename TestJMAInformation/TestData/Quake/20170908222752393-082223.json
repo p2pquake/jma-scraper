@@ -1,0 +1,72 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/09/08 22:27:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/08 22:23:00",
+    "hypocenter": {
+      "name": "秋田県内陸南部",
+      "latitude": 39.5,
+      "longitude": 140.4,
+      "depth": 10,
+      "magnitude": 5.3
+    },
+    "maxScale": 50,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "秋田県",
+      "addr": "秋田県内陸南部",
+      "scale": 50,
+      "isArea": true
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩手県内陸北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩手県内陸南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "秋田県",
+      "addr": "秋田県沿岸北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "秋田県",
+      "addr": "秋田県沿岸南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "秋田県",
+      "addr": "秋田県内陸北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "大仙市",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "仙北市",
+      "scale": 40,
+      "isArea": false
+    }
+  ]
+}

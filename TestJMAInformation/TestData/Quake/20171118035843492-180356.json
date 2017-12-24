@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/18 3:58:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/18 3:56:00",
+    "hypocenter": {
+      "name": "有明海",
+      "latitude": 32.8,
+      "longitude": 130.6,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

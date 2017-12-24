@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/14 12:59:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/14 12:57:00",
+    "hypocenter": {
+      "name": "日高地方西部",
+      "latitude": 42.8,
+      "longitude": 142.7,
+      "depth": 90,
+      "magnitude": 4.5
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

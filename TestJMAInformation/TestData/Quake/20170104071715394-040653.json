@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/01/04 7:17:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/04 6:53:00",
+    "hypocenter": {
+      "name": "フィジー諸島南方",
+      "latitude": -19.5,
+      "longitude": 176.2,
+      "depth": -1,
+      "magnitude": 7.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "WarningNearby"
+  },
+  "points": []
+}

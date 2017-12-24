@@ -1,0 +1,168 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/04 11:06:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/04 11:02:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.3,
+      "longitude": 127.8,
+      "depth": 20,
+      "magnitude": 3.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "西原町与那城",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "与那原町上与那原",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南風原町兼城",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "八重瀬町東風平",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市玉城富里",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市佐敷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市大里仲間",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "那覇市樋川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "那覇空港",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "那覇市港町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "宜野湾市野嵩",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "浦添市安波茶",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "糸満市潮崎町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄市美里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "北中城村喜舎場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "中城村当間",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "豊見城市翁長",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市みどり町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市石川石崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市与那城平安座",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市与那城饒辺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "八重瀬町具志頭",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市玉城字玉城",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市知念久手堅",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

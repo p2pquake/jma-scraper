@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/09/25 20:51:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/25 20:48:00",
+    "hypocenter": {
+      "name": "兵庫県北部",
+      "latitude": 35.4,
+      "longitude": 134.7,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "養父市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

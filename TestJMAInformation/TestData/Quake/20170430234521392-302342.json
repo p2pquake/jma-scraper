@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/30 23:45:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/30 23:42:00",
+    "hypocenter": {
+      "name": "十勝地方南部",
+      "latitude": 42.3,
+      "longitude": 143.1,
+      "depth": 50,
+      "magnitude": 5.5
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

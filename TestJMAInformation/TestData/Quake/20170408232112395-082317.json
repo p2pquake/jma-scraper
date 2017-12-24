@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/08 23:21:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/08 23:17:00",
+    "hypocenter": {
+      "name": "八丈島東方沖",
+      "latitude": 32.8,
+      "longitude": 140.2,
+      "depth": 40,
+      "magnitude": 4.5
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "青ヶ島村",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "八丈町富士グランド",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

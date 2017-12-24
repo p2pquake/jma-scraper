@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/01 9:32:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/01 9:29:00",
+    "hypocenter": {
+      "name": "トカラ列島近海",
+      "latitude": 28.3,
+      "longitude": 128.8,
+      "depth": 70,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "瀬戸内町西古見",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

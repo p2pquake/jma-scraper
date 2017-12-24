@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/01/28 5:05:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/28 5:02:00",
+    "hypocenter": {
+      "name": "徳島県北部",
+      "latitude": 33.9,
+      "longitude": 133.7,
+      "depth": 50,
+      "magnitude": 3.9
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "高知県",
+      "addr": "高知県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "土佐町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

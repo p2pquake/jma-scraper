@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/19 1:47:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/19 1:44:00",
+    "hypocenter": {
+      "name": "留萌地方南部",
+      "latitude": 44.1,
+      "longitude": 141.7,
+      "depth": 20,
+      "magnitude": 3.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "小平町鬼鹿",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "小平町達布",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

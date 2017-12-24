@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/13 8:43:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/13 8:41:00",
+    "hypocenter": {
+      "name": "福島県会津",
+      "latitude": 37.4,
+      "longitude": 139.7,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

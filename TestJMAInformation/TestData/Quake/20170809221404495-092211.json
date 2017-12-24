@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/09 22:14:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/09 22:11:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.3,
+      "longitude": 127.3,
+      "depth": 60,
+      "magnitude": 3.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "久米島町山城",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

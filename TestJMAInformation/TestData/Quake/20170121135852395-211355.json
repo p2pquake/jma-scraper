@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/21 13:58:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/21 13:55:00",
+    "hypocenter": {
+      "name": "福井県嶺北",
+      "latitude": 36.2,
+      "longitude": 136.2,
+      "depth": 10,
+      "magnitude": 2.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福井県",
+      "addr": "福井坂井市三国町中央",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

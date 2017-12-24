@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/04 14:51:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/04 14:45:00",
+    "hypocenter": {
+      "name": "岐阜県美濃中西部",
+      "latitude": 35.4,
+      "longitude": 136.6,
+      "depth": 10,
+      "magnitude": 1.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "本巣市下真桑",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

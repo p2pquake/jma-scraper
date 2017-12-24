@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/07 12:30:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/07 12:26:00",
+    "hypocenter": {
+      "name": "福岡県北九州地方",
+      "latitude": 33.7,
+      "longitude": 131.0,
+      "depth": 10,
+      "magnitude": 2.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福岡県",
+      "addr": "行橋市今井",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

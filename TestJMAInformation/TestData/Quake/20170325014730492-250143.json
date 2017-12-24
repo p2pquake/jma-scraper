@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/25 1:47:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/25 1:43:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.9,
+      "longitude": 127.2,
+      "depth": 90,
+      "magnitude": 5.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

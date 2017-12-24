@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/01/10 15:39:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/10 15:14:00",
+    "hypocenter": {
+      "name": "セレベス海",
+      "latitude": 4.5,
+      "longitude": 122.7,
+      "depth": 590,
+      "magnitude": 7.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "None"
+  },
+  "points": []
+}

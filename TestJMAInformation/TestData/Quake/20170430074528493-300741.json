@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/04/30 7:45:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/30 7:41:00",
+    "hypocenter": {
+      "name": "石垣島近海",
+      "latitude": 24.4,
+      "longitude": 124.2,
+      "depth": 20,
+      "magnitude": 4.2
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄県石垣島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "石垣市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

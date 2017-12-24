@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/07 21:22:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/07 21:15:00",
+    "hypocenter": {
+      "name": "石狩地方中部",
+      "latitude": 43.0,
+      "longitude": 141.4,
+      "depth": 10,
+      "magnitude": 2.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "札幌厚別区もみじ台",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

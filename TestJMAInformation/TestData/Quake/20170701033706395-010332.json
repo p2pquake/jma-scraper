@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/01 3:37:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/01 3:32:00",
+    "hypocenter": {
+      "name": "長野県南部",
+      "latitude": 36.0,
+      "longitude": 138.0,
+      "depth": 10,
+      "magnitude": 2.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "諏訪市湖岸通り",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

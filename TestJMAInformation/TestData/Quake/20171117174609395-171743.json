@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/17 17:46:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/17 17:43:00",
+    "hypocenter": {
+      "name": "宗谷地方南部",
+      "latitude": 45.0,
+      "longitude": 142.3,
+      "depth": 10,
+      "magnitude": 2.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "幌延町宮園町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/23 9:01:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/23 8:59:00",
+    "hypocenter": {
+      "name": "岩手県沖",
+      "latitude": 39.3,
+      "longitude": 142.1,
+      "depth": 50,
+      "magnitude": 4.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

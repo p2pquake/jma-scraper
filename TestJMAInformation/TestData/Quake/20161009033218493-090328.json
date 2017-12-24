@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/10/09 3:32:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/09 3:28:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.7,
+      "longitude": 127.5,
+      "depth": 60,
+      "magnitude": 4.3
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄県本島中南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "中城村",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

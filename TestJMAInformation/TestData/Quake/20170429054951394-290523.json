@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/04/29 5:49:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/29 5:23:00",
+    "hypocenter": {
+      "name": "フィリピン諸島、ミンダナオ",
+      "latitude": 5.5,
+      "longitude": 125.1,
+      "depth": -1,
+      "magnitude": 7.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "NonEffective",
+    "foreignTsunami": "WarningNearby"
+  },
+  "points": []
+}

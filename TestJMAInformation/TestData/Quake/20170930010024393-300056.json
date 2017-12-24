@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/09/30 1:00:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/30 0:56:00",
+    "hypocenter": {
+      "name": "岐阜県飛騨地方",
+      "latitude": 36.2,
+      "longitude": 137.5,
+      "depth": -1,
+      "magnitude": 2.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜県飛騨",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "高山市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

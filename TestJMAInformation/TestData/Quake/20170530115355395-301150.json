@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/30 11:53:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/30 11:50:00",
+    "hypocenter": {
+      "name": "青森県下北地方",
+      "latitude": 41.4,
+      "longitude": 141.0,
+      "depth": 0,
+      "magnitude": 0.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "青森県",
+      "addr": "むつ市大畑町奥薬研",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

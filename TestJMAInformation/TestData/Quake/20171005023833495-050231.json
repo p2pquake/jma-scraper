@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/05 2:38:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/05 2:31:00",
+    "hypocenter": {
+      "name": "滋賀県北部",
+      "latitude": 35.4,
+      "longitude": 136.0,
+      "depth": 10,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "滋賀県",
+      "addr": "高島市朽木柏",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

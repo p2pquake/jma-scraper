@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/07 8:35:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/07 8:33:00",
+    "hypocenter": {
+      "name": "内浦湾",
+      "latitude": 41.9,
+      "longitude": 141.0,
+      "depth": 10,
+      "magnitude": 3.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

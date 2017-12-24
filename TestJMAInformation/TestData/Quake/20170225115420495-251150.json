@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/25 11:54:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/25 11:50:00",
+    "hypocenter": {
+      "name": "奄美大島北東沖",
+      "latitude": 29.4,
+      "longitude": 130.8,
+      "depth": 30,
+      "magnitude": 4.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島十島村中之島徳之尾",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

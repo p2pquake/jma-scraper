@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/07 14:33:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/07 14:29:00",
+    "hypocenter": {
+      "name": "網走地方",
+      "latitude": 44.0,
+      "longitude": 145.0,
+      "depth": 10,
+      "magnitude": 2.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "斜里町ウトロ香川",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

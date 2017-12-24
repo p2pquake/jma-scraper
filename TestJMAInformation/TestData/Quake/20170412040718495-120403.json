@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/12 4:07:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/12 4:03:00",
+    "hypocenter": {
+      "name": "四国沖",
+      "latitude": 33.5,
+      "longitude": 134.5,
+      "depth": 40,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "徳島県",
+      "addr": "那賀町和食",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

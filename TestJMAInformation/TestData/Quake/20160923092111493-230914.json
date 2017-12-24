@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/09/23 9:21:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/23 9:14:00",
+    "hypocenter": {
+      "name": "関東東方沖",
+      "latitude": 34.4,
+      "longitude": 141.7,
+      "depth": 10,
+      "magnitude": 6.5
+    },
+    "maxScale": -1,
+    "domesticTsunami": "NonEffective",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

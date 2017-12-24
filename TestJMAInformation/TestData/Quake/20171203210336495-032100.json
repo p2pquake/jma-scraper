@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/12/03 21:03:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/03 21:00:00",
+    "hypocenter": {
+      "name": "和歌山県北部",
+      "latitude": 34.3,
+      "longitude": 135.4,
+      "depth": 10,
+      "magnitude": 2.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "和歌山県",
+      "addr": "紀の川市桃山町元",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

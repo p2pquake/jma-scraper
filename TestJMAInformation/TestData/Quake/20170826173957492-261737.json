@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/26 17:39:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/26 17:37:00",
+    "hypocenter": {
+      "name": "和歌山県北部",
+      "latitude": 34.0,
+      "longitude": 135.2,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

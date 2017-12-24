@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/22 18:34:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/22 18:29:00",
+    "hypocenter": {
+      "name": "八丈島東方沖",
+      "latitude": 32.4,
+      "longitude": 140.2,
+      "depth": 100,
+      "magnitude": 4.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "青ヶ島村",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

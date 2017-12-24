@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/25 20:50:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/25 20:48:00",
+    "hypocenter": {
+      "name": "兵庫県北部",
+      "latitude": 35.4,
+      "longitude": 134.7,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

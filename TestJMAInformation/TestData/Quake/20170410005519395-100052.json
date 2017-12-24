@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/10 0:55:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/10 0:52:00",
+    "hypocenter": {
+      "name": "伊豆大島近海",
+      "latitude": 34.7,
+      "longitude": 139.3,
+      "depth": 0,
+      "magnitude": 2.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "伊豆大島町元町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

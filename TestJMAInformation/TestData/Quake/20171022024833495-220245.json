@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/22 2:48:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/22 2:45:00",
+    "hypocenter": {
+      "name": "新潟県上中越沖",
+      "latitude": 37.4,
+      "longitude": 138.4,
+      "depth": 30,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "新潟県",
+      "addr": "上越市柿崎区柿崎",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

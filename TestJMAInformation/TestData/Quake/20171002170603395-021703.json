@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/02 17:06:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/02 17:03:00",
+    "hypocenter": {
+      "name": "石狩地方中部",
+      "latitude": 42.8,
+      "longitude": 141.2,
+      "depth": 0,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "千歳市支笏湖温泉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "喜茂別町喜茂別",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "胆振伊達市大滝区本町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

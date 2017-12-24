@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/24 11:23:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/24 11:18:00",
+    "hypocenter": {
+      "name": "トカラ列島近海",
+      "latitude": 29.2,
+      "longitude": 129.2,
+      "depth": 10,
+      "magnitude": 2.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島十島村小宝島",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

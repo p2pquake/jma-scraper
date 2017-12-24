@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/30 16:58:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/30 16:55:00",
+    "hypocenter": {
+      "name": "種子島近海",
+      "latitude": 30.3,
+      "longitude": 131.0,
+      "depth": 20,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "南種子町西之",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "南種子町中之上",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/26 14:25:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/26 14:20:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 27.4,
+      "longitude": 128.6,
+      "depth": 40,
+      "magnitude": 5.7
+    },
+    "maxScale": 45,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "知名町瀬利覚",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "瀬戸内町与路島",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "和泊町国頭",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "和泊町和泊",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "与論町茶花",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "瀬戸内町請島",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "瀬戸内町加計呂麻島",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "奄美市名瀬港町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "徳之島町亀津",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "天城町平土野",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "伊仙町伊仙",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "知名町知名",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "与論町麦屋",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "大和村思勝",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "宇検村湯湾",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "瀬戸内町西古見",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "瀬戸内町古仁屋",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "奄美市笠利町里",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "奄美市名瀬幸町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "奄美市住用町西仲間",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "天城町当部",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島十島村悪石島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "龍郷町屋入",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "龍郷町浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "喜界町滝川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "喜界町湾",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "名護市港",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "国頭村奥",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "国頭村辺土名",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "東村平良",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "今帰仁村仲宗根",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "本部町役場",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "恩納村恩納",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "伊平屋村我喜屋",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "伊平屋村役場",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "名護市宮里",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "名護市豊原",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "大宜味村大兼久",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "宜野座村宜野座",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "金武町金武",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "伊是名村仲田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "那覇市樋川",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "那覇市港町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "宜野湾市野嵩",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "浦添市安波茶",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "糸満市潮崎町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄市美里",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "読谷村座喜味",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "北谷町桑江",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "北中城村喜舎場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "中城村当間",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "西原町与那城",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "豊見城市翁長",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "与那原町上与那原",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南風原町兼城",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "渡嘉敷村渡嘉敷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "座間味村座間味",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市みどり町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市石川石崎",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市与那城平安座",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市与那城饒辺",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "八重瀬町具志頭",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "八重瀬町東風平",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市玉城字玉城",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市知念久手堅",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市玉城富里",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市佐敷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市大里仲間",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "伊江村東江前",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "粟国村浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "那覇空港",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "嘉手納町嘉手納",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "渡名喜村渡名喜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "久米島町謝名堂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "久米島町比嘉",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

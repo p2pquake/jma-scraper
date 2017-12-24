@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/20 20:15:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/20 20:12:00",
+    "hypocenter": {
+      "name": "群馬県北部",
+      "latitude": 36.6,
+      "longitude": 139.3,
+      "depth": 10,
+      "magnitude": 3.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

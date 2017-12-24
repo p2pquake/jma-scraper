@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/15 1:49:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/15 1:46:00",
+    "hypocenter": {
+      "name": "石川県能登地方",
+      "latitude": 37.3,
+      "longitude": 137.1,
+      "depth": 10,
+      "magnitude": 2.7
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "石川県",
+      "addr": "能登町宇出津",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

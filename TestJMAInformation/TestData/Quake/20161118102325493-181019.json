@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/11/18 10:23:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/18 10:19:00",
+    "hypocenter": {
+      "name": "福岡県北西沖",
+      "latitude": 33.7,
+      "longitude": 130.2,
+      "depth": 10,
+      "magnitude": 4.2
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福岡県",
+      "addr": "福岡県福岡",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "福岡博多区",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

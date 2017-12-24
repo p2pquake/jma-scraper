@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/28 8:24:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/28 8:19:00",
+    "hypocenter": {
+      "name": "留萌地方南部",
+      "latitude": 44.0,
+      "longitude": 141.9,
+      "depth": 0,
+      "magnitude": 1.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "小平町達布",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/27 5:24:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/27 5:22:00",
+    "hypocenter": {
+      "name": "岩手県沖",
+      "latitude": 40.3,
+      "longitude": 142.5,
+      "depth": 30,
+      "magnitude": 6.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

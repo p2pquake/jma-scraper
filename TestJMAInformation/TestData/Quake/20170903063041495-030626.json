@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/03 6:30:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/03 6:26:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.3,
+      "longitude": 128.5,
+      "depth": 10,
+      "magnitude": 4.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "国頭村辺土名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市与那城饒辺",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

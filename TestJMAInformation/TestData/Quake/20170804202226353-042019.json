@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/08/04 20:22:00",
+    "type": "ScalePrompt",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/04 20:19:00",
+    "hypocenter": {
+      "name": "",
+      "latitude": -200.0,
+      "longitude": -200.0,
+      "depth": -1,
+      "magnitude": -1.0
+    },
+    "maxScale": 30,
+    "domesticTsunami": "Checking",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄県石垣島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄県与那国島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄県西表島",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/27 21:02:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/27 20:59:00",
+    "hypocenter": {
+      "name": "福島県浜通り",
+      "latitude": 37.1,
+      "longitude": 140.8,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福島県",
+      "addr": "いわき市三和町",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/10 9:28:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/10 9:25:00",
+    "hypocenter": {
+      "name": "熊本県阿蘇地方",
+      "latitude": 33.0,
+      "longitude": 131.2,
+      "depth": 0,
+      "magnitude": 2.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "産山村山鹿",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

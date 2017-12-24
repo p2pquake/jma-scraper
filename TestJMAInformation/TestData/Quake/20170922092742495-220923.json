@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/22 9:27:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/22 9:23:00",
+    "hypocenter": {
+      "name": "トカラ列島近海",
+      "latitude": 29.3,
+      "longitude": 128.9,
+      "depth": 0,
+      "magnitude": 4.2
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島十島村小宝島",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島十島村悪石島",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

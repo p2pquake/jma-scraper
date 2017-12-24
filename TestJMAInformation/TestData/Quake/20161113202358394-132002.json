@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/11/13 20:23:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/13 20:02:00",
+    "hypocenter": {
+      "name": "ニュージーランド、南島",
+      "latitude": -42.8,
+      "longitude": 173.0,
+      "depth": -1,
+      "magnitude": 7.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Potential"
+  },
+  "points": []
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/02 10:12:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/02 10:07:00",
+    "hypocenter": {
+      "name": "岡山県北部",
+      "latitude": 34.9,
+      "longitude": 133.4,
+      "depth": 20,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "広島県",
+      "addr": "庄原市東城町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

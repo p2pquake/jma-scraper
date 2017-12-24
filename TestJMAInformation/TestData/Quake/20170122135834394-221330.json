@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/01/22 13:58:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/22 13:30:00",
+    "hypocenter": {
+      "name": "ソロモン諸島",
+      "latitude": -6.1,
+      "longitude": 155.2,
+      "depth": 170,
+      "magnitude": 8.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "None"
+  },
+  "points": []
+}

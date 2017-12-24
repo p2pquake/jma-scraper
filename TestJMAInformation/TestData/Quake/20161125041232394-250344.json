@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/11/25 4:12:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/25 3:44:00",
+    "hypocenter": {
+      "name": "中央アメリカ沖",
+      "latitude": 11.9,
+      "longitude": -88.9,
+      "depth": -1,
+      "magnitude": 7.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "WarningNearby"
+  },
+  "points": []
+}

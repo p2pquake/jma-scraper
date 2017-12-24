@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/13 14:25:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/13 14:22:00",
+    "hypocenter": {
+      "name": "土佐湾",
+      "latitude": 33.4,
+      "longitude": 133.7,
+      "depth": 40,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "高知県",
+      "addr": "室戸市浮津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "馬路村馬路",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "香美市香北町美良布",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

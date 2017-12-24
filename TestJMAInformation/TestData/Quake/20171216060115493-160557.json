@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/12/16 6:01:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/16 5:57:00",
+    "hypocenter": {
+      "name": "大阪湾",
+      "latitude": 34.4,
+      "longitude": 134.9,
+      "depth": 10,
+      "magnitude": 3.6
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県淡路島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "洲本市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

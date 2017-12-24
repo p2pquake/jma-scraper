@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/09 21:42:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/09 21:39:00",
+    "hypocenter": {
+      "name": "熊本県熊本地方",
+      "latitude": 32.8,
+      "longitude": 130.8,
+      "depth": 10,
+      "magnitude": 3.5
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

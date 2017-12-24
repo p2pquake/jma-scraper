@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/12/17 14:20:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/17 14:17:00",
+    "hypocenter": {
+      "name": "津軽海峡",
+      "latitude": 41.7,
+      "longitude": 141.0,
+      "depth": 10,
+      "magnitude": 2.7
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "函館市泊町",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

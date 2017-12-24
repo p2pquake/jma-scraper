@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/10 17:47:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/10 17:44:00",
+    "hypocenter": {
+      "name": "浦河沖",
+      "latitude": 41.7,
+      "longitude": 142.9,
+      "depth": 50,
+      "magnitude": 5.7
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

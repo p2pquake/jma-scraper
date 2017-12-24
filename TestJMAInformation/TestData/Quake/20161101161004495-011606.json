@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/01 16:10:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/01 16:06:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 25.9,
+      "longitude": 126.1,
+      "depth": 40,
+      "magnitude": 3.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "久米島町謝名堂",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

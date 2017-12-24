@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/09/12 20:37:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/12 20:32:00",
+    "hypocenter": {
+      "name": "朝鮮半島南部",
+      "latitude": 35.8,
+      "longitude": 129.2,
+      "depth": 10,
+      "magnitude": 5.7
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長崎県",
+      "addr": "長崎県対馬",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "長崎対馬市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

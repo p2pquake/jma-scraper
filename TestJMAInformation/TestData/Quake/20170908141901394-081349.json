@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/09/08 14:19:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/08 13:49:00",
+    "hypocenter": {
+      "name": "メキシコ、チアパス州沖",
+      "latitude": 14.9,
+      "longitude": -94.0,
+      "depth": -1,
+      "magnitude": 8.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "Checking",
+    "foreignTsunami": "WarningPacificWide"
+  },
+  "points": []
+}

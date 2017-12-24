@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/01 10:27:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/01 10:25:00",
+    "hypocenter": {
+      "name": "茨城県北部",
+      "latitude": 36.9,
+      "longitude": 140.6,
+      "depth": 10,
+      "magnitude": 4.9
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

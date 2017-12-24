@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/27 11:58:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/27 11:55:00",
+    "hypocenter": {
+      "name": "薩摩半島西方沖",
+      "latitude": 31.6,
+      "longitude": 129.6,
+      "depth": 0,
+      "magnitude": 3.2
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "薩摩川内市下甑町手打",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}
