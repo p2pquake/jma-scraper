@@ -1,0 +1,615 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta name="Author" content="気象庁 Japan Meteorological Agency">
+<meta name="keywords" content="気象庁 Japan Meteorological Agency">
+<title>気象庁 | 津波警報・注意報、津波情報、津波予報</title>
+<link rel="stylesheet" media="print" type="text/css" href="../common/print.css">
+<link href="../common/default.css" rel="stylesheet" type="text/css" media="all">
+<link href="../common/weather_info_v2.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/tsunami.css" rel="stylesheet" type="text/css" media="all">
+<script src="../common/weather_info.js" type="text/javascript"></script>
+<style type="text/css" media="print">
+<!-- #infoComment2, #tsunamiGuide, #textLink, #mapComment {display: none;} -->
+</style>
+<script language="javascript">
+function jump( url ) {document.location.href = url;}
+function goDistrict(value){
+var path = "observation";
+if (value && value != "") {path += ("_" + value);}
+ path += ("_" + "04");  path += ("_" + "20110312013750"); path += ".html";
+document.location.href=path;
+}
+function visible( id ) {
+obj = document.getElementById(id);
+obj.style.visibility = "visible";
+}
+function hidden( id ) {
+obj = document.getElementById(id);
+obj.style.visibility = "hidden";
+}
+function init() {submenu_control();}
+</script>
+</head>
+<body onLoad="init()" onresize="javascript:submenu_control();">
+<a name="top"></a>
+<div id="top">
+<div id="logo">
+<a href="/"><img src="/jp/common/logo.gif" alt="気象庁 Japan Meteorological Agency" height="47" width="120"></a><a href="#content"><img src="/jp/common/spacer.gif" alt="メニューを飛ばして内容を読み上げる" height="1" width="1"></a></div>
+<div id="head1" lang="en">
+<a href="/jma/indexe.html">English</a></div>
+<div id="head2">
+<a href="http://www.jma.go.jp/jma/kishou/sitemap.html">サイトマップ</a> <a href="/jma/kensaku.html">サイト内検索</a> <a href="http://www.jma.go.jp/jma/kishou/info/goiken.html">ご意見・ご感想</a></div>
+<table id="global" summary="layout" cellspacing="0" cellpadding="0">
+<tr>
+<td class="side"><a href="/">
+<div>ホーム</div>
+</a></td>
+<td class="side"><a href="/jma/menu/flash.html">
+<div class="here">防災気象情報</div>
+</a></td>
+<td class="side"><a href="/jma/menu/report.html">
+<div>気象統計情報</div>
+</a></td>
+<td class="side"><a href="/jma/menu/knowledge.html">
+<div>気象等の知識</div>
+</a></td>
+<td class="side"><a href="/jma/menu/about.html">
+<div>気象庁について</div>
+</a></td>
+<td><a href="/jma/menu/links.html">
+<div>案内・申請・リンク</div>
+</a></td>
+</tr>
+</table>
+<div id="nesting">
+<a href="http://www.jma.go.jp/">ホーム</a> &gt; <a href="../../jma/menu/flash.html">防災気象情報</a> &gt; 津波警報・注意報、津波情報、津波予報</a>
+</div>
+</div>
+<div id="base">
+<div id="sidebar">
+<div id="submenu" class="sidemenu">
+<table border="0" cellspacing="0" cellpadding="0">
+<td></td>
+<td></td>
+<colgroup>
+<col class="col1">
+</colgroup>
+<colgroup>
+<col class="col2">
+</colgroup>
+<ul>
+<tr>
+<td colspan="2"><a href="#contenthead"><img src="/jp/common/spacer.gif" alt="ナビゲーションを飛ばす" height="0" width="0"></a>ブラウザの更新ボタンをクリックして最新の情報をお使いください。</td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif"></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/warn/">気象警報・注意報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/kishojoho/">気象情報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/seawarn/">海上警報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/typh/">台風情報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/flood/">洪水予報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/dosha/">土砂災害警戒情報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/tatsumaki/">竜巻注意情報</a></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif"></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/tsunami/">津波警報・注意報、津波情報、津波予報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/quake/">地震情報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/quake_tokai/">東海地震関連情報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/volcano/">噴火警報・予報</a></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif"></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/yoho/">天気予報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/week/">週間天気予報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/seafcst/">海上予報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/longfcst/" target="_top">季節予報</a> /  <a href="/jp/soukei/">異常天候早期警戒情報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/mesh20/">天気分布予報</a> / <a href="/jp/jikei/">時系列予報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/radame/">解析雨量・降水短時間予報</a></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif"></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/g3/">天気図</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/radnowc/">レーダー・ナウキャスト(降水・雷・竜巻)</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/gms/">気象衛星</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;アメダス <a href="/jp/amedas/">地図形式</a> / <a href="/jp/amedas_h/">表形式</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/kuko/">空港の気象</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/windpro/">ウィンドプロファイラ（上空の風）</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;黄砂情報 <a href="/jp/kosa/">実況図</a> / <a href="/jp/kosafcst/">予測図</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/uv/">紫外線情報</a></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif"></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/choi/">潮位観測情報</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/wave/">波浪観測情報</a></td>
+</tr>
+</ul>
+</table>
+<a name="content"></a>
+</div>
+</div>
+<div id="main">
+<div id="title">
+<table>
+<tr>
+<td class="titleTextW">
+<h1>津波情報：津波観測に関する情報</h1>
+</td>
+</tr>
+</table>
+</div>
+<div id="tsunamiGuide">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:3px;">
+    <tr>
+    <td class="imgBtn"><img src="img/btn-tsunami-jp.png" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('index.html');"></td>
+    <td class="imgBtn"><img src="img/btn-information-jp.png" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('joho.html');"></td>
+    <td class="imgBtn"><img src="img/btn-forecast-jp.png" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('yoho.html');"></td>
+    <td class="imgBtn"><img src="img/btn-other-jp.png" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('other.html');"></td>
+<!--
+    <td><div class="newBtn" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('index.html');">最新の津波警報・注意報</div></td>
+    <td><div class="newBtn" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('joho.html');">最新の津波情報</div></td>
+    <td><div class="otherBtn" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('yoho.html');">津波予報</div></td>
+    <td><div class="otherBtn" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('other.html');">その他の情報</div></td>
+-->
+    <td width="120" align="right" valign="top"><input type="button" title="このページを印刷します" style="height:1.8em;" value="印刷" onclick="print();"></td>
+    </tr>
+    <tr>
+    <td class="infoTd" colspan="5">
+    津波情報
+    <select size="1" onChange="location.href=this.options[this.selectedIndex].value;">
+        <option  value="list.html">津波の到達予想時刻と津波の高さに関する情報</option>
+    <option  value="list.html">各地の満潮時刻と津波到達予想時刻に関する情報</option>
+    <option selected value="list.html">津波観測に関する情報</option>
+    </select>
+    </td>
+    </tr>
+    <tr>
+    <td style="padding-top:2px;" colspan="5">
+    <input id="histButton" type="button" onClick="jump('list.html');"  value="津波警報・注意報、津波情報発表履歴" title="">
+                    <input id="prevButton" type="button" onClick="jump('observation_04_20110312004501.html');"  value="＜前の情報" title="">
+                        <input id="nextButton" type="button" onClick="jump('observation_04_20110312023741.html');"  value="次の情報＞" title="">
+                </td>
+    </tr>
+</table>
+</div>
+<div id="jumpExplain" class="innerJump">
+<a href="#explain">説明へ</a>
+</div>
+<div id="info">
+    <center>
+        <div id="mapComment" class="comment">地図をクリックすると都府県単位まで拡大できます</div>
+            <div id="infoComment1" class="past">これは過去に発表された津波情報です</div>
+        </center>
+    <table id='TsunamiQuakeInfoTbl' width="100%" border="0"><tr><td>地震の発生日時：&nbsp;03月11日14時46分頃<br>震源地：&nbsp;三陸沖&nbsp;&nbsp;&nbsp;マグニチュード：&nbsp;8.8&nbsp;&nbsp;&nbsp;深さ：&nbsp;約20km</td><td align="right"><div class="innerJump"><a id="textLink" href="#text">津波情報本文へ</a></div></td></tr></table>
+                    <b>第一波</b><br>
+        <img src="imgs/3/0/04_11_00_20110312013750.png" usemap="#AreaMap"><MAP name='AreaMap'><AREA shape="poly" coords="171,338,108,393,117,431,260,383,259,375,235,361,200,363" href="javascript:goDistrict(8)" title="沖縄地方"><AREA shape="poly" coords="198,290,171,338,200,363,236,361,250,311,238,311" href="javascript:goDistrict(7)" title="奄美地方"><AREA shape="poly" coords="243,196,198,223,198,290,238,311,250,311,253,296,257,280,255,246,258,230,256,224,252,226" href="javascript:goDistrict(6)" title="九州"><AREA shape="poly" coords="257,176,295,176,308,201,309,207,312,208,314,206,316,204,319,202,319,201,323,206,322,212,322,215,317,216,316,219,318,225,317,230,315,232,316,240,324,260,257,280,255,244,258,230,256,224,252,225,250,219,243,196" href="javascript:goDistrict(5)" title="近畿・中国・四国"><AREA shape="poly" coords="362,221,368,214,386,214,386,264,362,264" href="javascript:goDistrict(4)" title="伊豆諸島"><AREA shape="poly" coords="388,334,429,334,429,416,388,416" href="javascript:goDistrict(4)" title="小笠原諸島"><AREA shape="poly" coords="329,129,296,176,308,202,309,205,312,207,317,203,320,199,321,201,323,206,323,209,322,214,320,216,316,216,316,217,318,220,318,224,317,230,315,233,315,237,315,239,326,264,362,264,362,221,368,214,445,214,446,178,386,178,384,180,380,175,377,172,368,178,364,169,368,165,372,163,372,155,375,152,370,146" href="javascript:goDistrict(3)" title="関東・中部"><AREA shape="poly" coords="341,90,329,129,370,146,373,150,376,152,373,154,372,161,371,164,367,167,364,167,366,174,368,177,375,173,378,172,383,177,390,178,459,178,459,109,427,97,404,89,392,92,381,96" href="javascript:goDistrict(2)" title="東北"><AREA shape="poly" coords="341,90,366,10,438,10,465,38,458,48,463,53,467,52,478,66,459,109,403,89,379,96" href="javascript:goDistrict(1)" title="北海道"></Map>
+        <br><br>
+        <b>最大波</b><br>
+        <div class="map">
+        <img class="TsunamiImage" src="imgs/9/0/04_11_00_20110312013750.png">
+        </div>
+            <br>
+        <a name="text"></a><pre class="textframe"><b>津波情報（津波観測に関する情報）</b>
+平成２３年　３月１２日０１時３７分　気象庁発表
+
+［各地の検潮所で観測した津波の観測値］
+場所によっては、検潮所で観測した津波の高さより更に大きな津波が到達し
+ていることが考えられます
+今後、津波の高さは更に高くなることも考えられます
+１２日０１時３５分現在、検潮所での観測値は次のとおりです
+釧路　　　　　　　第１波　１１日１５時３４分　（＋）　２．０ｍ
+　　　　　　　　　最大波　１１日２３時３９分　　　　　２．１ｍ
+根室市花咲　　　　第１波　１１日１５時３４分　（－）　　微弱
+　　　　　　　　　最大波　１１日１５時５７分　　　　　２．８ｍ
+根室港　　　　　　第１波　１１日１６時０８分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１２日００時０３分　　　　　０．７ｍ
+浜中町霧多布港　　第１波　１１日１５時２７分　（－）　　微弱
+　　　　　　　　　最大波　１１日２２時１９分　　　　　２．６ｍ
+浦河　　　　　　　第１波　１１日１５時１９分　（－）　０．２ｍ
+　　　　　　　　　最大波　１１日１６時４２分　　　　　２．７ｍ
+十勝港　　　　　　第１波　１１日１５時２６分　（－）　０．２ｍ
+　　　　　　　　　最大波　１１日１５時５７分　　　　　２．８ｍ以上
+えりも町庶野　　　第１波　１１日１５時１８分　（－）　０．１ｍ
+　　　　　　　　　最大波　１１日１５時４４分　　　　　３．５ｍ
+函館　　　　　　　第１波　１１日１６時１１分　（＋）　１．９ｍ
+　　　　　　　　　最大波　１１日２３時３５分　　　　　２．４ｍ
+苫小牧西港　　　　第１波　１１日１５時３７分　（－）　０．２ｍ
+　　　　　　　　　最大波　１１日１７時３０分　　　　　２．１ｍ
+苫小牧東港　　　　第１波　１１日１５時４０分　（－）　０．２ｍ
+　　　　　　　　　最大波　１１日１６時１７分　　　　　２．５ｍ以上
+白老港　　　　　　第１波　１１日１５時４０分　（－）　０．１ｍ
+　　　　　　　　　最大波　１１日１６時０１分　　　　　１．８ｍ
+渡島森港　　　　　第１波　１１日１５時５６分　（－）　　微弱
+　　　　　　　　　最大波　１１日１９時３７分　　　　　１．８ｍ
+室蘭港　　　　　　第１波　１１日１５時５６分　（－）　　微弱
+　　　　　　　　　最大波　１１日２０時０６分　　　　　１．０ｍ
+稚内　　　　　　　第１波　１１日１８時４３分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１２日０１時１９分　　　　　０．３ｍ
+留萌　　　　　　　第１波　　　　　　　　　　　　　（第１波識別不能）
+　　　　　　　　　最大波　１２日０１時０２分　　　　　０．２ｍ
+小樽　　　　　　　第１波　　　　　　　　　　　　　（第１波識別不能）
+　　　　　　　　　最大波　１２日０１時０６分　　　　　０．３ｍ
+石狩湾新港　　　　第１波　　　　　　　　　　　　　（第１波識別不能）
+　　　　　　　　　最大波　１２日０１時０７分　　　　　０．４ｍ
+岩内港　　　　　　第１波　　　　　　　　　　　　　（第１波識別不能）
+　　　　　　　　　最大波　１２日００時１８分　　　　　０．２ｍ
+網走　　　　　　　第１波　１１日１７時０２分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１２日００時３２分　　　　　０．３ｍ
+枝幸港　　　　　　第１波　１１日１７時４５分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２３時３６分　　　　　０．４ｍ
+竜飛　　　　　　　第１波　１１日１６時０９分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日１６時３２分　　　　　０．５ｍ
+八戸　　　　　　　第１波　１１日１５時２２分　（－）　０．８ｍ
+　　　　　　　　　最大波　１１日１６時５１分　　　　　２．７ｍ以上
+むつ市関根浜　　　第１波　１１日１５時２０分　（－）　０．１ｍ
+　　　　　　　　　最大波　１１日１８時１６分　　　　　２．９ｍ
+宮古　　　　　　　第１波　１１日１４時４８分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日１５時２１分　　　　　４．０ｍ以上
+大船渡　　　　　　第１波　１１日１４時４６分　（－）　０．２ｍ
+　　　　　　　　　最大波　１１日１５時１５分　　　　　３．２ｍ以上
+釜石　　　　　　　第１波　１１日１４時４５分　（－）　０．１ｍ
+　　　　　　　　　最大波　１１日１５時２１分　　　　　４．１ｍ以上
+岩手釜石沖＊　　　第１波　１１日１４時５０分　　　　　（不明）
+岩手宮古沖＊　　　第１波　１１日１４時５０分　　　　　（不明）
+岩手久慈沖＊　　　第１波　１１日１４時５６分　　　　　（不明）
+石巻市鮎川　　　　第１波　１１日１４時４６分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１１日１５時２０分　　　　　３．３ｍ以上
+気仙沼広田湾沖＊　第１波　１１日１４時５４分　　　　　（不明）
+酒田　　　　　　　第１波　　　　　　　　　　　　　（第１波識別不能）
+　　　　　　　　　最大波　１２日００時５５分　　　　　０．４ｍ
+相馬　　　　　　　第１波　１１日１４時５５分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日１５時５０分　　　　　７．３ｍ以上
+福島小名浜沖＊　　第１波　１１日１４時５２分　　　　　（不明）
+大洗　　　　　　　第１波　１１日１５時１５分　（＋）　１．８ｍ
+　　　　　　　　　最大波　１１日１６時５２分　　　　　４．２ｍ
+銚子　　　　　　　第１波　１１日１５時１３分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日１７時２２分　　　　　２．４ｍ
+館山市布良　　　　第１波　１１日１５時２９分　（＋）　１．３ｍ
+　　　　　　　　　最大波　１１日１７時０５分　　　　　１．６ｍ
+東京晴海　　　　　第１波　１１日１６時３７分　（＋）　０．８ｍ
+　　　　　　　　　最大波　１１日１９時１５分　　　　　１．３ｍ
+横須賀　　　　　　第１波　１１日１５時５２分　（＋）　０．９ｍ
+　　　　　　　　　最大波　１１日１７時１６分　　　　　１．６ｍ
+千葉　　　　　　　第１波　１１日１６時３８分　（＋）　０．７ｍ
+　　　　　　　　　最大波　１１日１８時１８分　　　　　０．９ｍ
+横浜　　　　　　　第１波　１１日１６時０９分　（＋）　０．８ｍ
+　　　　　　　　　最大波　１１日１７時３７分　　　　　１．６ｍ
+伊豆大島岡田　　　第１波　１１日１４時５２分　（－）　０．３ｍ
+　　　　　　　　　最大波　１１日１５時４９分　　　　　０．７ｍ
+三宅島坪田　　　　第１波　１１日１５時２６分　　　　　（不明）
+　　　　　　　　　最大波　１１日１５時３４分　　　　　０．８ｍ
+八丈島八重根　　　第１波　１１日１５時４０分　（＋）　１．４ｍ
+　　　　　　　　　最大波　１１日１５時４８分　　　　　１．４ｍ
+神津島神津島港　　第１波　１１日１５時４０分　（＋）　０．４ｍ
+　　　　　　　　　最大波　１２日００時３０分　　　　　０．８ｍ
+三宅島阿古　　　　第１波　１１日１５時２７分　（＋）　０．６ｍ
+　　　　　　　　　最大波　１１日１５時３９分　　　　　０．６ｍ
+八丈島神湊　　　　第１波　１１日１５時３５分　（＋）　１．２ｍ
+　　　　　　　　　最大波　１１日１５時４５分　　　　　１．２ｍ
+父島二見　　　　　第１波　１１日１６時１４分　（＋）　１．０ｍ
+　　　　　　　　　最大波　１１日１６時４６分　　　　　１．８ｍ
+南鳥島　　　　　　第１波　１１日１６時５１分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日１６時５５分　　　　　０．５ｍ
+小田原　　　　　　第１波　１１日１５時３３分　（＋）　０．９ｍ
+　　　　　　　　　最大波　１１日１５時４８分　　　　　０．９ｍ
+新潟　　　　　　　第１波　１１日１８時０２分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１２日００時４０分　　　　　０．２ｍ
+粟島　　　　　　　第１波　　　　　　　　　　　　　（第１波識別不能）
+　　　　　　　　　最大波　１１日２１時０５分　　　　　０．１ｍ
+富山　　　　　　　第１波　１１日２０時５５分　（＋）　　微弱
+　　　　　　　　　最大波　１１日２２時３７分　　　　　０．１ｍ
+伏木富山港新湊　　第１波　１１日２１時０２分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１１日２２時３９分　　　　　０．１ｍ
+珠洲市長橋　　　　第１波　　　　　　　　　　　　　（第１波識別不能）
+　　　　　　　　　最大波　１１日２３時２５分　　　　　０．１ｍ
+沼津市内浦　　　　第１波　１１日１６時０１分　（＋）　１．４ｍ
+　　　　　　　　　最大波　１１日１６時１６分　　　　　１．４ｍ
+清水　　　　　　　第１波　１１日１５時５８分　（＋）　０．９ｍ
+　　　　　　　　　最大波　１１日１６時１７分　　　　　０．９ｍ
+南伊豆町石廊崎　　第１波　１１日１５時４３分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日１５時５６分　　　　　０．８ｍ
+御前崎　　　　　　第１波　１１日１６時０３分　（＋）　１．０ｍ
+　　　　　　　　　最大波　１１日１７時１８分　　　　　１．４ｍ
+舞阪　　　　　　　第１波　１１日１６時１２分　（＋）　０．７ｍ
+　　　　　　　　　最大波　１１日１７時３７分　　　　　０．８ｍ
+下田港　　　　　　第１波　１１日１５時４１分　（＋）　０．７ｍ
+　　　　　　　　　最大波　１１日２２時５５分　　　　　０．８ｍ
+伊東　　　　　　　第１波　１１日１５時３０分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１１日１５時５２分　　　　　０．７ｍ
+西伊豆町田子　　　第１波　１１日１５時５５分　（＋）　０．４ｍ
+　　　　　　　　　最大波　１１日１６時１８分　　　　　０．４ｍ
+焼津　　　　　　　第１波　１１日１５時５８分　（＋）　０．８ｍ
+　　　　　　　　　最大波　１１日１６時１０分　　　　　０．８ｍ
+田原市赤羽根　　　第１波　１１日１６時２１分　（＋）　１．１ｍ
+　　　　　　　　　最大波　１１日１７時３２分　　　　　１．６ｍ
+名古屋　　　　　　第１波　１１日１７時４３分　（＋）　０．７ｍ
+　　　　　　　　　最大波　１１日１９時３６分　　　　　１．０ｍ
+半田市衣浦　　　　第１波　１１日１７時１８分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日２１時３５分　　　　　０．７ｍ
+四日市　　　　　　第１波　１１日１７時２０分　（＋）　０．４ｍ
+　　　　　　　　　最大波　１１日２０時１３分　　　　　０．５ｍ
+豊橋市三河港　　　第１波　１１日１７時１７分　（＋）　０．４ｍ
+　　　　　　　　　最大波　１１日２０時１５分　　　　　０．６ｍ
+鳥羽　　　　　　　第１波　１１日１６時３４分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日１９時１３分　　　　　１．８ｍ
+尾鷲　　　　　　　第１波　１１日１６時１７分　（＋）　１．０ｍ
+　　　　　　　　　最大波　１１日１７時１２分　　　　　１．７ｍ
+熊野市遊木　　　　第１波　１１日１６時１２分　（＋）　０．７ｍ
+　　　　　　　　　最大波　１１日１６時２８分　　　　　０．７ｍ
+三重尾鷲沖＊　　　第１波　１１日１６時０７分　　　　　（不明）
+大阪天保山　　　　第１波　１１日１８時２０分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日２１時０２分　　　　　０．６ｍ
+岬町淡輪　　　　　第１波　１１日１７時３０分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日１７時５９分　　　　　０．２ｍ
+神戸　　　　　　　第１波　１１日１７時５６分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日２１時４７分　　　　　０．３ｍ
+姫路　　　　　　　第１波　１１日１８時３０分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１１日２０時４６分　　　　　０．２ｍ
+洲本　　　　　　　第１波　１１日１７時２０分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日１７時３７分　　　　　０．２ｍ
+那智勝浦町浦神　　第１波　１１日１６時１４分　（＋）　０．９ｍ
+　　　　　　　　　最大波　１１日１８時０６分　　　　　１．３ｍ
+串本町袋港　　　　第１波　１１日１６時１６分　（＋）　０．７ｍ
+　　　　　　　　　最大波　１２日０１時３２分　　　　　１．４ｍ
+和歌山　　　　　　第１波　１１日１７時１３分　（＋）　０．６ｍ
+　　　　　　　　　最大波　１１日１９時３５分　　　　　０．７ｍ
+御坊市祓井戸　　　第１波　１１日１６時３５分　（＋）　０．７ｍ
+　　　　　　　　　最大波　１１日１７時５７分　　　　　１．１ｍ
+白浜町堅田　　　　第１波　１１日１６時３４分　（＋）　０．９ｍ
+　　　　　　　　　最大波　１２日００時３５分　　　　　１．０ｍ
+和歌山白浜沖＊　　第１波　１１日１６時２５分　　　　　（不明）
+玉野市宇野　　　　第１波　１１日１８時２９分　（＋）　　微弱
+　　　　　　　　　最大波　１１日２０時０１分　　　　　０．１ｍ
+広島　　　　　　　第１波　１１日１９時２８分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日２０時１１分　　　　　０．３ｍ
+呉　　　　　　　　第１波　１１日１９時４３分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日２０時３７分　　　　　０．３ｍ
+小松島　　　　　　第１波　１１日１７時０３分　（＋）　０．７ｍ
+　　　　　　　　　最大波　１１日１９時５０分　　　　　０．７ｍ
+徳島由岐　　　　　第１波　１１日１６時３７分　（＋）　１．０ｍ
+　　　　　　　　　最大波　１１日２０時２７分　　　　　１．１ｍ
+高松　　　　　　　第１波　１１日１８時２０分　（＋）　　微弱
+　　　　　　　　　最大波　１１日１９時４１分　　　　　０．２ｍ
+坂出市与島港　　　第１波　１１日１９時３８分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１１日２０時０９分　　　　　０．１ｍ
+多度津港　　　　　第１波　１１日１９時５６分　（＋）　　微弱
+　　　　　　　　　最大波　１２日００時１５分　　　　　０．２ｍ
+宇和島　　　　　　第１波　１１日１７時４２分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日１７時５９分　　　　　０．５ｍ
+松山　　　　　　　第１波　１１日１８時４３分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２３時３０分　　　　　０．２ｍ
+今治市小島　　　　第１波　１１日１９時２８分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１１日２０時００分　　　　　０．１ｍ
+室戸市室戸岬　　　第１波　１１日１６時３９分　（＋）　０．４ｍ
+　　　　　　　　　最大波　１１日２１時０７分　　　　　０．５ｍ
+高知　　　　　　　第１波　１１日１６時５６分　（＋）　０．６ｍ
+　　　　　　　　　最大波　１１日２１時２６分　　　　　０．６ｍ
+土佐清水　　　　　第１波　１１日１６時５６分　（＋）　０．９ｍ
+　　　　　　　　　最大波　１１日２３時４５分　　　　　１．０ｍ
+須崎港　　　　　　第１波　１１日１７時００分　（＋）　１．４ｍ
+　　　　　　　　　最大波　１１日２０時５９分　　　　　２．６ｍ
+下関市彦島弟子待　第１波　１１日１９時２２分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２３時０９分　　　　　０．４ｍ
+徳山　　　　　　　第１波　１１日１８時４１分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日２１時２２分　　　　　０．３ｍ
+宇部港　　　　　　第１波　１１日１９時０８分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２０時１２分　　　　　０．２ｍ
+三田尻中関港　　　第１波　１１日１８時４２分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２３時３９分　　　　　０．２ｍ
+下関港長府　　　　第１波　１１日１９時３３分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日２３時００分　　　　　０．４ｍ
+北九州市門司　　　第１波　１１日１９時４６分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２３時１０分　　　　　０．４ｍ
+苅田港　　　　　　第１波　１１日１９時２６分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日２０時１６分　　　　　０．３ｍ
+北九州港青浜　　　第１波　１１日１９時２１分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日２３時０４分　　　　　０．４ｍ
+福岡市博多　　　　第１波　１１日２１時０６分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１２日００時１２分　　　　　０．３ｍ
+北九州港日明　　　第１波　１１日２０時０６分　（＋）　　微弱
+　　　　　　　　　最大波　１１日２３時１０分　　　　　０．２ｍ
+太良町大浦野崎　　第１波　１１日１９時３２分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２１時１５分　　　　　０．２ｍ
+三角　　　　　　　第１波　１１日１９時２４分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１１日２０時１８分　　　　　０．１ｍ
+八代港　　　　　　第１波　１１日１９時４９分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日２０時１５分　　　　　０．３ｍ
+天草市本渡港　　　第１波　１１日１９時０８分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日２１時０５分　　　　　０．８ｍ
+熊本港　　　　　　第１波　１１日１９時４１分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１１日２２時３０分　　　　　０．１ｍ
+唐津港　　　　　　第１波　１１日２０時４３分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１１日２３時１７分　　　　　０．２ｍ
+長崎　　　　　　　第１波　１１日１８時５５分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日２１時２０分　　　　　０．８ｍ
+口之津　　　　　　第１波　１１日１８時５２分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１１日２３時３９分　　　　　０．１ｍ
+福江島福江港　　　第１波　１１日１８時４５分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日１８時５６分　　　　　０．２ｍ
+佐世保　　　　　　第１波　１１日１９時３２分　（＋）　０．４ｍ
+　　　　　　　　　最大波　１１日２１時５２分　　　　　０．７ｍ
+長崎港皇后　　　　第１波　１１日１８時４９分　（＋）　０．４ｍ
+　　　　　　　　　最大波　１１日２１時２２分　　　　　０．６ｍ
+平戸市田平港　　　第１波　１１日１９時３６分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２１時５６分　　　　　０．３ｍ
+苓北町都呂々　　　第１波　１１日１８時４３分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２３時４８分　　　　　０．３ｍ
+大分　　　　　　　第１波　１１日１７時４９分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２２時２９分　　　　　０．４ｍ
+別府港　　　　　　第１波　１１日１７時５９分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日２２時１７分　　　　　０．５ｍ
+佐伯市松浦　　　　第１波　１１日１７時２２分　（＋）　０．４ｍ
+　　　　　　　　　最大波　１１日１７時４１分　　　　　０．４ｍ
+日向市細島　　　　第１波　１１日１６時５４分　（＋）　０．８ｍ
+　　　　　　　　　最大波　１１日２１時４７分　　　　　０．９ｍ
+日南市油津　　　　第１波　１１日１７時０５分　（＋）　１．０ｍ
+　　　　　　　　　最大波　１２日００時１２分　　　　　１．１ｍ
+宮崎港　　　　　　第１波　１１日１７時０６分　（＋）　１．４ｍ
+　　　　　　　　　最大波　１１日２０時２９分　　　　　１．６ｍ
+南大隅町大泊　　　第１波　１１日１７時２９分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日２３時２７分　　　　　０．５ｍ
+志布志港　　　　　第１波　１１日１７時１２分　（＋）　１．１ｍ
+　　　　　　　　　最大波　１１日１７時３９分　　　　　１．１ｍ
+種子島西之表　　　第１波　１１日１７時２０分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２３時４５分　　　　　０．８ｍ
+種子島熊野　　　　第１波　１１日１６時５２分　（＋）　０．８ｍ
+　　　　　　　　　最大波　１２日００時０６分　　　　　１．４ｍ
+中之島　　　　　　第１波　　　　　　　　　　　　　（第１波識別不能）
+　　　　　　　　　最大波　１１日１９時４４分　　　　　０．５ｍ
+奄美市小湊　　　　第１波　１１日１７時０１分　（－）　０．１ｍ
+　　　　　　　　　最大波　１１日１７時４１分　　　　　１．１ｍ
+奄美市名瀬　　　　第１波　１１日１７時１０分　（＋）　０．４ｍ
+　　　　　　　　　最大波　１２日０１時２１分　　　　　０．５ｍ
+鹿児島　　　　　　第１波　１１日１８時１９分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１１日１８時３３分　　　　　０．１ｍ
+枕崎　　　　　　　第１波　１１日１７時５５分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１２日００時３０分　　　　　０．５ｍ
+阿久根　　　　　　第１波　１１日１８時３８分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日１８時５５分　　　　　０．５ｍ
+那覇　　　　　　　第１波　１１日１８時０３分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日２１時１２分　　　　　０．６ｍ
+南城市安座真　　　第１波　１１日１７時４９分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日１７時５９分　　　　　０．３ｍ
+南大東漁港　　　　第１波　１１日１７時１１分　（＋）　０．２ｍ
+　　　　　　　　　最大波　１１日１７時２４分　　　　　０．２ｍ
+与那国島久部良　　第１波　１１日１８時３４分　（＋）　０．１ｍ
+　　　　　　　　　最大波　１２日００時４２分　　　　　０．１ｍ
+石垣島石垣港　　　第１波　１１日１８時２５分　（＋）　　微弱
+　　　　　　　　　最大波　１１日１９時２０分　　　　　０．２ｍ
+宮古島平良　　　　第１波　１１日１８時３７分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日１９時３４分　　　　　０．７ｍ
+
+［現在津波警報・注意報を発表している沿岸］
+＜大津波＞
+　岩手県、宮城県、福島県、北海道太平洋沿岸中部、青森県太平洋沿岸、
+　茨城県、千葉県九十九里・外房、伊豆諸島、北海道太平洋沿岸東部、
+　北海道太平洋沿岸西部、青森県日本海沿岸、千葉県内房、小笠原諸島、
+　相模湾・三浦半島、静岡県、和歌山県、徳島県、高知県
+＜津波＞
+　愛知県外海、三重県南部、宮崎県、種子島・屋久島地方、
+　奄美諸島・トカラ列島、北海道日本海沿岸南部、陸奥湾、東京湾内湾、
+　伊勢・三河湾、淡路島南部、愛媛県宇和海沿岸、大分県瀬戸内海沿岸、
+　大分県豊後水道沿岸、鹿児島県東部、鹿児島県西部、沖縄本島地方、
+　大東島地方、宮古島・八重山地方、有明・八代海、長崎県西方、
+　熊本県天草灘沿岸
+＜津波注意＞
+　オホーツク海沿岸、大阪府、兵庫県瀬戸内海沿岸、岡山県、香川県、
+　愛媛県瀬戸内海沿岸、秋田県、山形県、新潟県上中下越、佐渡、富山県、
+　石川県能登、広島県、山口県瀬戸内海沿岸、福岡県瀬戸内海沿岸、
+　北海道日本海沿岸北部、福岡県日本海沿岸、佐賀県北部、壱岐・対馬
+
+［震源、規模］
+きのう１１日１４時４６分頃地震がありました
+震源地は、三陸沖（北緯３８．１度、東経１４２．９度、牡鹿半島の東１２
+０ｋｍ付近）で、震源の深さは約２０ｋｍ、地震の規模（マグニチュード）
+は８．８と推定されます
+
+＊＊＊　［＊印の沖合のＧＰＳ波浪計で観測した津波の観測値］　　＊＊＊
+（本文中では、沖合での津波の観測値と、沿岸での検潮所による観測値との
+混同を避けるため、すべて（不明）と表記されます。詳細は以下の通り）
+
+岩手釜石沖＊　　　第１波　１１日１４時５０分　（－）　０．３ｍ
+　　　　　　　　　最大波　１１日１５時１２分　　　　　６．８ｍ
+岩手宮古沖＊　　　第１波　１１日１４時５０分　（－）　０．４ｍ
+　　　　　　　　　最大波　１１日１５時１２分　　　　　６．３ｍ
+岩手久慈沖＊    　第１波　１１日１４時５６分　（－）　０．４ｍ
+　　　　　　　　　最大波　　　　　　　　　　　　　（今後最大波到達）
+気仙沼広田湾沖＊　第１波　１１日１４時５４分　（＋）　６．０ｍ
+　　　　　　　　　最大波　１１日１５時１４分　　　　　６．０ｍ
+福島小名浜沖＊  　第１波　１１日１４時５２分　（＋）　１．０ｍ
+　　　　　　　　　最大波　１１日１５時０４分　　　　　１．０ｍ
+三重尾鷲沖＊　　　第１波　１１日１６時０７分　（＋）　０．５ｍ
+　　　　　　　　　最大波　１１日１６時２６分　　　　　０．５ｍ
+和歌山白浜沖＊　　第１波　１１日１６時２５分　（＋）　０．３ｍ
+　　　　　　　　　最大波　１１日１６時３８分　　　　　０．３ｍ
+
+上記は沖合での観測値であり、沿岸では津波はさらに高くなります
+
+＊＊［＊印の沖合のＧＰＳ波浪計付近の沿岸で推定される津波の高さ］＊＊
+沿岸での津波到達時刻および津波の高さは以下の通りと推定されます
+［津波到達時刻（推定）・津波の高さ（推定）］
+　　　　　　　　　　津波到達時刻（推定）　　　　　津波の高さ（推定）
+岩手釜石付近　　　１１日１４時５５分～１５時１０分　６ｍ～１０ｍ以上
+岩手宮古付近　　　１１日１４時５５分～１５時１０分　６ｍ～１０ｍ以上
+岩手久慈付近　    １１日１５時０１分～１５時１６分　１ｍ～２ｍ
+気仙沼広田湾付近　１１日１４時５９分～１５時１４分　６ｍ～１０ｍ以上
+福島小名浜付近　  １１日１４時５７分～１５時１２分　１ｍ～４ｍ
+三重尾鷲付近　　　１１日１６時１２分～１６時２７分　１ｍ～２ｍ
+和歌山白浜付近　　１１日１６時３０分～１６時４５分　０．５ｍ
+早いところでは、既に津波が到達していると推定されます
+津波情報５０号</pre>
+</div><!-- end info div-->
+<div id="explain">
+<a name="explain"></a>
+<ul class="pagelink">
+<li><a href="http://www.seisvol.kishou.go.jp/eq/index_tsunamiinfo.html">津波警報・注意報、津波情報、津波予報の解説</a>
+<li><a href="http://www.seisvol.kishou.go.jp/eq/index_t-yohokuinfo.html">津波予報区の解説</a>
+<li><a href="http://www.seisvol.kishou.go.jp/eq/seismo.html">地震・津波の資料のページ</a>
+</ul>
+</div><!--end explain div-->
+<div id="gotop">
+<a href="#top">このページのトップへ</a>
+</div>
+</div><!--end main div-->
+</div><!--end base div-->
+<div id="foot">
+<a href="http://www.jma.go.jp/jma/kishou/info/coment.html">著作権・リンク・個人情報保護</a>　|　<a href="http://www.jma.go.jp/jma/kishou/info/coment.html#exclusion">利用上の注意について（免責事項）</a></div>
+</div>
+</body>
+</html>
