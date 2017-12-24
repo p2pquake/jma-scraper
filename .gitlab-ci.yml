@@ -2,6 +2,9 @@ stages:
   - build
   - test
 
+before_script:
+  - nuget restore
+
 cache:
  key: "$CI_PIPELINE_ID"
  untracked: true
@@ -9,10 +12,10 @@ cache:
 build:
  stage: build
  script:
-    - msbuild Server.sln
+    - msbuild ServerLibrary.sln
 
 test_JMAInformation:
  stage: test
  script:
-    - msbuild Server.sln
+    - msbuild ServerLibrary.sln
     - nunit-console TestJMAInformation/bin/Debug/TestJMAInformation.dll
