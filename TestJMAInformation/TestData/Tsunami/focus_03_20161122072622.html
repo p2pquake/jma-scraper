@@ -1,0 +1,382 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Author" content="気象庁 Japan Meteorological Agency">
+<meta name="keywords" content="気象庁 Japan Meteorological Agency">
+<title>気象庁 | 大津波警報・津波警報・津波注意報、津波情報、津波予報</title>
+<link rel="stylesheet" media="print" type="text/css" href="../common/print.css">
+<link href="../common/default.css" rel="stylesheet" type="text/css" media="all">
+<link href="../common/weather_info_v2.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/tsunami.css" rel="stylesheet" type="text/css" media="all">
+<script src="../common/weather_info.js" type="text/javascript"></script>
+<style type="text/css" media="print">
+<!-- #infoComment2, #tsunamiGuide, #textLink, #mapComment {display: none;} -->
+</style>
+<script language="javascript">
+function jump( url ) {document.location.href = url;}
+function goDistrict(value){
+var path = "focus";
+if (value && value != "") {path += ("_" + value);}
+ path += ("_" + "03");  path += ("_" + "20161122072622"); path += ".html";
+document.location.href=path;
+}
+function visible( id ) {
+obj = document.getElementById(id);
+obj.style.visibility = "visible";
+}
+function hiddenPopup( id ) {
+obj = document.getElementById(id);
+obj.style.visibility = "hidden";
+}
+function init() {submenu_control();}
+</script>
+<script type="text/javascript" src="../common/jquery.js"></script>
+<script type="text/javascript">
+if (((navigator.userAgent.indexOf('iPhone') > 0 && navigator.userAgent.indexOf('iPad') == -1) || navigator.userAgent.indexOf('iPod') > 0 || (navigator.userAgent.indexOf('Android') > 0 && navigator.userAgent.indexOf('Mobile') > 0) || navigator.userAgent.indexOf('BlackBerry') > 0 || navigator.userAgent.indexOf('Windows Phone') > 0 || navigator.userAgent.indexOf('Windows CE') > 0)) {
+	document.write("<meta name=\"viewport\" content=\"width=680,initial-scale=0.47; user-scale=yes\">");
+}
+</script>
+<script type="text/javascript">
+if (((navigator.userAgent.indexOf('iPhone') > 0 && navigator.userAgent.indexOf('iPad') == -1) || navigator.userAgent.indexOf('iPod') > 0 || (navigator.userAgent.indexOf('Android') > 0 && navigator.userAgent.indexOf('Mobile') > 0) || navigator.userAgent.indexOf('BlackBerry') > 0 || navigator.userAgent.indexOf('Windows Phone') > 0 || navigator.userAgent.indexOf('Windows CE') > 0)) {
+	document.write("<link rel=\"stylesheet\" href=\"../common/sph.css\">");
+	document.write("<script type=\"text/javascript\" src=\"../common/sph.js\"></scr"+"ipt>");
+}
+</script>
+</head>
+<body onLoad="init()" onresize="javascript:submenu_control();">
+<noscript><div>すべての機能をご利用いただくにはJavascriptを有効にしてください。</div></noscript>
+<a name="top"></a>
+<div id="top">
+<div id="logo">
+<a href="/"><img src="/jp/common/logo.gif" alt="気象庁 Japan Meteorological Agency" height="47" width="120"></a></div>
+<div id="header_right">
+<div id="header_link">
+<ul>
+<li id="toMain"><a href="#main">本文へ</a></li>
+<li xml:lang="en" lang="en"><a href="/jma/indexe.html">ENGLISH</a></li>
+<li><a href="/jma/kishou/info/goiken.html">ご意見･ご感想</a></li>
+<li id="siteMap"><a href="/jma/kishou/sitemap.html">サイトマップ</a></li>
+</ul>
+</div>
+<!-- search -->
+<div id="yjsearch" class="watermark">
+<p>キーワードを入力し検索ボタンを押下ください。</p>
+<form action="http://www.jma.go.jp/jma/menu/search.html" method="get" id="srch">
+<input type="search" results="5" name="p" id="srchInput" />
+<input type="image" src="/jp/common/btn_search.gif" alt="検索" id="srchBtn" onclick="document.getElementById('srchInput').focus();" />
+<input type="hidden" id="fr" name="fr" value="cse" />
+<input type="hidden" id="ei" name="ei" value="utf-8" />
+<input type="hidden" id="csid" name="csid" value="pD.LqPJKNL6pX5S8V0Zj684fKOuX.849vg9h" />
+<input type="hidden" name="vs" value="www.jma.go.jp" id="yjInsite" />
+</form>
+<img src="http://custom.search.yahoo.co.jp/images/window/pD.LqPJKNL6pX5S8V0Zj684fKOuX.849vg9h.gif" alt="" /> </div>
+<script type="text/javascript">
+					(function() {
+					var sb = document.getElementById('yjsearch');
+					if (sb && sb.className == 'watermark') {
+						var si = document.getElementById('srchInput');
+						var f = function() { si.className = 'nomark'; };
+						var b = function() {
+							if (si.value == '') {
+								si.className = '';
+							}
+						};
+						si.onfocus = f;
+						si.onblur = b;
+						if (!/[&?]p=[^&]/.test(location.search)) {
+							b();
+						} else {
+							f();
+						}
+					}
+					})();
+</script> 
+<!-- search --> 
+</div>
+<table id="global" cellspacing="0" cellpadding="0">
+<tr>
+<td class="side"><a href="/">
+<div>ホーム</div>
+</a></td>
+<td class="side"><a href="/jma/menu/menuflash.html">
+<div class="here">防災情報</div>
+</a></td>
+<td class="side"><a href="/jma/menu/menureport.html">
+<div>各種データ・資料</div>
+</a></td>
+<td class="side"><a href="/jma/menu/menuknowledge.html">
+<div>知識・解説</div>
+</a></td>
+<td class="side"><a href="/jma/menu/menuabout.html">
+<div>気象庁について</div>
+</a></td>
+<td><a href="/jma/menu/menulinks.html">
+<div>案内・申請</div>
+</a></td>
+</tr>
+</table>
+<div id="nesting">
+<a href="/">ホーム</a> &gt; <a href="../../jma/menu/menuflash.html">防災情報</a> &gt; 大津波警報・津波警報・津波注意報、津波情報、津波予報</a>
+</div>
+</div>
+<div id="base">
+<div id="sidebar">
+<div id="submenu" class="sidemenu">
+<table border="0" cellspacing="0" cellpadding="0">
+<ul>
+<tr>
+<td colspan="2">再読込ボタンかブラウザの更新ボタンをクリックして最新の情報をお使いください。</td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/warn/">気象警報・注意報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/kishojoho/">気象情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/seawarn/">海上警報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/typh/">台風情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/flood/">指定河川洪水予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/dosha/">土砂災害警戒情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/doshamesh/">土砂災害警戒判定メッシュ情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/tatsumaki/">竜巻注意情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="http://www.data.jma.go.jp/fcd/yoho/data/kouon/">高温注意情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/tsunami/">大津波警報・津波警報・津波注意報、津波情報、津波予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/quake/">地震情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/quake_tokai/">東海地震関連情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/volcano/">噴火警報・予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/funkasokuho/">噴火速報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/ashfall/">降灰予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/yoho/">天気予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/mesh20/">天気分布予報</a> / <a href="/jp/jikei/">時系列予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/week/">週間天気予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/seafcst/">海上予報</a> / <a href="/jp/umimesh/">海上分布予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/soukei/">異常天候早期警戒情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/longfcst/" target="_top">季節予報(1か月・3か月・暖候期・寒候期)</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/radame/">解析雨量・降水短時間予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/g3/">天気図</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/radnowc/">レーダー・ナウキャスト(降水・雷・竜巻)</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/highresorad/">高解像度降水ナウキャスト</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/gms/">気象衛星</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/gms150jp/">気象衛星（高頻度）</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;アメダス <a href="/jp/amedas/">地図形式</a> / <a href="/jp/amedas_h/">表形式</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/kuko/">空港の気象</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/windpro/">ウィンドプロファイラ（上空の風）</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;黄砂情報 <a href="/jp/kosa/">実況図</a> / <a href="/jp/kosafcst/">予測図</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/uv/">紫外線情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/choi/">潮位観測情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/wave/">波浪観測情報</a></li></td>
+</tr>
+</ul>
+</table>
+</div>
+</div>
+<div id="main">
+				        <img src="/jma/trouble/trouble.png" alt="" />
+<div id="title">
+<table>
+<tr>
+<td class="titleTextW">
+<h1>大津波警報・津波警報・津波注意報</h1>
+</td>
+</tr>
+</table>
+</div>
+<div id="tsunamiGuide">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:3px;">
+    <tr>
+    <td class="imgBtn"><img src="img/btn-tsunami-jp.png" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('index.html');"></td>
+    <td class="imgBtn"><img src="img/btn-information-jp.png" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('joho.html');"></td>
+    <td class="imgBtn"><img src="img/btn-forecast-jp.png" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('yoho.html');"></td>
+<!--<td class="imgBtn"><img src="img/btn-other-jp.png" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('other.html');"></td>-->
+    <td></td>
+<!--
+    <td><div class="newBtn" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('index.html');">最新の大津波警報・津波警報・津波注意報</div></td>
+    <td><div class="newBtn" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('joho.html');">最新の津波情報</div></td>
+    <td><div class="otherBtn" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('yoho.html');">津波予報</div></td>
+    <td><div class="otherBtn" onMouseOver="this.style.cursor='pointer';" onMouseOut="this.style.cursor='default';" onClick="jump('other.html');">その他の情報</div></td>
+-->
+    <td width="120" align="right" valign="top"><input type="button" title="このページを印刷します" style="height:1.8em;" value="印刷" onclick="print();"></td>
+    </tr>
+    <tr>
+    <td class="infoTd" colspan="4">
+    津波情報
+    <select size="1" onChange="location.href=this.options[this.selectedIndex].value;">
+        <option selected value="index.html"></option>
+        <option  value="info.html">津波の到達予想時刻と津波の高さに関する情報</option>
+    <option  value="floodtide.html">各地の満潮時刻と津波到達予想時刻に関する情報</option>
+    <option  value="observation.html">津波観測に関する情報</option>
+    <option  value="offshore.html">沖合の津波観測に関する情報</option>
+    </select>
+    </td>
+    <td>
+    <div id="refre"><input type="button" title="再読込" value="再読込" onclick="document.location.reload();"></div>
+    </td>
+    </tr>
+    <tr>
+    <td style="padding-top:2px;" colspan="5">
+    <input id="histButton" type="button" onClick="jump('list.html');"  value="大津波警報・津波警報・津波注意報、津波情報発表履歴" title="">
+                                    <!-- inputタグとinputタグの間に改行を入れると、ボタンの間に隙間ができてしまうため１行で記載すること -->
+                <br><input id="prevButtonForecast" type="button" onClick="jump('focus_03_20161122060214.html');"  value="＜前の津波警報・注意報" title=""><input id="nextButtonForecast" type="button" style="margin-left:5px;" onClick="jump('focus_03_20161122080929.html');"  value="次の津波警報・注意報＞" title="">
+                            </td>
+    </tr>
+</table>
+</div>
+<div id="jumpExplain" class="innerJump">
+<a href="#explain">説明へ</a>
+</div>
+<div id="info">
+    <center>
+        <div id="mapComment" class="comment">地図をクリックすると都府県単位まで拡大できます</div>
+                        <div id="infoComment2" class="old">最新の大津波警報・津波警報・津波注意報をご利用ください</div>
+                </center>
+    <table id='TsunamiQuakeInfoTbl' width="100%" border="0"><tr><td>地震の発生日時：&nbsp;11月22日05時59分頃<br>震源地：&nbsp;福島県沖&nbsp;&nbsp;&nbsp;マグニチュード：&nbsp;7.3&nbsp;&nbsp;&nbsp;深さ：&nbsp;約10km</td></tr>
+        <tr><td align="right"><div class="innerJump"><a id="textLink" href="#text">大津波警報・津波警報・津波注意報本文へ</a></div></td></tr></table>
+                    <img src="imgs/0/0/03_30_00_20161122072622.png" usemap="#AreaMap" alt=""><MAP name='AreaMap'><AREA shape="poly" coords="362,221,368,214,386,214,386,264,362,264" href="javascript:goDistrict(4)" title="伊豆諸島"><AREA shape="poly" coords="388,334,429,334,429,416,388,416" href="javascript:goDistrict(4)" title="小笠原諸島"><AREA shape="poly" coords="329,129,296,176,308,202,309,205,312,207,317,203,320,199,321,201,323,206,323,209,322,214,320,216,316,216,316,217,318,220,318,224,317,230,315,233,315,237,315,239,326,264,362,264,362,221,368,214,445,214,446,178,386,178,384,180,380,175,377,172,368,178,364,169,368,165,372,163,372,155,375,152,370,146" href="javascript:goDistrict(3)" title="関東・中部"><AREA shape="poly" coords="341,90,329,129,370,146,373,150,376,152,373,154,372,161,371,164,367,167,364,167,366,174,368,177,375,173,378,172,383,177,390,178,459,178,459,109,427,97,404,89,392,92,381,96" href="javascript:goDistrict(2)" title="東北"></Map>
+            <br>
+        <div class="infotable"><table border="1"><tr><th>津波予報区名</th><th>大津波警報・津波警報・津波注意報グレード</th></tr><tr bgcolor='#FF4719'><td>福島県</td><td>津波警報</td></tr><tr bgcolor='#FAF500'><td>青森県太平洋沿岸</td><td>津波注意報</td></tr><tr bgcolor='#FAF500'><td>岩手県</td><td>津波注意報</td></tr><tr bgcolor='#FAF500'><td>宮城県</td><td>津波注意報</td></tr><tr bgcolor='#FAF500'><td>茨城県</td><td>津波注意報</td></tr><tr bgcolor='#FAF500'><td>千葉県九十九里・外房</td><td>津波注意報</td></tr><tr bgcolor='#FAF500'><td>千葉県内房</td><td>津波注意報</td></tr><tr bgcolor='#FAF500'><td>伊豆諸島</td><td>津波注意報</td></tr></table></div><br>
+        <a name="text"></a><pre class="textframe">津波警報・津波注意報
+平成２８年１１月２２日０７時２６分　気象庁発表
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊　見出し　＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+津波警報を切り替えました。
+　福島県
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊　本文　＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+津波注意報を発表した沿岸は次のとおりです。
+＜津波注意報＞
+　＊千葉県内房、＊伊豆諸島
+
+以下の沿岸（上記の＊印で示した沿岸）ではただちに津波が来襲すると予想
+されます。
+　千葉県内房、伊豆諸島
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊　発表状況　＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+津波警報・津波注意報を発表している沿岸は次のとおりです。
+＜津波警報＞
+　福島県
+＜津波注意報＞
+　青森県太平洋沿岸、岩手県、宮城県、茨城県、千葉県九十九里・外房、
+　千葉県内房、伊豆諸島
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊　解説　＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+＜津波警報＞
+津波による被害が発生します。
+沿岸部や川沿いにいる人はただちに高台や避難ビルなど安全な場所へ避難し
+てください。
+津波は繰り返し襲ってきます。警報が解除されるまで安全な場所から離れな
+いでください。
+＜津波注意報＞
+海の中や海岸付近は危険です。
+海の中にいる人はただちに海から上がって、海岸から離れてください。
+潮の流れが速い状態が続きますので、注意報が解除されるまで海に入ったり
+海岸に近づいたりしないようにしてください。
+＜津波予報（若干の海面変動）＞
+若干の海面変動が予想されますが、被害の心配はありません。
+
+＊＊＊＊＊＊＊＊＊＊＊＊　震源要素の速報　＊＊＊＊＊＊＊＊＊＊＊＊＊
+［震源、規模］
+きょう２２日０５時５９分頃地震がありました。
+震源地は、福島県沖（北緯３７．３度、東経１４１．６度、いわきの東北東
+６０ｋｍ付近）で、震源の深さは約１０ｋｍ、地震の規模（マグニチュード
+）は７．３と推定されます。
+
+</pre>
+</div><!-- end info div-->
+<div id="explain">
+<a name="explain"></a>
+<ul class="pagelink">
+<li><a href="http://www.data.jma.go.jp/svd/eqev/data/joho/tsunamiinfo.html">大津波警報・津波警報・津波注意報、津波情報、津波予報の解説</a>
+<li><a href="http://www.data.jma.go.jp/svd/eqev/data/joho/t-yohokuinfo.html">津波予報区の解説</a>
+<li><a href="http://www.data.jma.go.jp/svd/eqev/data/index.html">地震・津波の資料のページ</a>
+</ul>
+</div><!--end explain div-->
+<div id="gotop">
+<a href="#top">このページのトップへ</a>
+</div>
+</div><!--end main div-->
+</div><!--end base div-->
+<div id="foot">
+<p>気象庁：〒100-8122東京都千代田区大手町1-3-4  代表電話：03-3212-8341</p>
+<a href="/jma/kishou/info/coment.html">気象庁ホームページについて</a>
+</div>
+</body>
+</html>
