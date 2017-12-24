@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMAInformation", "JMAInformation\JMAInformation.csproj", "{0A58D2B9-C05F-44BC-8D6D-9F1B80D2FB4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuakeReceiver", "QuakeReceiver\QuakeReceiver.csproj", "{96C43DDB-94DE-47E3-82BA-ADE04028BA8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuakeAnalyzer", "QuakeAnalyzer\QuakeAnalyzer.csproj", "{DA146290-2F63-4B69-9A83-7FE298C80609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJMAInformation", "TestJMAInformation\TestJMAInformation.csproj", "{CAA09F17-1F87-4BD4-9042-725608F47334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A58D2B9-C05F-44BC-8D6D-9F1B80D2FB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A58D2B9-C05F-44BC-8D6D-9F1B80D2FB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A58D2B9-C05F-44BC-8D6D-9F1B80D2FB4E}.Debug|x86.ActiveCfg = Debug|x86
+		{0A58D2B9-C05F-44BC-8D6D-9F1B80D2FB4E}.Debug|x86.Build.0 = Debug|x86
+		{0A58D2B9-C05F-44BC-8D6D-9F1B80D2FB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A58D2B9-C05F-44BC-8D6D-9F1B80D2FB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A58D2B9-C05F-44BC-8D6D-9F1B80D2FB4E}.Release|x86.ActiveCfg = Release|x86
+		{0A58D2B9-C05F-44BC-8D6D-9F1B80D2FB4E}.Release|x86.Build.0 = Release|x86
+		{96C43DDB-94DE-47E3-82BA-ADE04028BA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96C43DDB-94DE-47E3-82BA-ADE04028BA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96C43DDB-94DE-47E3-82BA-ADE04028BA8A}.Debug|x86.ActiveCfg = Debug|x86
+		{96C43DDB-94DE-47E3-82BA-ADE04028BA8A}.Debug|x86.Build.0 = Debug|x86
+		{96C43DDB-94DE-47E3-82BA-ADE04028BA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96C43DDB-94DE-47E3-82BA-ADE04028BA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96C43DDB-94DE-47E3-82BA-ADE04028BA8A}.Release|x86.ActiveCfg = Release|x86
+		{96C43DDB-94DE-47E3-82BA-ADE04028BA8A}.Release|x86.Build.0 = Release|x86
+		{DA146290-2F63-4B69-9A83-7FE298C80609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA146290-2F63-4B69-9A83-7FE298C80609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA146290-2F63-4B69-9A83-7FE298C80609}.Debug|x86.ActiveCfg = Debug|x86
+		{DA146290-2F63-4B69-9A83-7FE298C80609}.Debug|x86.Build.0 = Debug|x86
+		{DA146290-2F63-4B69-9A83-7FE298C80609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA146290-2F63-4B69-9A83-7FE298C80609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA146290-2F63-4B69-9A83-7FE298C80609}.Release|x86.ActiveCfg = Release|x86
+		{DA146290-2F63-4B69-9A83-7FE298C80609}.Release|x86.Build.0 = Release|x86
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|x86.Build.0 = Debug|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|x86.ActiveCfg = Release|Any CPU
+		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = QuakeAnalyzer\QuakeAnalyzer.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $4
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.AlignEmbeddedUsingStatements = False
+		$3.AlignEmbeddedIfStatements = False
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/x-csharp
+		$3.scope = text/x-csharp
+		$4.inheritsSet = VisualStudio
+		$4.inheritsScope = text/plain
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+		$5.Text = 
+		$5.IncludeInNewFiles = True
+		$0.VersionControlPolicy = $6
+		$6.CommitMessageStyle = $7
+		$7.LastFilePostfix = "@:\n  "
+		$7.IncludeDirectoryPaths = True
+		$6.inheritsSet = Mono
+		$0.ChangeLogPolicy = $8
+		$8.UpdateMode = None
+		$8.MessageStyle = $9
+		$9.LineAlign = 0
+		$8.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal
