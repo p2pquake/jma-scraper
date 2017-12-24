@@ -51,7 +51,7 @@
       "isArea": true
     },
     {
-      "pref": "京都",
+      "pref": "京都府",
       "addr": "京都府北部",
       "scale": 40,
       "isArea": true
@@ -177,7 +177,7 @@
       "isArea": true
     },
     {
-      "pref": "京都",
+      "pref": "京都府",
       "addr": "京都府南部",
       "scale": 30,
       "isArea": true

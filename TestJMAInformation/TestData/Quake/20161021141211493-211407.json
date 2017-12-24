@@ -51,7 +51,7 @@
       "isArea": true
     },
     {
-      "pref": "京都",
+      "pref": "京都府",
       "addr": "京都府北部",
       "scale": 40,
       "isArea": true
@@ -177,7 +177,7 @@
       "isArea": true
     },
     {
-      "pref": "京都",
+      "pref": "京都府",
       "addr": "京都府南部",
       "scale": 30,
       "isArea": true
@@ -191,6 +191,12 @@
     {
       "pref": "兵庫県",
       "addr": "兵庫県南東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "奈良県",
+      "addr": "奈良県",
       "scale": 30,
       "isArea": true
     },
@@ -267,103 +273,103 @@
       "isArea": true
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "倉吉市",
       "scale": 55,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "湯梨浜町",
       "scale": 55,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "北栄町",
       "scale": 55,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "鳥取市",
       "scale": 50,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "三朝町",
       "scale": 50,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "鏡野町",
       "scale": 50,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "真庭市",
       "scale": 50,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "琴浦町",
       "scale": 45,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "日吉津村",
       "scale": 45,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "隠岐の島町",
       "scale": 45,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "新見市",
       "scale": 46,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "勝央町",
       "scale": 46,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "西粟倉村",
       "scale": 46,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "久米南町",
       "scale": 46,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "岡山美咲町",
       "scale": 46,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "美作市",
       "scale": 46,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "赤磐市",
       "scale": 46,
       "isArea": false

@@ -21,25 +21,25 @@
   },
   "points": [
     {
-      "pref": "",
+      "pref": "北海道",
       "addr": "日高地方東部",
       "scale": 40,
       "isArea": true
     },
     {
-      "pref": "",
+      "pref": "北海道",
       "addr": "十勝地方南部",
       "scale": 40,
       "isArea": true
     },
     {
-      "pref": "",
+      "pref": "北海道",
       "addr": "十勝地方中部",
       "scale": 30,
       "isArea": true
     },
     {
-      "pref": "",
+      "pref": "北海道",
       "addr": "釧路地方中南部",
       "scale": 30,
       "isArea": true
