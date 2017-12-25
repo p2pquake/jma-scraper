@@ -209,6 +209,12 @@ namespace P2PQuake.JMAInformation.Quake.Convert
                         Match match = Regex.Match(element, @"^([^市区町村]{2}[都道府県]|[^市区町村]{3}県)");
                         if (match.Success)
                             point.prefecture = match.Groups[1].Value;
+
+                        if (element.Contains("地方"))
+                            point.prefecture = "北海道";
+
+                        if (Regex.IsMatch(element, "伊豆大島|新島|神津島|三宅島|八丈島|小笠原"))
+                            point.prefecture = "東京都";
                     }
 
                     if (isAreaMode)
