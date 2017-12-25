@@ -1,0 +1,144 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/09 6:00:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/09 5:57:00",
+    "hypocenter": {
+      "name": "熊本県天草・芦北地方",
+      "latitude": 32.2,
+      "longitude": 130.4,
+      "depth": 10,
+      "magnitude": 3.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "水俣市陣内",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "水俣市牧ノ内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島市下福元",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島市本城",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "枕崎市高見町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島出水市緑町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島出水市野田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島出水市高尾野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "薩摩川内市中郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "薩摩川内市神田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "薩摩川内市祁答院町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "薩摩川内市入来町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "薩摩川内市東郷町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "薩摩川内市樋脇町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "さつま町宮之城屋地",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "さつま町宮之城保健センタ",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "さつま町神子",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "いちき串木野市緑町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "伊佐市大口山野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "伊佐市大口鳥巣",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

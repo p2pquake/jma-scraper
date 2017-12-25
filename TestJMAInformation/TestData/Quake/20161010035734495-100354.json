@@ -1,0 +1,444 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/10 3:57:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/10 3:54:00",
+    "hypocenter": {
+      "name": "熊本県熊本地方",
+      "latitude": 32.5,
+      "longitude": 130.7,
+      "depth": 10,
+      "magnitude": 3.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "宇城市豊野町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "氷川町島地",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "八代市泉町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "八代市千丁町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "八代市鏡町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "八代市東陽町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "八代市泉支所",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "八代市坂本町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "菊池市旭志",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "西原村小森",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "御船町御船",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "甲佐町豊内",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本美里町永富",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本美里町馬場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "宇城市松橋町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "宇城市小川町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山都町下馬尾",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "氷川町宮原",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本南区城南町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "球磨村渡",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "南阿蘇村河陽",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "八代市平山新町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "八代市松江城町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山鹿市鹿本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山鹿市鹿央町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山鹿市鹿北町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "菊池市隈府",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "宇土市新小路町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "大津町引水",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "菊陽町久保田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "嘉島町上島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "益城町木山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "宇城市三角町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "宇城市不知火町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本中央区大江",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本東区佐土原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本西区春日",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本南区富合町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本北区植木町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "人吉市西間下町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "人吉市蟹作町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "水上村岩野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "五木村甲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "上天草市大矢野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "上天草市龍ヶ岳町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "上天草市松島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "みやこ町犀川本庄",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "嘉麻市上臼井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "久留米市北野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "八女市黒木町今",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "八女市矢部村",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "小郡市小郡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "大刀洗町冨多",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "筑前町下高場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "筑前町新町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "筑前町篠隈",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "朝倉市杷木池田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "みやま市高田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "雲仙市小浜町雲仙",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "南島原市西有家町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "南島原市布津町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "日田市中津江村栃野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "西都市上の宮",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎都農町役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "諸塚村家代",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "椎葉村総合運動公園",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "椎葉村下福良",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日之影町岩井川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "霧島市横川町中ノ",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "伊佐市大口鳥巣",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

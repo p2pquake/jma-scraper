@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/25 21:10:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/25 21:08:00",
+    "hypocenter": {
+      "name": "釧路地方中南部",
+      "latitude": 43.3,
+      "longitude": 144.0,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "足寄町上螺湾",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "釧路市阿寒町中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "鶴居村鶴居東",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

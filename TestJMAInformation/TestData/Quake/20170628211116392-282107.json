@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/28 21:11:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/28 21:07:00",
+    "hypocenter": {
+      "name": "北海道東方沖",
+      "latitude": 43.6,
+      "longitude": 147.9,
+      "depth": 40,
+      "magnitude": 5.7
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

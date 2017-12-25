@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/12/26 9:52:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/26 9:49:00",
+    "hypocenter": {
+      "name": "高知県中部",
+      "latitude": 33.7,
+      "longitude": 133.9,
+      "depth": 10,
+      "magnitude": 3.7
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "高知県",
+      "addr": "高知県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "香美市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

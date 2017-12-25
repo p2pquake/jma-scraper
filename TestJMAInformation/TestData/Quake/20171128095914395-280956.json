@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/28 9:59:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/28 9:56:00",
+    "hypocenter": {
+      "name": "宮城県沖",
+      "latitude": 38.9,
+      "longitude": 141.9,
+      "depth": 50,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岩手県",
+      "addr": "一関市室根町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

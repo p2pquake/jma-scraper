@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/03 15:27:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/03 15:23:00",
+    "hypocenter": {
+      "name": "茨城県南部",
+      "latitude": 36.1,
+      "longitude": 140.0,
+      "depth": 70,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "土浦市常名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "石岡市柿岡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "筑西市門井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "宇都宮市明保野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "佐野市高砂町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "小山市神鳥谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "下野市笹原",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/13 22:31:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/13 22:28:00",
+    "hypocenter": {
+      "name": "福島県会津",
+      "latitude": 37.4,
+      "longitude": 139.7,
+      "depth": 0,
+      "magnitude": 2.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福島県",
+      "addr": "柳津町大成沢",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

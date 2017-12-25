@@ -1,0 +1,84 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/18 1:32:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/18 1:28:00",
+    "hypocenter": {
+      "name": "滋賀県北部",
+      "latitude": 35.6,
+      "longitude": 136.3,
+      "depth": 40,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福井県",
+      "addr": "大野市朝日",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "越前市村国",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "敦賀市松栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "福井美浜町郷市",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町三輪",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町東杉原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町東津汲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "本巣市根尾",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "高島市朽木柏",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "高島市勝野",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/06/08 9:29:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/08 9:25:00",
+    "hypocenter": {
+      "name": "千葉県東方沖",
+      "latitude": 35.6,
+      "longitude": 140.7,
+      "depth": 40,
+      "magnitude": 4.7
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "千葉県北東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "旭市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "匝瑳市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "山武市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

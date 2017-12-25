@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/24 16:18:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/24 16:14:00",
+    "hypocenter": {
+      "name": "苫小牧沖",
+      "latitude": 42.4,
+      "longitude": 141.8,
+      "depth": 130,
+      "magnitude": 3.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "新千歳空港",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "千歳市若草",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "函館市新浜町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/07 21:51:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/07 21:48:00",
+    "hypocenter": {
+      "name": "福島県沖",
+      "latitude": 37.8,
+      "longitude": 141.1,
+      "depth": 70,
+      "magnitude": 4.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

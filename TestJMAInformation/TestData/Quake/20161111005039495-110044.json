@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/11 0:50:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/11 0:44:00",
+    "hypocenter": {
+      "name": "薩摩半島西方沖",
+      "latitude": 31.6,
+      "longitude": 130.3,
+      "depth": 0,
+      "magnitude": 1.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "日置市日吉町日置",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

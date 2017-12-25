@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/13 13:25:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/13 13:22:00",
+    "hypocenter": {
+      "name": "青森県津軽南部",
+      "latitude": 40.5,
+      "longitude": 140.0,
+      "depth": 10,
+      "magnitude": 3.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "青森県",
+      "addr": "深浦町長慶平",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "深浦町深浦岡町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "深浦町岩崎",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

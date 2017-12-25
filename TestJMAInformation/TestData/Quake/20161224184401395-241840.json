@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/24 18:44:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/24 18:40:00",
+    "hypocenter": {
+      "name": "上川地方南部",
+      "latitude": 43.5,
+      "longitude": 142.5,
+      "depth": 180,
+      "magnitude": 4.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "十勝大樹町生花",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "階上町道仏",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/09 17:01:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/09 16:58:00",
+    "hypocenter": {
+      "name": "根室半島南東沖",
+      "latitude": 43.0,
+      "longitude": 145.5,
+      "depth": 50,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "浜中町霧多布",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室市厚床",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室市珸瑶瑁",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

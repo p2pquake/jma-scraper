@@ -1,0 +1,78 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/28 1:24:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/28 1:20:00",
+    "hypocenter": {
+      "name": "千葉県北西部",
+      "latitude": 35.6,
+      "longitude": 140.2,
+      "depth": 70,
+      "magnitude": 3.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "坂東市岩井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京千代田区大手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京世田谷区三軒茶屋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "小平市小川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜保土ケ谷区上菅田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜緑区十日市場町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜青葉区市ケ尾町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎中原区小杉町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原中央区上溝",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

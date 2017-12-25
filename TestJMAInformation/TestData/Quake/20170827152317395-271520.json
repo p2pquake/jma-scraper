@@ -1,0 +1,78 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/27 15:23:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/27 15:20:00",
+    "hypocenter": {
+      "name": "日高地方東部",
+      "latitude": 42.3,
+      "longitude": 143.0,
+      "depth": 60,
+      "magnitude": 3.8
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "幕別町忠類錦町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "浦河町野深",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "浦河町潮見",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "浦河町築地",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "芽室町東２条",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "浦幌町桜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "更別村更別",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "十勝大樹町東本通",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "十勝大樹町生花",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/11/16 20:40:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/16 20:36:00",
+    "hypocenter": {
+      "name": "宮城県沖",
+      "latitude": 38.7,
+      "longitude": 142.0,
+      "depth": 60,
+      "magnitude": 4.2
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岩手県",
+      "addr": "岩手県沿岸南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "住田町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

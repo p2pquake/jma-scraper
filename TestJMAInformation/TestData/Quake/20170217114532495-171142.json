@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/17 11:45:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/17 11:42:00",
+    "hypocenter": {
+      "name": "大阪府北部",
+      "latitude": 34.8,
+      "longitude": 135.5,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "大阪府",
+      "addr": "大阪東淀川区北江口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪旭区大宮",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪北区茶屋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "吹田市内本町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

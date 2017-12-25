@@ -1,0 +1,60 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/11 14:23:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/11 14:19:00",
+    "hypocenter": {
+      "name": "鹿児島湾",
+      "latitude": 31.3,
+      "longitude": 130.6,
+      "depth": 0,
+      "magnitude": 2.9
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "指宿市十町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島市下福元",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島市喜入町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "指宿市山川新生町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "錦江町城元",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "南大隅町根占",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

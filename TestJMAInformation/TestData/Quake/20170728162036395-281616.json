@@ -1,0 +1,54 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/28 16:20:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/28 16:16:00",
+    "hypocenter": {
+      "name": "茨城県沖",
+      "latitude": 36.3,
+      "longitude": 141.9,
+      "depth": 0,
+      "magnitude": 5.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福島県",
+      "addr": "天栄村下松本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "日立市助川小学校",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "笠間市石井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "土浦市常名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "香取市役所",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

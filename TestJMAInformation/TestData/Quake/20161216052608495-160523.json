@@ -1,0 +1,102 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/16 5:26:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/16 5:23:00",
+    "hypocenter": {
+      "name": "和歌山県北部",
+      "latitude": 34.2,
+      "longitude": 135.6,
+      "depth": 70,
+      "magnitude": 3.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "三重県",
+      "addr": "尾鷲市南浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "河内長野市清見台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "桜井市初瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "御所市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "生駒市東新町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "平群町吉新",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "御杖村菅野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "上牧町上牧",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "吉野町上市",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "黒滝村寺戸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "宇陀市榛原下井足",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "宇陀市大宇陀迫間",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "白浜町日置",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

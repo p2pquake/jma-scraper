@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/31 7:41:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/31 7:38:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.1,
+      "longitude": 126.9,
+      "depth": 60,
+      "magnitude": 3.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "座間味村座間味",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

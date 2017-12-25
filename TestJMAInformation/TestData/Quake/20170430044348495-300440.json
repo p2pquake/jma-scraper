@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/30 4:43:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/30 4:40:00",
+    "hypocenter": {
+      "name": "大隅半島東方沖",
+      "latitude": 30.8,
+      "longitude": 131.5,
+      "depth": 30,
+      "magnitude": 3.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "錦江町田代支所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "西之表市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "中種子町野間",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

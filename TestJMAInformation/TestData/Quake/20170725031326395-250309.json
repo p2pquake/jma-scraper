@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/25 3:13:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/25 3:09:00",
+    "hypocenter": {
+      "name": "三陸沖",
+      "latitude": 40.1,
+      "longitude": 143.2,
+      "depth": 10,
+      "magnitude": 4.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岩手県",
+      "addr": "盛岡市薮川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "八幡平市田頭",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

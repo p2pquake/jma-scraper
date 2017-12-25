@@ -1,0 +1,276 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/02/11 6:09:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/11 6:05:00",
+    "hypocenter": {
+      "name": "福島県沖",
+      "latitude": 37.2,
+      "longitude": 141.8,
+      "depth": 40,
+      "magnitude": 5.2
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "宮城県",
+      "addr": "宮城県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮城県",
+      "addr": "宮城県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮城県",
+      "addr": "宮城県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "山形県",
+      "addr": "山形県村山",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "福島県",
+      "addr": "福島県中通り",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "福島県",
+      "addr": "福島県浜通り",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "福島県",
+      "addr": "福島県会津",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "栃木県",
+      "addr": "栃木県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "宮城加美町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "色麻町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大崎市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "名取市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "角田市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "岩沼市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "蔵王町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "宮城川崎町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "亘理町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "山元町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "仙台青葉区",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "石巻市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "利府町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "中山町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "郡山市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "白河市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "須賀川市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "桑折町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "国見町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大玉村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "天栄村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "泉崎村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "玉川村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "田村市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "福島伊達市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "相馬市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "楢葉町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大熊町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "双葉町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "浪江町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "新地町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "会津美里町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大田原市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "那須町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

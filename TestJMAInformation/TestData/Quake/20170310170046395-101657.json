@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/10 17:00:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/10 16:57:00",
+    "hypocenter": {
+      "name": "福島県沖",
+      "latitude": 37.2,
+      "longitude": 141.5,
+      "depth": 20,
+      "magnitude": 4.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福島県",
+      "addr": "天栄村下松本",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

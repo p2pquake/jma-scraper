@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/28 18:31:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/28 18:28:00",
+    "hypocenter": {
+      "name": "和歌山県南部",
+      "latitude": 33.7,
+      "longitude": 135.5,
+      "depth": 10,
+      "magnitude": 3.3
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "和歌山県",
+      "addr": "上富田町朝来",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "御坊市薗",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "湯浅町青木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "みなべ町芝",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "田辺市中屋敷町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "白浜町消防本部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "白浜町日置",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

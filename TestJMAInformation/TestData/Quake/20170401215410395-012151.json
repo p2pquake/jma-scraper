@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/01 21:54:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/01 21:51:00",
+    "hypocenter": {
+      "name": "岩手県内陸南部",
+      "latitude": 39.4,
+      "longitude": 140.7,
+      "depth": 10,
+      "magnitude": 2.9
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "秋田県",
+      "addr": "秋田美郷町六郷東根",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "横手市山内土渕",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

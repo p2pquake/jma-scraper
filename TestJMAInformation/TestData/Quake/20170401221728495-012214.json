@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/01 22:17:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/01 22:14:00",
+    "hypocenter": {
+      "name": "山口県北西沖",
+      "latitude": 34.0,
+      "longitude": 130.9,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "山口県",
+      "addr": "下関市豊浦町川棚",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "下関市清末陣屋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "下関市菊川町田部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "北九州八幡東区大谷",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

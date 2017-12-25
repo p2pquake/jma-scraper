@@ -1,0 +1,54 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/11 10:05:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/11 10:02:00",
+    "hypocenter": {
+      "name": "宮崎県南部山沿い",
+      "latitude": 32.0,
+      "longitude": 131.1,
+      "depth": 100,
+      "magnitude": 3.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "宮崎県",
+      "addr": "延岡市北方町卯",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "西都市上の宮",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "椎葉村総合運動公園",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "小林市真方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "小林市野尻町東麓",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

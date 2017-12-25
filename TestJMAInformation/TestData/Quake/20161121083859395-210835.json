@@ -1,0 +1,114 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/21 8:38:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/21 8:35:00",
+    "hypocenter": {
+      "name": "三重県中部",
+      "latitude": 34.8,
+      "longitude": 136.4,
+      "depth": 20,
+      "magnitude": 3.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "三重県",
+      "addr": "津市島崎町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市西丸之内",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市安濃町東観音寺",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "鈴鹿市西条",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "亀山市椿世町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市片田薬王寺町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市河芸町浜田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市芸濃町椋本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市美里町三郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市一志町田尻",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市久居明神町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "松阪市上川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "松阪市魚町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "伊賀市小田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "伊勢市楠部町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

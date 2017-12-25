@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/21 16:10:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/21 16:07:00",
+    "hypocenter": {
+      "name": "千葉県北西部",
+      "latitude": 35.8,
+      "longitude": 140.2,
+      "depth": 60,
+      "magnitude": 4.3
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

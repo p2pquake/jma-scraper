@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/07 18:48:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/07 18:46:00",
+    "hypocenter": {
+      "name": "釧路沖",
+      "latitude": 42.4,
+      "longitude": 144.9,
+      "depth": 60,
+      "magnitude": 4.3
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "釧路市黒金町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "釧路市幸町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "釧路市阿寒町中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "浜中町湯沸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "浜中町霧多布",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "白糠町西１条",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "別海町西春別",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

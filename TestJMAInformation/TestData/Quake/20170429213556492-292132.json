@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/29 21:35:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/29 21:32:00",
+    "hypocenter": {
+      "name": "大隅半島東方沖",
+      "latitude": 30.8,
+      "longitude": 131.5,
+      "depth": 50,
+      "magnitude": 5.7
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

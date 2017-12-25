@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/11 23:57:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/11 23:54:00",
+    "hypocenter": {
+      "name": "日向灘",
+      "latitude": 32.8,
+      "longitude": 132.2,
+      "depth": 40,
+      "magnitude": 3.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "愛媛県",
+      "addr": "愛南町船越",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "佐伯市本匠",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

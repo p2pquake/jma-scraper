@@ -1,0 +1,90 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/14 15:53:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/14 15:50:00",
+    "hypocenter": {
+      "name": "福島県沖",
+      "latitude": 37.4,
+      "longitude": 141.6,
+      "depth": 20,
+      "magnitude": 4.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "宮城県",
+      "addr": "角田市角田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮城県",
+      "addr": "岩沼市桜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮城県",
+      "addr": "蔵王町円田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山形県",
+      "addr": "米沢市林泉寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "郡山市朝日",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "須賀川市八幡山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "鏡石町不時沼",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "天栄村下松本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "田村市船引町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "いわき市三和町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "双葉町両竹",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/19 19:28:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/19 19:25:00",
+    "hypocenter": {
+      "name": "千葉県北東部",
+      "latitude": 35.7,
+      "longitude": 140.7,
+      "depth": 60,
+      "magnitude": 3.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "東金市日吉台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "多古町多古",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "芝山町小池",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "香取市仁良",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "山武市松尾町富士見台",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

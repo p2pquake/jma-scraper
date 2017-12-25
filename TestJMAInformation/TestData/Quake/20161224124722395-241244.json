@@ -1,0 +1,102 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/24 12:47:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/24 12:44:00",
+    "hypocenter": {
+      "name": "岐阜県美濃東部",
+      "latitude": 35.3,
+      "longitude": 137.1,
+      "depth": 40,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "恵那市上矢作町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "恵那市山岡町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "美濃加茂市太田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "土岐市泉町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "可児市広見",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "川辺町中川辺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "八百津町八百津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "美濃市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "各務原市川島河田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町谷汲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜山県市高富",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "犬山市五郎丸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "長久手市岩作城の内",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

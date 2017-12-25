@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/27 10:36:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/27 10:33:00",
+    "hypocenter": {
+      "name": "国後島付近",
+      "latitude": 43.4,
+      "longitude": 145.8,
+      "depth": 70,
+      "magnitude": 3.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "根室市落石東",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室市珸瑶瑁",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

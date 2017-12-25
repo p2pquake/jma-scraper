@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/20 6:49:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/20 6:46:00",
+    "hypocenter": {
+      "name": "鳥取県東部",
+      "latitude": 35.4,
+      "longitude": 134.3,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鳥取県",
+      "addr": "八頭町船岡",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取市吉成",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取市河原町渡一木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取市用瀬町用瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取市佐治町加瀬木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "八頭町郡家",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "真庭市下方",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

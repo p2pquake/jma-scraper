@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/23 4:53:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/23 4:51:00",
+    "hypocenter": {
+      "name": "茨城県沖",
+      "latitude": 36.0,
+      "longitude": 141.4,
+      "depth": 20,
+      "magnitude": 3.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "香取市仁良",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

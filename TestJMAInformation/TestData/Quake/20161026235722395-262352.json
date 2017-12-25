@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/26 23:57:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/26 23:52:00",
+    "hypocenter": {
+      "name": "熊本県球磨地方",
+      "latitude": 32.2,
+      "longitude": 130.6,
+      "depth": 0,
+      "magnitude": 1.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "球磨村渡",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/11 18:45:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/11 18:42:00",
+    "hypocenter": {
+      "name": "静岡県中部",
+      "latitude": 35.1,
+      "longitude": 138.4,
+      "depth": 30,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "静岡県",
+      "addr": "東伊豆町奈良本",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

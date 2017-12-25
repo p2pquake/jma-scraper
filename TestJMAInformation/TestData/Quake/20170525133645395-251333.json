@@ -1,0 +1,96 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/25 13:36:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/25 13:33:00",
+    "hypocenter": {
+      "name": "千葉県南部",
+      "latitude": 35.2,
+      "longitude": 140.3,
+      "depth": 30,
+      "magnitude": 3.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "一宮町一宮",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "勝浦市墨名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "勝浦市新官",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "鴨川市八色",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "鴨川市内浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "鴨川市横渚",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "鴨川市天津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "君津市久留里市場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "大多喜町大多喜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "御宿町須賀",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "いすみ市国府台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京千代田区大手町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

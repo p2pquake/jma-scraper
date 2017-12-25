@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/12 6:47:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/12 6:44:00",
+    "hypocenter": {
+      "name": "宮城県沖",
+      "latitude": 38.4,
+      "longitude": 142.3,
+      "depth": 30,
+      "magnitude": 4.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "宮城県",
+      "addr": "気仙沼市笹が陣",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮城県",
+      "addr": "石巻市大街道南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮城県",
+      "addr": "石巻市桃生町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮城県",
+      "addr": "女川町女川浜",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/07 12:36:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/07 12:32:00",
+    "hypocenter": {
+      "name": "長野県中部",
+      "latitude": 36.2,
+      "longitude": 138.0,
+      "depth": 10,
+      "magnitude": 3.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "松本市丸の内",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "松本市寿",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "松本市沢村",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "松本市美須々",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "上田市上武石",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "岡谷市幸町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "諏訪市湖岸通り",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "茅野市葛井公園",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "塩尻市広丘高出",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "佐久市下小田切",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "立科町芦田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "下諏訪町役場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "山形村役場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "朝日村小野沢",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長和町古町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長和町和田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "安曇野市豊科",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "大町市美麻",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "松本市安曇",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "松本市梓川梓",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "松本市波田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "上田市上田古戦場公園",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "上田市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "上田市上丸子",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "諏訪市高島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "塩尻市楢川保育園",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "塩尻市木曽平沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "佐久市望月",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "佐久市臼田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "青木村田沢青木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "佐久穂町高野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "佐久穂町畑",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "安曇野市穂高支所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "安曇野市穂高福祉センター",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "安曇野市堀金",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "安曇野市明科",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "筑北村坂井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "伊那市高遠町荊口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "辰野町中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "東吾妻町原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "渋川市赤城町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "富岡市七日市",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "安中市松井田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨北杜市長坂町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

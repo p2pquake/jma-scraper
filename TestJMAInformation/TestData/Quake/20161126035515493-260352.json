@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/11/26 3:55:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/26 3:52:00",
+    "hypocenter": {
+      "name": "豊後水道",
+      "latitude": 33.2,
+      "longitude": 132.1,
+      "depth": 50,
+      "magnitude": 3.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "大分県",
+      "addr": "大分県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "大分市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

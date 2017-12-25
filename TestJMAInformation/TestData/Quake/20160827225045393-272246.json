@@ -1,0 +1,60 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/08/27 22:50:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/08/27 22:46:00",
+    "hypocenter": {
+      "name": "茨城県南部",
+      "latitude": 36.1,
+      "longitude": 139.9,
+      "depth": 50,
+      "magnitude": 4.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "栃木県",
+      "addr": "栃木県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "埼玉県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "宇都宮市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "真岡市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "下野市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "熊谷市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

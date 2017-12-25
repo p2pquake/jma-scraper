@@ -1,0 +1,78 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/04 12:34:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/04 12:31:00",
+    "hypocenter": {
+      "name": "島根県東部",
+      "latitude": 35.2,
+      "longitude": 132.7,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "島根県",
+      "addr": "出雲市多伎町小田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市佐田町反辺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市掛合町掛合",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市三刀屋町三刀屋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "大田市大田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "大田市仁摩町仁万",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "大田市温泉津町小浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根美郷町君谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根美郷町粕淵",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

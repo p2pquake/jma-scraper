@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/09/02 3:01:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/02 1:38:00",
+    "hypocenter": {
+      "name": "ニュージーランド、北島東方沖",
+      "latitude": -37.5,
+      "longitude": 179.2,
+      "depth": -1,
+      "magnitude": 7.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

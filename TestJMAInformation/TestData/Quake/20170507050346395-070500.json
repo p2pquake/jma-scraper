@@ -1,0 +1,258 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/07 5:03:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/07 5:00:00",
+    "hypocenter": {
+      "name": "茨城県沖",
+      "latitude": 36.5,
+      "longitude": 141.2,
+      "depth": 40,
+      "magnitude": 4.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "日立市助川小学校",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "高萩市安良川",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "水戸市金町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "水戸市千波町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "水戸市内原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "日立市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "日立市十王町友部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸太田市町屋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸太田市町田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸太田市高柿町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "高萩市下手綱",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "北茨城市磯原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "笠間市石井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "笠間市中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "笠間市笠間",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "ひたちなか市南神敷台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "ひたちなか市東石川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "東海村東海",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "大子町池田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸大宮市北町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸大宮市山方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸大宮市高部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸大宮市上小瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸大宮市野口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "城里町石塚",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "小美玉市堅倉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "土浦市常名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "桜川市岩瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "白河市新白河",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "大田原市湯津上",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "宇都宮市中里町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "真岡市田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "真岡市石島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "茂木町茂木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "芳賀町祖母井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "那須烏山市中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "栃木那珂川町馬頭",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "栃木那珂川町小川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "下野市笹原",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

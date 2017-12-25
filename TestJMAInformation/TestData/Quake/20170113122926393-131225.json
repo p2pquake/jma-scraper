@@ -1,0 +1,102 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/01/13 12:29:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/13 12:25:00",
+    "hypocenter": {
+      "name": "千葉県北東部",
+      "latitude": 35.7,
+      "longitude": 140.6,
+      "depth": 50,
+      "magnitude": 4.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "茨城県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉県北東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉県北西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "神栖市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "東金市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "旭市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "多古町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "芝山町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "匝瑳市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "香取市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "横芝光町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "山武市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "成田市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

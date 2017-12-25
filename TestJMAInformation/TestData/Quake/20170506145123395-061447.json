@@ -1,0 +1,84 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/06 14:51:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/06 14:47:00",
+    "hypocenter": {
+      "name": "愛知県西部",
+      "latitude": 35.1,
+      "longitude": 136.8,
+      "depth": 20,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "愛知県",
+      "addr": "名古屋千種区日和町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "名古屋北区萩野通",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "名古屋西区八筋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "名古屋港区善進本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "名古屋守山区下志段味",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "一宮市千秋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "大府市中央町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "愛西市石田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "愛西市江西町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "あま市甚目寺",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/30 0:27:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/30 0:24:00",
+    "hypocenter": {
+      "name": "福井県嶺北",
+      "latitude": 35.8,
+      "longitude": 136.4,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福井県",
+      "addr": "福井池田町稲荷",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/07 10:18:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/07 10:15:00",
+    "hypocenter": {
+      "name": "宗谷地方北部",
+      "latitude": 45.1,
+      "longitude": 142.0,
+      "depth": 10,
+      "magnitude": 3.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "豊富町西６条",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "稚内市沼川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "幌延町宮園町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

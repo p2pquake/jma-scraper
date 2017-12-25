@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/08/30 11:54:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/30 11:50:00",
+    "hypocenter": {
+      "name": "石狩地方南部",
+      "latitude": 42.8,
+      "longitude": 141.5,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "石狩地方南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "千歳市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

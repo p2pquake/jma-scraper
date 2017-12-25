@@ -1,0 +1,54 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/08 10:30:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/08 10:27:00",
+    "hypocenter": {
+      "name": "熊本県球磨地方",
+      "latitude": 32.3,
+      "longitude": 130.7,
+      "depth": 0,
+      "magnitude": 2.9
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "球磨村渡",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "八代市坂本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "人吉市西間下町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "人吉市蟹作町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山江村山田",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

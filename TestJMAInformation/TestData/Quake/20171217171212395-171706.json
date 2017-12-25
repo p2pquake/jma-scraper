@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/12/17 17:12:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/17 17:06:00",
+    "hypocenter": {
+      "name": "小笠原諸島西方沖",
+      "latitude": 28.0,
+      "longitude": 140.4,
+      "depth": 480,
+      "magnitude": 4.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "小笠原村母島",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

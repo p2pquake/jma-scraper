@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/13 4:56:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/13 4:49:00",
+    "hypocenter": {
+      "name": "日本海西部",
+      "latitude": 40.9,
+      "longitude": 131.8,
+      "depth": 590,
+      "magnitude": 6.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "浦河町潮見",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "白糠町西１条",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "いわき市小名浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "宮代町笠原",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

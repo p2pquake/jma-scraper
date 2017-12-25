@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/22 8:55:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/22 8:52:00",
+    "hypocenter": {
+      "name": "宮城県沖",
+      "latitude": 38.0,
+      "longitude": 141.3,
+      "depth": 10,
+      "magnitude": 3.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "Warning",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福島県",
+      "addr": "浪江町幾世橋",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

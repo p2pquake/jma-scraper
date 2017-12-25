@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/08 2:32:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/08 2:27:00",
+    "hypocenter": {
+      "name": "小笠原諸島西方沖",
+      "latitude": 28.0,
+      "longitude": 140.6,
+      "depth": 460,
+      "magnitude": 6.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

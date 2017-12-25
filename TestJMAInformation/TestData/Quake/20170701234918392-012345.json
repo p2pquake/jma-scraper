@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/01 23:49:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/01 23:45:00",
+    "hypocenter": {
+      "name": "胆振地方中東部",
+      "latitude": 42.8,
+      "longitude": 141.9,
+      "depth": 30,
+      "magnitude": 5.3
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

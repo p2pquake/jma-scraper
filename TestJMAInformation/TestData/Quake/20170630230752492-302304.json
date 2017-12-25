@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/30 23:07:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/30 23:04:00",
+    "hypocenter": {
+      "name": "宮古島北西沖",
+      "latitude": 25.7,
+      "longitude": 125.2,
+      "depth": 90,
+      "magnitude": 5.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

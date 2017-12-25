@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/05 13:39:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/05 13:35:00",
+    "hypocenter": {
+      "name": "秋田県沖",
+      "latitude": 39.7,
+      "longitude": 139.9,
+      "depth": 20,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "秋田県",
+      "addr": "秋田市八橋運動公園",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/10 6:48:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/10 6:45:00",
+    "hypocenter": {
+      "name": "日向灘",
+      "latitude": 32.6,
+      "longitude": 132.2,
+      "depth": 30,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "宮崎県",
+      "addr": "延岡市天神小路",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

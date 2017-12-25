@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/12/20 4:52:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/20 4:49:00",
+    "hypocenter": {
+      "name": "青森県東方沖",
+      "latitude": 41.0,
+      "longitude": 142.0,
+      "depth": 60,
+      "magnitude": 4.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

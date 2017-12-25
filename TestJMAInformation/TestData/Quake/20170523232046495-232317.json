@@ -1,0 +1,54 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/23 23:20:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/23 23:17:00",
+    "hypocenter": {
+      "name": "大隅半島東方沖",
+      "latitude": 30.8,
+      "longitude": 131.5,
+      "depth": 40,
+      "magnitude": 3.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿屋市新栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿屋市札元",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "錦江町田代支所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "肝付町北方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "西之表市役所",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

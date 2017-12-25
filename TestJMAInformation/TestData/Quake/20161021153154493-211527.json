@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/10/21 15:31:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/21 15:27:00",
+    "hypocenter": {
+      "name": "鳥取県中部",
+      "latitude": 35.4,
+      "longitude": 133.8,
+      "depth": 10,
+      "magnitude": 3.7
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "倉吉市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "湯梨浜町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "北栄町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

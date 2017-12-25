@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/28 18:13:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/28 18:09:00",
+    "hypocenter": {
+      "name": "和歌山県北部",
+      "latitude": 34.1,
+      "longitude": 135.2,
+      "depth": 10,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "和歌山県",
+      "addr": "有田市初島町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

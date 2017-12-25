@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/03/14 13:01:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/14 12:57:00",
+    "hypocenter": {
+      "name": "日高地方西部",
+      "latitude": 42.8,
+      "longitude": 142.7,
+      "depth": 90,
+      "magnitude": 4.5
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "胆振地方中東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "安平町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

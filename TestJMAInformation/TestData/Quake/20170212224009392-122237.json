@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/12 22:40:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/12 22:37:00",
+    "hypocenter": {
+      "name": "岩手県沖",
+      "latitude": 40.2,
+      "longitude": 142.3,
+      "depth": 40,
+      "magnitude": 4.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

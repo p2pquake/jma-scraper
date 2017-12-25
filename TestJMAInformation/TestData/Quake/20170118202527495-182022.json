@@ -1,0 +1,102 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/18 20:25:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/18 20:22:00",
+    "hypocenter": {
+      "name": "和歌山県北部",
+      "latitude": 34.3,
+      "longitude": 135.4,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "和歌山県",
+      "addr": "紀の川市粉河",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "紀の川市那賀総合センター",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "紀の川市桃山町元",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "紀の川市貴志川町神戸",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "海南市下津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "海南市日方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "橋本市東家",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "かつらぎ町丁ノ町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "湯浅町青木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "紀美野町下佐々",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "岩出市西野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "泉南市男里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "熊取町野田",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/31 16:56:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/31 16:52:00",
+    "hypocenter": {
+      "name": "サハリン南部付近",
+      "latitude": 46.3,
+      "longitude": 142.1,
+      "depth": 10,
+      "magnitude": 4.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "礼文町船泊",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

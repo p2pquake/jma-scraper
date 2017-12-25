@@ -1,0 +1,54 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/12/13 4:27:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/13 4:24:00",
+    "hypocenter": {
+      "name": "奈良県",
+      "latitude": 34.4,
+      "longitude": 135.9,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "奈良県",
+      "addr": "吉野町上市",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "桜井市初瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "高取町観覚寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "東吉野村小川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "宇陀市大宇陀迫間",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

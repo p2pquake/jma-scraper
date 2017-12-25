@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/06 22:39:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/06 22:36:00",
+    "hypocenter": {
+      "name": "千葉県東方沖",
+      "latitude": 35.4,
+      "longitude": 140.7,
+      "depth": 30,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "長南町長南",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

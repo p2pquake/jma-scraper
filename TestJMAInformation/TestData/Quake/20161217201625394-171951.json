@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/12/17 20:16:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/17 19:51:00",
+    "hypocenter": {
+      "name": "パプアニューギニア、ニューアイルランド",
+      "latitude": -4.5,
+      "longitude": 153.6,
+      "depth": -1,
+      "magnitude": 8.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "Checking",
+    "foreignTsunami": "WarningPacificWide"
+  },
+  "points": []
+}

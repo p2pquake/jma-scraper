@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/21 19:22:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/21 19:20:00",
+    "hypocenter": {
+      "name": "鳥取県中部",
+      "latitude": 35.4,
+      "longitude": 133.8,
+      "depth": 10,
+      "magnitude": 3.7
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

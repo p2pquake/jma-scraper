@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/11/16 18:49:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/16 18:43:00",
+    "hypocenter": {
+      "name": "八丈島東方沖",
+      "latitude": 32.4,
+      "longitude": 140.9,
+      "depth": 20,
+      "magnitude": 6.2
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "八丈島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "青ヶ島村",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/10/09 7:02:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/09 6:59:00",
+    "hypocenter": {
+      "name": "長野県南部",
+      "latitude": 35.8,
+      "longitude": 137.6,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "長野県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "木曽町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

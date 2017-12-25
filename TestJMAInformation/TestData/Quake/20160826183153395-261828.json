@@ -1,0 +1,90 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/08/26 18:31:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/08/26 18:28:00",
+    "hypocenter": {
+      "name": "千葉県北西部",
+      "latitude": 35.6,
+      "longitude": 140.2,
+      "depth": 80,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "千葉中央区中央港",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉中央区都町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉花見川区花島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉稲毛区園生町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉緑区おゆみ野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京千代田区大手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京世田谷区三軒茶屋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京江戸川区船堀",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "調布市西つつじヶ丘",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜神奈川区神大寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎中原区小杉町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/11/22 6:45:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/22 6:39:00",
+    "hypocenter": {
+      "name": "福島県浜通り",
+      "latitude": 37.3,
+      "longitude": 140.9,
+      "depth": 50,
+      "magnitude": 5.5
+    },
+    "maxScale": 30,
+    "domesticTsunami": "Warning",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "宮城県",
+      "addr": "宮城県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮城県",
+      "addr": "宮城県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "福島県",
+      "addr": "福島県浜通り",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "大崎市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "石巻市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "いわき市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "福島広野町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "楢葉町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "富岡町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "双葉町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "南相馬市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/05 1:47:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/05 1:42:00",
+    "hypocenter": {
+      "name": "千葉県北東部",
+      "latitude": 35.9,
+      "longitude": 140.4,
+      "depth": 90,
+      "magnitude": 3.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "日立市助川小学校",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

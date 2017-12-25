@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/10 17:07:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/10 17:04:00",
+    "hypocenter": {
+      "name": "岩手県沖",
+      "latitude": 40.4,
+      "longitude": 142.1,
+      "depth": 50,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "青森県",
+      "addr": "階上町道仏",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "九戸村伊保内",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

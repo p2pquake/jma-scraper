@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/10/19 1:53:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/19 1:50:00",
+    "hypocenter": {
+      "name": "岩手県沖",
+      "latitude": 40.0,
+      "longitude": 142.0,
+      "depth": 10,
+      "magnitude": 4.0
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岩手県",
+      "addr": "岩手県沿岸北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "普代村",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

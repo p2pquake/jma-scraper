@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/21 12:30:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/21 12:27:00",
+    "hypocenter": {
+      "name": "四国沖",
+      "latitude": 33.4,
+      "longitude": 134.9,
+      "depth": 40,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "徳島県",
+      "addr": "阿南市山口町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

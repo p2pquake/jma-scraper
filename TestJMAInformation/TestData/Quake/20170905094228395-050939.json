@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/05 9:42:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/05 9:39:00",
+    "hypocenter": {
+      "name": "千葉県北西部",
+      "latitude": 35.3,
+      "longitude": 140.2,
+      "depth": 30,
+      "magnitude": 3.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "一宮町一宮",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

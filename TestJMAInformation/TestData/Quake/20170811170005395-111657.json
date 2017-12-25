@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/11 17:00:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/11 16:57:00",
+    "hypocenter": {
+      "name": "長野県北部",
+      "latitude": 36.8,
+      "longitude": 138.6,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "群馬県",
+      "addr": "草津町草津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "山ノ内町消防署",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

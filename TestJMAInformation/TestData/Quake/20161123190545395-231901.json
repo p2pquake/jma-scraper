@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/23 19:05:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/23 19:01:00",
+    "hypocenter": {
+      "name": "小笠原諸島西方沖",
+      "latitude": 27.3,
+      "longitude": 140.8,
+      "depth": 510,
+      "magnitude": 5.7
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "小笠原村母島",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "小笠原村父島西町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "小笠原村父島三日月山",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

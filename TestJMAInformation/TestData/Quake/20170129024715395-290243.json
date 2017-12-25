@@ -1,0 +1,174 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/29 2:47:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/29 2:43:00",
+    "hypocenter": {
+      "name": "茨城県北部",
+      "latitude": 36.8,
+      "longitude": 140.6,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "日立市助川小学校",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "日立市十王町友部",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸太田市大中町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "高萩市下手綱",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "日立市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸太田市町屋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸太田市町田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸太田市高柿町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "高萩市安良川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "笠間市石井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "笠間市下郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "笠間市笠間",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "ひたちなか市南神敷台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "ひたちなか市東石川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "東海村東海",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸大宮市北町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸大宮市山方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸大宮市上小瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸大宮市野口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "城里町徳蔵",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "城里町石塚",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "土浦市常名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "桜川市岩瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "桜川市羽田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "宇都宮市明保野町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

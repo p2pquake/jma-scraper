@@ -1,0 +1,72 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/12/14 20:23:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/14 20:20:00",
+    "hypocenter": {
+      "name": "茨城県南部",
+      "latitude": 36.0,
+      "longitude": 139.9,
+      "depth": 60,
+      "magnitude": 3.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "水戸市内原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "小美玉市小川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "土浦市常名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "つくば市小茎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "かすみがうら市上土田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "宇都宮市明保野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "桐生市元宿町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "加須市大利根",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

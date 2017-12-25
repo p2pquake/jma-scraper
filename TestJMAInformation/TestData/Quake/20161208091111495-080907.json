@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/08 9:11:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/08 9:07:00",
+    "hypocenter": {
+      "name": "薩摩半島西方沖",
+      "latitude": 31.5,
+      "longitude": 130.3,
+      "depth": 0,
+      "magnitude": 2.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島市下福元",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

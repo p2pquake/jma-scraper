@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/08/26 2:30:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/08/26 2:28:00",
+    "hypocenter": {
+      "name": "熊本県熊本地方",
+      "latitude": 32.7,
+      "longitude": 130.7,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

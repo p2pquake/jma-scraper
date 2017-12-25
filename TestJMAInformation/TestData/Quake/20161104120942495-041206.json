@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/04 12:09:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/04 12:06:00",
+    "hypocenter": {
+      "name": "鳥取県中部",
+      "latitude": 35.4,
+      "longitude": 133.9,
+      "depth": 0,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岡山県",
+      "addr": "鏡野町上齋原",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

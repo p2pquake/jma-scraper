@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/27 8:25:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/27 8:23:00",
+    "hypocenter": {
+      "name": "熊本県熊本地方",
+      "latitude": 32.6,
+      "longitude": 130.7,
+      "depth": 0,
+      "magnitude": 2.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "八代市東陽町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "宇城市不知火町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "宇城市小川町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

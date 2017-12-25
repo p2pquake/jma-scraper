@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/07 15:42:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/07 15:36:00",
+    "hypocenter": {
+      "name": "長野県中部",
+      "latitude": 35.9,
+      "longitude": 138.7,
+      "depth": 10,
+      "magnitude": 1.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "埼玉県",
+      "addr": "秩父市中津川",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

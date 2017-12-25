@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/11 2:58:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/11 2:55:00",
+    "hypocenter": {
+      "name": "神奈川県西部",
+      "latitude": 35.4,
+      "longitude": 139.1,
+      "depth": 10,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "神奈川県",
+      "addr": "山北町山北",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

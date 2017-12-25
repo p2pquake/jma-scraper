@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/04 12:13:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/04 12:10:00",
+    "hypocenter": {
+      "name": "岩手県内陸南部",
+      "latitude": 39.1,
+      "longitude": 140.9,
+      "depth": 10,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岩手県",
+      "addr": "奥州市衣川区",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

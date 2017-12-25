@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/14 9:02:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/14 8:59:00",
+    "hypocenter": {
+      "name": "渡島地方西部",
+      "latitude": 41.6,
+      "longitude": 140.4,
+      "depth": 0,
+      "magnitude": 2.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "知内町重内",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "知内町小谷石",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

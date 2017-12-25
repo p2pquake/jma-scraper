@@ -1,0 +1,354 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/29 10:06:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/29 10:03:00",
+    "hypocenter": {
+      "name": "岩手県沿岸北部",
+      "latitude": 39.8,
+      "longitude": 141.8,
+      "depth": 60,
+      "magnitude": 4.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "青森県",
+      "addr": "階上町道仏",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "八戸市島守",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "八戸市湊町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "八戸市内丸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "八戸市南郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "五戸町古舘",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "青森南部町苫米地",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "青森南部町平",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "宮古市川井",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "宮古市田老",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "宮古市茂市",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "久慈市川崎町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "久慈市枝成沢",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "田野畑村田野畑",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "田野畑村役場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "普代村銅屋",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "野田村野田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "盛岡市薮川",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "遠野市青笹町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "宮古市鍬ヶ崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "宮古市長沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "宮古市五月町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "宮古市区界",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "久慈市長内町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "山田町八幡町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "山田町大沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩泉町大川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩泉町岩泉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩手洋野町種市",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩手洋野町大野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "大船渡市大船渡町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "大船渡市猪川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "釜石市只越町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "釜石市中妻町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "住田町世田米",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "盛岡市山王町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "盛岡市渋民",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "葛巻町葛巻元木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "葛巻町消防分署",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "葛巻町役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "一戸町高善寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "八幡平市大更",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "八幡平市田頭",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "軽米町軽米",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "九戸村伊保内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "矢巾町南矢幅",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "花巻市大迫町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "花巻市石鳥谷町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "花巻市大迫総合支所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "花巻市東和町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "北上市柳原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "遠野市宮守町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "一関市千厩町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "一関市室根町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮城県",
+      "addr": "気仙沼市笹が陣",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

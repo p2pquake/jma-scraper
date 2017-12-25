@@ -1,0 +1,54 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/05/09 10:59:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/09 10:54:00",
+    "hypocenter": {
+      "name": "宮古島近海",
+      "latitude": 24.2,
+      "longitude": 126.5,
+      "depth": 10,
+      "magnitude": 6.4
+    },
+    "maxScale": 30,
+    "domesticTsunami": "NonEffective",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄県宮古島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "宮古島市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "この地震により、日本の沿岸では若干の海面変動があるかもしれませんが、",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "被害の心配はありません。",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "情報第１号",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

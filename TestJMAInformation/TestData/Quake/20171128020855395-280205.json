@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/28 2:08:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/28 2:05:00",
+    "hypocenter": {
+      "name": "石狩地方南部",
+      "latitude": 42.8,
+      "longitude": 141.6,
+      "depth": 130,
+      "magnitude": 3.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "安平町早来北進",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "安平町追分柏が丘",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

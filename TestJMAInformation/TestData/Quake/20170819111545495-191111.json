@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/19 11:15:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/19 11:11:00",
+    "hypocenter": {
+      "name": "鹿児島湾",
+      "latitude": 31.4,
+      "longitude": 130.6,
+      "depth": 10,
+      "magnitude": 2.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島市喜入町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

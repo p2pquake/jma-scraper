@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/05 13:48:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/05 13:45:00",
+    "hypocenter": {
+      "name": "伊予灘",
+      "latitude": 33.6,
+      "longitude": 131.9,
+      "depth": 70,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "山口県",
+      "addr": "上関町長島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "田布施町下田布施",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "平生町平生",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

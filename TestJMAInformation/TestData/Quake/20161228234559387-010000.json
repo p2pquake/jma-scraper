@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/12/28 23:45:00",
+    "type": "Other",
+    "correct": "Unknown"
+  },
+  "earthquake": {
+    "time": "0001/01/01 0:00:00",
+    "hypocenter": {
+      "name": "",
+      "latitude": -200.0,
+      "longitude": -200.0,
+      "depth": -1,
+      "magnitude": -1.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "Unknown",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

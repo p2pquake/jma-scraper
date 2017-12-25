@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/06 6:14:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/06 6:11:00",
+    "hypocenter": {
+      "name": "福島県中通り",
+      "latitude": 37.1,
+      "longitude": 140.6,
+      "depth": 10,
+      "magnitude": 2.7
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福島県",
+      "addr": "古殿町松川横川",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "古殿町松川新桑原",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

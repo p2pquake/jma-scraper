@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/01/03 6:28:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/03 6:24:00",
+    "hypocenter": {
+      "name": "青森県東方沖",
+      "latitude": 41.2,
+      "longitude": 142.1,
+      "depth": 60,
+      "magnitude": 4.3
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "青森県",
+      "addr": "青森県三八上北",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "八戸市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "階上町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

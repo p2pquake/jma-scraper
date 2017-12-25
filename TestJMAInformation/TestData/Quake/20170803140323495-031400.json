@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/03 14:03:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/03 14:00:00",
+    "hypocenter": {
+      "name": "島根県東部",
+      "latitude": 35.3,
+      "longitude": 133.3,
+      "depth": 20,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "島根県",
+      "addr": "安来市伯太町東母里",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

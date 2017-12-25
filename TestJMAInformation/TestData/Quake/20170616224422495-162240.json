@@ -1,0 +1,294 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/16 22:44:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/16 22:40:00",
+    "hypocenter": {
+      "name": "日向灘",
+      "latitude": 31.9,
+      "longitude": 131.9,
+      "depth": 20,
+      "magnitude": 4.5
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎市松橋",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "高鍋町上江",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎市霧島",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎市橘通東",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎市高岡町内山",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "国富町本庄",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "都城市高崎町大牟田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "延岡市天神小路",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "延岡市北川町川内名白石",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日向市大王谷運動公園",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "西都市上の宮",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "西都市聖陵町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "新富町上富田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "川南町川南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎都農町役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "木城町高城",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "高千穂町三田井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎市田野町体育館",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎市佐土原町下田島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎市清武町船引",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日南市油津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日南市北郷町大藤",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日南市吾田東",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日南市中央通",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日南市北郷町郷之原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "串間市都井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "綾町南俣健康センター",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "綾町役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "都城市菖蒲原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "都城市山之口町花木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "小林市真方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "小林市野尻町東麓",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "三股町五本松",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "佐伯市蒲江蒲江浦",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "佐伯市鶴見",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "宇土市新小路町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "益城町木山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本美里町永富",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島市喜入町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "霧島市国分中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "霧島市福山町牧之原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "姶良市蒲生町上久徳",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿屋市新栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "錦江町田代支所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "志布志市志布志町志布志",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

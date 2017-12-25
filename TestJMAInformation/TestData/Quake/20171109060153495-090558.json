@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/09 6:01:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/09 5:58:00",
+    "hypocenter": {
+      "name": "熊本県天草・芦北地方",
+      "latitude": 32.6,
+      "longitude": 130.6,
+      "depth": 0,
+      "magnitude": 2.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "宇城市不知火町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

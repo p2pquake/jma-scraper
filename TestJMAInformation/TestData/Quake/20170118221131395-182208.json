@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/18 22:11:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/18 22:08:00",
+    "hypocenter": {
+      "name": "千葉県北西部",
+      "latitude": 35.7,
+      "longitude": 140.0,
+      "depth": 60,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "東京千代田区大手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京渋谷区本町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

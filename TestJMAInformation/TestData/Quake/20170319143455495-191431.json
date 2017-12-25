@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/19 14:34:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/19 14:31:00",
+    "hypocenter": {
+      "name": "熊本県阿蘇地方",
+      "latitude": 33.0,
+      "longitude": 131.2,
+      "depth": 10,
+      "magnitude": 2.7
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "産山村山鹿",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "阿蘇市波野",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

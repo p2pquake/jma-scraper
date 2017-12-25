@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/26 5:16:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/26 5:14:00",
+    "hypocenter": {
+      "name": "鳥取県中部",
+      "latitude": 35.4,
+      "longitude": 133.9,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

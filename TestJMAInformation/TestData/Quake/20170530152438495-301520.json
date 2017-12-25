@@ -1,0 +1,60 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/30 15:24:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/30 15:20:00",
+    "hypocenter": {
+      "name": "宮古島近海",
+      "latitude": 24.1,
+      "longitude": 126.5,
+      "depth": 10,
+      "magnitude": 5.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "宮古島市平良下里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "宮古島市城辺福北",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "宮古島市平良池間",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "宮古島市平良狩俣",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "宮古島市城辺福西",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "宮古島市下地",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

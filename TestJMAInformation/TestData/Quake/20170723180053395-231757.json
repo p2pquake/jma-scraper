@@ -1,0 +1,102 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/23 18:00:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/23 17:57:00",
+    "hypocenter": {
+      "name": "埼玉県北部",
+      "latitude": 36.1,
+      "longitude": 139.7,
+      "depth": 90,
+      "magnitude": 3.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "群馬県",
+      "addr": "沼田市利根町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "前橋市粕川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "桐生市元宿町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "桐生市黒保根町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "伊勢崎市西久保町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "伊勢崎市東町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "渋川市吹屋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "板倉町板倉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "邑楽町中野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "加須市大利根",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "本庄市児玉町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "東松山市松葉町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "滑川町福田",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

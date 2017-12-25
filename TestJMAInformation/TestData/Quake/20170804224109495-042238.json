@@ -1,0 +1,72 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/04 22:41:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/04 22:38:00",
+    "hypocenter": {
+      "name": "愛媛県南予",
+      "latitude": 33.1,
+      "longitude": 132.5,
+      "depth": 30,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市丸穂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市吉田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市三間町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "松野町松丸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛南町一本松",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "宿毛市片島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "宿毛市桜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "大月町弘見",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

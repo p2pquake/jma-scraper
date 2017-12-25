@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/21 15:47:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/21 15:44:00",
+    "hypocenter": {
+      "name": "茨城県南部",
+      "latitude": 36.1,
+      "longitude": 139.9,
+      "depth": 50,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "栃木県",
+      "addr": "栃木市旭町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

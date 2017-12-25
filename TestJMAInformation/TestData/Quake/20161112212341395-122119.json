@@ -1,0 +1,114 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/12 21:23:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/12 21:19:00",
+    "hypocenter": {
+      "name": "神奈川県西部",
+      "latitude": 35.4,
+      "longitude": 139.0,
+      "depth": 20,
+      "magnitude": 3.2
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "神奈川県",
+      "addr": "山北町山北",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜青葉区市ケ尾町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "清川村煤ヶ谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原中央区上溝",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原中央区水郷田名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原緑区中野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "都留市上谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "大月市大月",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "上野原市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "道志村役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山中湖村山中",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町船津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町長浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "富士市大淵",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "小山町藤曲",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

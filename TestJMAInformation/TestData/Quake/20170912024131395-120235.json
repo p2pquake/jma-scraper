@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/12 2:41:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/12 2:35:00",
+    "hypocenter": {
+      "name": "硫黄島近海",
+      "latitude": 24.1,
+      "longitude": 142.5,
+      "depth": 10,
+      "magnitude": 5.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "小笠原村母島",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

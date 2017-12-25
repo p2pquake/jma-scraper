@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/01/13 8:44:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/13 8:41:00",
+    "hypocenter": {
+      "name": "福島県会津",
+      "latitude": 37.4,
+      "longitude": 139.7,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福島県",
+      "addr": "福島県会津",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "三島町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

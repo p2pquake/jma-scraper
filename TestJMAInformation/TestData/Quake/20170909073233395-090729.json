@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/09 7:32:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/09 7:29:00",
+    "hypocenter": {
+      "name": "岐阜県美濃東部",
+      "latitude": 35.3,
+      "longitude": 137.2,
+      "depth": 50,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "恵那市上矢作町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "八百津町八百津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "豊田市足助町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/04 10:19:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/04 10:15:00",
+    "hypocenter": {
+      "name": "薩摩半島西方沖",
+      "latitude": 31.5,
+      "longitude": 129.8,
+      "depth": 0,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島市喜入町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "枕崎市高見町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "薩摩川内市上甑町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

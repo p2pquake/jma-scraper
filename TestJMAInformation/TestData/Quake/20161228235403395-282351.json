@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/28 23:54:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/28 23:51:00",
+    "hypocenter": {
+      "name": "茨城県北部",
+      "latitude": 36.8,
+      "longitude": 140.6,
+      "depth": 10,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "高萩市安良川",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

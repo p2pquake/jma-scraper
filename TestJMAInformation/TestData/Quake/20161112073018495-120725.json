@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/12 7:30:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/12 7:25:00",
+    "hypocenter": {
+      "name": "与那国島近海",
+      "latitude": 24.0,
+      "longitude": 122.4,
+      "depth": 20,
+      "magnitude": 5.3
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "与那国町久部良",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "与那国町役場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "与那国町祖納",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

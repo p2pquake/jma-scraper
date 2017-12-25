@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/08/22 2:33:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/08/22 2:30:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 27.5,
+      "longitude": 128.6,
+      "depth": 50,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "知名町瀬利覚",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/12/10 12:14:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/10 12:08:00",
+    "hypocenter": {
+      "name": "千葉県東方沖",
+      "latitude": 35.5,
+      "longitude": 140.5,
+      "depth": 30,
+      "magnitude": 2.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "大網白里市大網",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

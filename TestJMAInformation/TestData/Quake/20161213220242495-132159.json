@@ -1,0 +1,72 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/13 22:02:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/13 21:59:00",
+    "hypocenter": {
+      "name": "豊後水道",
+      "latitude": 33.3,
+      "longitude": 132.0,
+      "depth": 50,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "広島県",
+      "addr": "北広島町有田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島安佐北区可部南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市丸穂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市三間町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "伊方町三崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西予市明浜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "大分市新春日町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "臼杵市臼杵",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

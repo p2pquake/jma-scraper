@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/12/20 2:56:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/20 2:52:00",
+    "hypocenter": {
+      "name": "八丈島東方沖",
+      "latitude": 33.5,
+      "longitude": 141.2,
+      "depth": 60,
+      "magnitude": 5.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "八丈町三根",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "八丈町富士グランド",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

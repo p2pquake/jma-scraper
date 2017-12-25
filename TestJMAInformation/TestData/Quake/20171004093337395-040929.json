@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/04 9:33:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/04 9:29:00",
+    "hypocenter": {
+      "name": "新島・神津島近海",
+      "latitude": 34.3,
+      "longitude": 139.2,
+      "depth": 10,
+      "magnitude": 2.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "新島村大原",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/12/16 3:00:00",
+    "type": "ScalePrompt",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/16 2:58:00",
+    "hypocenter": {
+      "name": "",
+      "latitude": -200.0,
+      "longitude": -200.0,
+      "depth": -1,
+      "magnitude": -1.0
+    },
+    "maxScale": 40,
+    "domesticTsunami": "Checking",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岩手県",
+      "addr": "岩手県沿岸北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩手県内陸北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩手県内陸南部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "青森県",
+      "addr": "青森県三八上北",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩手県沿岸南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮城県",
+      "addr": "宮城県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮城県",
+      "addr": "宮城県中部",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/21 3:38:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/21 3:35:00",
+    "hypocenter": {
+      "name": "福岡県北西沖",
+      "latitude": 33.7,
+      "longitude": 130.3,
+      "depth": 20,
+      "magnitude": 3.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福岡県",
+      "addr": "福岡空港",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "糸島市志摩初",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "唐津市竹木場",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

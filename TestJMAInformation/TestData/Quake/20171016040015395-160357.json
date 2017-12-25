@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/16 4:00:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/16 3:57:00",
+    "hypocenter": {
+      "name": "岐阜県美濃中西部",
+      "latitude": 35.4,
+      "longitude": 136.8,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜市京町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "各務原市川島河田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "一宮市千秋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "犬山市五郎丸",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

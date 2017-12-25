@@ -1,0 +1,78 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/02 12:49:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/02 12:46:00",
+    "hypocenter": {
+      "name": "茨城県北部",
+      "latitude": 36.8,
+      "longitude": 140.6,
+      "depth": 10,
+      "magnitude": 3.5
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "日立市助川小学校",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸太田市大中町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "日立市十王町友部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸太田市町屋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "大子町池田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸大宮市山方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "常陸大宮市上小瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "棚倉町棚倉中居野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "矢祭町戸塚",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

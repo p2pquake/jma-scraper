@@ -1,0 +1,84 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/17 12:23:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/17 12:20:00",
+    "hypocenter": {
+      "name": "宮崎県南部山沿い",
+      "latitude": 32.0,
+      "longitude": 131.0,
+      "depth": 100,
+      "magnitude": 3.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "熊本美里町永富",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "延岡市北方町卯",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "西都市上の宮",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "高千穂町三田井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎美郷町田代",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎市田野町体育館",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "国富町本庄",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "都城市菖蒲原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "小林市真方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "大崎町仮宿",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

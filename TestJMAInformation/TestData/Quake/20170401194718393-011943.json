@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/04/01 19:47:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/01 19:43:00",
+    "hypocenter": {
+      "name": "石川県能登地方",
+      "latitude": 37.3,
+      "longitude": 136.8,
+      "depth": 10,
+      "magnitude": 3.5
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "石川県",
+      "addr": "石川県能登",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "輪島市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

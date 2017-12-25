@@ -1,0 +1,102 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/10 5:21:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/10 5:18:00",
+    "hypocenter": {
+      "name": "島根県東部",
+      "latitude": 35.2,
+      "longitude": 132.7,
+      "depth": 10,
+      "magnitude": 3.3
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "島根県",
+      "addr": "出雲市佐田町反辺",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "松江市宍道町宍道",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市塩冶有原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市多伎町小田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市湖陵町二部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市斐川町荘原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市大東町大東",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市掛合町掛合",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市三刀屋町三刀屋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市加茂町加茂中",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市木次町里方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "大田市大田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "庄原市高野町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

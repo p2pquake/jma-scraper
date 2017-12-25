@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/19 15:53:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/19 15:48:00",
+    "hypocenter": {
+      "name": "父島近海",
+      "latitude": 26.7,
+      "longitude": 142.2,
+      "depth": 40,
+      "magnitude": 3.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "小笠原村父島三日月山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "小笠原村母島",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

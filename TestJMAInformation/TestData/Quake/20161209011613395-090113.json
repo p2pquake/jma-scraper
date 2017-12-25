@@ -1,0 +1,72 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/09 1:16:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/09 1:13:00",
+    "hypocenter": {
+      "name": "三重県南部",
+      "latitude": 34.3,
+      "longitude": 136.4,
+      "depth": 30,
+      "magnitude": 3.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "三重県",
+      "addr": "松阪市上川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "尾鷲市南陽町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "尾鷲市南浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "熊野市有馬町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "御杖村菅野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "吉野町上市",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "天川村洞川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "田辺市本宮町本宮",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

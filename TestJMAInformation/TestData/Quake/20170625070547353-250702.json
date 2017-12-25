@@ -1,0 +1,96 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/06/25 7:05:00",
+    "type": "ScalePrompt",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/25 7:02:00",
+    "hypocenter": {
+      "name": "",
+      "latitude": -200.0,
+      "longitude": -200.0,
+      "depth": -1,
+      "magnitude": -1.0
+    },
+    "maxScale": 50,
+    "domesticTsunami": "Checking",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "長野県南部",
+      "scale": 50,
+      "isArea": true
+    },
+    {
+      "pref": "石川県",
+      "addr": "石川県能登",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜県飛騨",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜県美濃東部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "富山県",
+      "addr": "富山県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜県美濃中西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "愛知県",
+      "addr": "愛知県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "愛知県",
+      "addr": "愛知県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "滋賀県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "滋賀県南部",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/22 19:00:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/22 18:57:00",
+    "hypocenter": {
+      "name": "鳥取県中部",
+      "latitude": 35.4,
+      "longitude": 133.9,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鳥取県",
+      "addr": "倉吉市葵町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "倉吉市関金町大鳥居",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "三朝町大瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "湯梨浜町久留",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "湯梨浜町龍島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "北栄町土下",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "真庭市豊栄",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "真庭市蒜山下福田",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

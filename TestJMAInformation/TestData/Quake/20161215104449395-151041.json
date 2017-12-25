@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/15 10:44:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/15 10:41:00",
+    "hypocenter": {
+      "name": "岐阜県飛騨地方",
+      "latitude": 36.0,
+      "longitude": 137.4,
+      "depth": 0,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "高山市久々野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "高山市高根町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "高山市上宝町本郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "下呂市小坂町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

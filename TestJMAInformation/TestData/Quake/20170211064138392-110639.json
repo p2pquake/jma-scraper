@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/11 6:41:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/11 6:39:00",
+    "hypocenter": {
+      "name": "福島県沖",
+      "latitude": 37.1,
+      "longitude": 141.4,
+      "depth": 30,
+      "magnitude": 4.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

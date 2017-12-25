@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/22 10:04:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/22 10:01:00",
+    "hypocenter": {
+      "name": "鳥取県中部",
+      "latitude": 35.4,
+      "longitude": 133.9,
+      "depth": 10,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鳥取県",
+      "addr": "倉吉市葵町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "鏡野町上齋原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "真庭市禾津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "真庭市蒜山下和",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

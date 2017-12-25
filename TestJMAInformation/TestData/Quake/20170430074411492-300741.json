@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/30 7:44:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/30 7:41:00",
+    "hypocenter": {
+      "name": "石垣島近海",
+      "latitude": 24.4,
+      "longitude": 124.2,
+      "depth": 20,
+      "magnitude": 4.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

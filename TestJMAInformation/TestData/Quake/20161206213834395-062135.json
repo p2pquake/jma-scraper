@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/06 21:38:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/06 21:35:00",
+    "hypocenter": {
+      "name": "岩手県沖",
+      "latitude": 39.1,
+      "longitude": 142.4,
+      "depth": 30,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岩手県",
+      "addr": "山田町大沢",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

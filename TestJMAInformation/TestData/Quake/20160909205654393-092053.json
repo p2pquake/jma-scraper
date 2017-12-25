@@ -1,0 +1,132 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/09/09 20:56:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/09 20:53:00",
+    "hypocenter": {
+      "name": "茨城県沖",
+      "latitude": 36.4,
+      "longitude": 141.0,
+      "depth": 50,
+      "magnitude": 5.2
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "茨城県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "茨城県",
+      "addr": "茨城県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "栃木県",
+      "addr": "栃木県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉県北東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "水戸市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "日立市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "高萩市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "北茨城市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "笠間市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "ひたちなか市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "茨城町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "東海村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大子町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "土浦市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "茨城鹿嶋市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "鉾田市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "真岡市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "香取市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

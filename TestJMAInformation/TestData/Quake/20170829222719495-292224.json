@@ -1,0 +1,126 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/29 22:27:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/29 22:24:00",
+    "hypocenter": {
+      "name": "安芸灘",
+      "latitude": 34.2,
+      "longitude": 132.8,
+      "depth": 20,
+      "magnitude": 3.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "広島県",
+      "addr": "呉市川尻町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島安芸区中野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市倉橋町鳶ヶ巣",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市二河町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市広",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市郷原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市下蒲刈町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市豊浜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市安浦町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市豊町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "東広島市西条栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "熊野町役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "坂町役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "大崎上島町中野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "大崎上島町木江",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "大崎上島町東野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市上浦町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

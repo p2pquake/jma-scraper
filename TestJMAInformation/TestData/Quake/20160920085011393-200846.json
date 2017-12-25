@@ -1,0 +1,60 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/09/20 8:50:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/20 8:46:00",
+    "hypocenter": {
+      "name": "岩手県沖",
+      "latitude": 39.3,
+      "longitude": 142.4,
+      "depth": 50,
+      "magnitude": 4.7
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岩手県",
+      "addr": "岩手県沿岸北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩手県沿岸南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩手県内陸南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "山田町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "釜石市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "遠野市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

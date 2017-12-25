@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/04/06 19:08:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/06 19:05:00",
+    "hypocenter": {
+      "name": "新潟県中越地方",
+      "latitude": 36.8,
+      "longitude": 138.7,
+      "depth": 10,
+      "magnitude": 3.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "長野県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "栄村",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

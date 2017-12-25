@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/19 13:15:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/19 13:12:00",
+    "hypocenter": {
+      "name": "長野県北部",
+      "latitude": 36.5,
+      "longitude": 137.9,
+      "depth": 10,
+      "magnitude": 2.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "大町市役所",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "大町市大町図書館",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "大町市美麻",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "生坂村役場",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

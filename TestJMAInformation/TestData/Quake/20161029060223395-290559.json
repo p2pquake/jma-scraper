@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/29 6:02:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/29 5:59:00",
+    "hypocenter": {
+      "name": "岐阜県飛騨地方",
+      "latitude": 36.0,
+      "longitude": 137.5,
+      "depth": 10,
+      "magnitude": 2.6
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "高山市高根町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "木曽町開田高原西野",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

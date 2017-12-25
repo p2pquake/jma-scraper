@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/11/18 3:59:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/18 3:56:00",
+    "hypocenter": {
+      "name": "有明海",
+      "latitude": 32.8,
+      "longitude": 130.6,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "熊本県熊本",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "玉名市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

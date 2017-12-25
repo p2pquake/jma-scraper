@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/30 0:06:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/30 0:03:00",
+    "hypocenter": {
+      "name": "静岡県中部",
+      "latitude": 34.9,
+      "longitude": 138.3,
+      "depth": 30,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "静岡県",
+      "addr": "東伊豆町奈良本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "富士宮市野中",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "富士市大淵",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/22 12:29:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/22 12:25:00",
+    "hypocenter": {
+      "name": "新島・神津島近海",
+      "latitude": 34.5,
+      "longitude": 139.4,
+      "depth": 10,
+      "magnitude": 3.9
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "伊豆大島町波浮港",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京利島村東山",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "新島村本村",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "伊豆大島町差木地",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "伊豆大島町元町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "新島村大原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "新島村式根島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜西区浜松町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜中区山手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜磯子区洋光台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "三浦市城山町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "東伊豆町奈良本",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

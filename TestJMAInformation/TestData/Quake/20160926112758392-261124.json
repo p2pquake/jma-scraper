@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/26 11:27:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/26 11:24:00",
+    "hypocenter": {
+      "name": "浦河沖",
+      "latitude": 41.9,
+      "longitude": 142.2,
+      "depth": 80,
+      "magnitude": 4.7
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

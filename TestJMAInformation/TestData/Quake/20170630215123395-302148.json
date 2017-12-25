@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/30 21:51:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/30 21:48:00",
+    "hypocenter": {
+      "name": "青森県下北地方",
+      "latitude": 41.2,
+      "longitude": 141.4,
+      "depth": 80,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "青森県",
+      "addr": "野辺地町田狭沢",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

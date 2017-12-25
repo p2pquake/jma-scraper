@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/07 23:29:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/07 23:25:00",
+    "hypocenter": {
+      "name": "父島近海",
+      "latitude": 27.4,
+      "longitude": 142.2,
+      "depth": 80,
+      "magnitude": 4.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "小笠原村父島三日月山",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

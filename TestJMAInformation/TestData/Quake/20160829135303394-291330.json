@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/08/29 13:53:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/08/29 13:30:00",
+    "hypocenter": {
+      "name": "アセンション島北方",
+      "latitude": 0.1,
+      "longitude": -17.8,
+      "depth": -1,
+      "magnitude": 7.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Potential"
+  },
+  "points": []
+}

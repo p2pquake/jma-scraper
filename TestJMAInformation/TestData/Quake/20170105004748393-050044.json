@@ -1,0 +1,540 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/01/05 0:47:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/05 0:44:00",
+    "hypocenter": {
+      "name": "福島県沖",
+      "latitude": 36.9,
+      "longitude": 141.0,
+      "depth": 60,
+      "magnitude": 5.3
+    },
+    "maxScale": 40,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福島県",
+      "addr": "福島県中通り",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "福島県",
+      "addr": "福島県浜通り",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "茨城県",
+      "addr": "茨城県北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "宮城県",
+      "addr": "宮城県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮城県",
+      "addr": "宮城県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "福島県",
+      "addr": "福島県会津",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "茨城県",
+      "addr": "茨城県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "栃木県",
+      "addr": "栃木県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "栃木県",
+      "addr": "栃木県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "群馬県",
+      "addr": "群馬県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "白河市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "須賀川市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大玉村",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "鏡石町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "天栄村",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "中島村",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "玉川村",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "古殿町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "田村市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "いわき市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "楢葉町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "水戸市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "日立市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "常陸太田市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "高萩市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "常陸大宮市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "那珂市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "城里町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "岩沼市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "丸森町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "石巻市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "塩竈市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "福島市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "郡山市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "二本松市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "国見町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "川俣町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "泉崎村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "矢吹町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "棚倉町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "矢祭町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "塙町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "石川町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "平田村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "浅川町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "小野町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "福島伊達市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "本宮市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "福島広野町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "富岡町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "川内村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大熊町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "双葉町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "浪江町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "葛尾村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "飯舘村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "南相馬市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "猪苗代町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "北茨城市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "笠間市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "ひたちなか市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "茨城町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "東海村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大子町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "小美玉市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "土浦市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "石岡市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "茨城鹿嶋市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "稲敷市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "筑西市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "行方市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "桜川市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "鉾田市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大田原市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "那須町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "那須塩原市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "宇都宮市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "真岡市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "益子町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "茂木町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "市貝町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "芳賀町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "高根沢町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "那須烏山市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "栃木那珂川町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "渋川市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

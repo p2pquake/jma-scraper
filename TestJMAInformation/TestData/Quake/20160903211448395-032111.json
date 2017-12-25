@@ -1,0 +1,114 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/03 21:14:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/03 21:11:00",
+    "hypocenter": {
+      "name": "千葉県東方沖",
+      "latitude": 35.5,
+      "longitude": 140.6,
+      "depth": 40,
+      "magnitude": 3.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "東金市東新宿",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "一宮町一宮",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "大網白里市大網",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "東金市日吉台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "東金市東岩崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "九十九里町片貝",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "白子町関",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "長南町長南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "横芝光町宮川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "山武市松尾町富士見台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "山武市埴谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "山武市殿台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "山武市蓮沼ハ",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉中央区都町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉緑区おゆみ野",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

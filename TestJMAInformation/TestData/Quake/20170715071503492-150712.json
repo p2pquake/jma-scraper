@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/15 7:15:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/15 7:12:00",
+    "hypocenter": {
+      "name": "鹿児島湾",
+      "latitude": 31.4,
+      "longitude": 130.6,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/23 21:39:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/23 21:36:00",
+    "hypocenter": {
+      "name": "日向灘",
+      "latitude": 32.3,
+      "longitude": 131.9,
+      "depth": 30,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "宮崎県",
+      "addr": "延岡市天神小路",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "門川町本町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

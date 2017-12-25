@@ -1,0 +1,72 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/26 12:04:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/26 12:00:00",
+    "hypocenter": {
+      "name": "秋田県内陸南部",
+      "latitude": 39.5,
+      "longitude": 140.4,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "秋田県",
+      "addr": "大仙市神宮寺",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市刈和野",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市北長野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市南外",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市大曲花園町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市高梨",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "仙北市西木町上桧木内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "仙北市角館町小勝田",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

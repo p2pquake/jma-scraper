@@ -1,0 +1,162 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/08 16:53:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/08 16:50:00",
+    "hypocenter": {
+      "name": "長野県南部",
+      "latitude": 35.9,
+      "longitude": 138.1,
+      "depth": 10,
+      "magnitude": 3.5
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "伊那市高遠町荊口",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "諏訪市湖岸通り",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "茅野市葛井公園",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "伊那市長谷溝口",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "諏訪市高島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "塩尻市楢川保育園",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "塩尻市木曽平沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "立科町芦田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "富士見町落合",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "原村役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "辰野町中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "箕輪町中箕輪",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "南箕輪村役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "中川村大草",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野高森町下市田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "阿智村清内路",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "木曽町新開",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "木曽町日義",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨北杜市健康ランド須玉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨北杜市高根町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨北杜市長坂町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨北杜市白州町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨北杜市小淵沢町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

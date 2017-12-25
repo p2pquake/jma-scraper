@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/28 14:59:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/28 14:56:00",
+    "hypocenter": {
+      "name": "和歌山県北部",
+      "latitude": 34.2,
+      "longitude": 135.2,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "和歌山県",
+      "addr": "海南市下津",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "有田市初島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "紀美野町下佐々",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/27 0:49:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/27 0:46:00",
+    "hypocenter": {
+      "name": "滋賀県北部",
+      "latitude": 35.4,
+      "longitude": 136.3,
+      "depth": 10,
+      "magnitude": 3.6
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市公園町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市内保町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市落合町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市湖北町速水",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市高月町渡岸寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市木之本町木之本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市余呉町中之郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市西浅井町大浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市八幡東町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市宮部町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "高島市勝野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "米原市春照",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "米原市顔戸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "米原市長岡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "近江八幡市桜宮町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "東近江市市子川原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "敦賀市松栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "敦賀市中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "関ケ原町関ケ原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "輪之内町四郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町東杉原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町谷汲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町東津汲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町西横山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町春日",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "本巣市根尾",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

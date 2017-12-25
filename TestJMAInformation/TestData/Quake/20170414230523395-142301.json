@@ -1,0 +1,384 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/14 23:05:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/14 23:01:00",
+    "hypocenter": {
+      "name": "新潟県中越地方",
+      "latitude": 36.8,
+      "longitude": 138.7,
+      "depth": 10,
+      "magnitude": 4.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "新潟県",
+      "addr": "上越市安塚区安塚",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市浦川原区釜淵",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "十日町市上山",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "出雲崎町米田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "湯沢町神立",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "津南町下船渡",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "南魚沼市塩沢小学校",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市大手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市木田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市牧区柳島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市柿崎区柿崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市大潟区土底浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市吉川区原之町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市清里区荒牧",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市三和区井ノ口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市大島区岡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "長岡市上岩井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "長岡市小国町法坂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "長岡市小島谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "長岡市与板町与板",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "柏崎市西山町池浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "柏崎市高柳町岡野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "小千谷市城内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "小千谷市旭町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "十日町市下条",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "十日町市千歳町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "十日町市松代",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "十日町市水口沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "十日町市松之山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "出雲崎町川西",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "刈羽村割町新田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "南魚沼市六日町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市河原田本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "栄村小赤沢",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "飯山市飯山福寿町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "山ノ内町消防署",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "栄村北信",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野市箱清水",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野市鶴賀緑町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野市信州新町新町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野市豊野町豊野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "須坂市須坂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "中野市三好町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "中野市豊津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野高山村高井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "山ノ内町平穏",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "木島平村往郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "野沢温泉村豊郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "信濃町柏原東裏",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "小川村高府",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "千曲市杭瀬下",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "飯綱町芋川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "沼田市西倉内町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "沼田市下久屋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "中之条町日影",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "長野原町長野原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "草津町草津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "片品村東小川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "みなかみ町鹿野沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "東吾妻町原町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

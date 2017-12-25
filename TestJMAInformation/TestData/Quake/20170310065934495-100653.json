@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/10 6:59:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/10 6:53:00",
+    "hypocenter": {
+      "name": "和歌山県北部",
+      "latitude": 34.2,
+      "longitude": 135.2,
+      "depth": 0,
+      "magnitude": 2.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "和歌山県",
+      "addr": "海南市日方",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

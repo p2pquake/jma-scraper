@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/09/26 14:16:00",
+    "type": "ScalePrompt",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/26 14:13:00",
+    "hypocenter": {
+      "name": "",
+      "latitude": -200.0,
+      "longitude": -200.0,
+      "depth": -1,
+      "magnitude": -1.0
+    },
+    "maxScale": 40,
+    "domesticTsunami": "Checking",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "渡島地方東部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "日高地方中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "日高地方東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "十勝地方中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "青森県",
+      "addr": "青森県津軽北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "青森県",
+      "addr": "青森県三八上北",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "青森県",
+      "addr": "青森県下北",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

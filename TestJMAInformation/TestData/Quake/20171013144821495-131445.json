@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/13 14:48:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/13 14:45:00",
+    "hypocenter": {
+      "name": "兵庫県南西部",
+      "latitude": 34.9,
+      "longitude": 134.5,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "兵庫県",
+      "addr": "たつの市新宮町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "姫路市林田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "相生市旭",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "たつの市龍野町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

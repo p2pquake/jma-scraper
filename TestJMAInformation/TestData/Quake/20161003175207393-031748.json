@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/10/03 17:52:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/03 17:48:00",
+    "hypocenter": {
+      "name": "浦河沖",
+      "latitude": 41.9,
+      "longitude": 142.5,
+      "depth": 70,
+      "magnitude": 4.5
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "胆振地方中東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "むかわ町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

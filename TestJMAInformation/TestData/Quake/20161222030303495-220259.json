@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/22 3:03:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/22 2:59:00",
+    "hypocenter": {
+      "name": "和歌山県北部",
+      "latitude": 34.2,
+      "longitude": 135.5,
+      "depth": 10,
+      "magnitude": 2.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "和歌山県",
+      "addr": "紀の川市粉河",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "紀の川市那賀総合センター",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

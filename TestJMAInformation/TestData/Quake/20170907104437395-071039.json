@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/07 10:44:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/07 10:39:00",
+    "hypocenter": {
+      "name": "浦河沖",
+      "latitude": 41.6,
+      "longitude": 142.1,
+      "depth": 50,
+      "magnitude": 4.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "函館市泊町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "東通村砂子又沢内",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "八戸市湊町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "階上町道仏",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "むつ市金曲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "大間町大間",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "東通村砂子又蒲谷地",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

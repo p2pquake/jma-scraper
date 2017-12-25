@@ -1,0 +1,84 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/14 23:56:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/14 23:54:00",
+    "hypocenter": {
+      "name": "鳥取県西部",
+      "latitude": 35.2,
+      "longitude": 133.4,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鳥取県",
+      "addr": "日南町生山",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取日野町根雨",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "日南町霞",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "江府町江尾",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "新見市千屋実",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "新見市哲多町本郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "新庄村役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "真庭市下方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "真庭市禾津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "庄原市東城町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

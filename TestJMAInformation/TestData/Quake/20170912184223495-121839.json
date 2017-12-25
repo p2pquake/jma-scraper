@@ -1,0 +1,78 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/12 18:42:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/12 18:39:00",
+    "hypocenter": {
+      "name": "安芸灘",
+      "latitude": 33.8,
+      "longitude": 132.6,
+      "depth": 40,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "広島県",
+      "addr": "呉市倉橋町鳶ヶ巣",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市二河町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "廿日市市大野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "江田島市大柿町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西条市丹原町鞍瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "松山市中島大浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "上関町長島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "田布施町下田布施",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "周防大島町東和総合支所",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

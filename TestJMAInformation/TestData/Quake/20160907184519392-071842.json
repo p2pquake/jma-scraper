@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/07 18:45:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/07 18:42:00",
+    "hypocenter": {
+      "name": "日高地方中部",
+      "latitude": 42.4,
+      "longitude": 142.6,
+      "depth": 120,
+      "magnitude": 4.7
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

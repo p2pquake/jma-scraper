@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/08 15:17:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/08 15:14:00",
+    "hypocenter": {
+      "name": "北海道南西沖",
+      "latitude": 42.3,
+      "longitude": 139.5,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "奥尻町奥尻",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

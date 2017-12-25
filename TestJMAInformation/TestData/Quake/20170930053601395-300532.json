@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/30 5:36:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/30 5:32:00",
+    "hypocenter": {
+      "name": "岐阜県飛騨地方",
+      "latitude": 36.2,
+      "longitude": 137.5,
+      "depth": 10,
+      "magnitude": 1.7
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "高山市奥飛騨温泉郷栃尾",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

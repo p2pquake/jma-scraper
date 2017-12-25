@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/25 12:08:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/25 12:05:00",
+    "hypocenter": {
+      "name": "愛知県東部",
+      "latitude": 35.0,
+      "longitude": 137.6,
+      "depth": 10,
+      "magnitude": 3.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "愛知県",
+      "addr": "新城市矢部",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "新城市東入船",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "新城市作手高里松風呂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "新城市作手高里縄手上",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

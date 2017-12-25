@@ -1,0 +1,60 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/02/27 18:14:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/27 18:10:00",
+    "hypocenter": {
+      "name": "十勝地方南部",
+      "latitude": 42.4,
+      "longitude": 143.1,
+      "depth": 50,
+      "magnitude": 4.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "十勝地方中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "十勝地方南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "幕別町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "浦幌町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "更別村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "十勝大樹町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

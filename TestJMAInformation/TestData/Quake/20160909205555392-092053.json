@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/09 20:55:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/09 20:53:00",
+    "hypocenter": {
+      "name": "茨城県沖",
+      "latitude": 36.4,
+      "longitude": 141.0,
+      "depth": 50,
+      "magnitude": 5.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

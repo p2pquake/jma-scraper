@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/27 11:32:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/27 11:29:00",
+    "hypocenter": {
+      "name": "兵庫県南東部",
+      "latitude": 34.9,
+      "longitude": 135.4,
+      "depth": 20,
+      "magnitude": 2.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "大阪府",
+      "addr": "能勢町今西",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

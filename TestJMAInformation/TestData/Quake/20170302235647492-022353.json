@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/02 23:56:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/02 23:53:00",
+    "hypocenter": {
+      "name": "日向灘",
+      "latitude": 32.6,
+      "longitude": 132.1,
+      "depth": 30,
+      "magnitude": 5.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

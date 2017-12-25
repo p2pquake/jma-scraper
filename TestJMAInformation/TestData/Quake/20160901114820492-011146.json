@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/01 11:48:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/01 11:46:00",
+    "hypocenter": {
+      "name": "有明海",
+      "latitude": 32.8,
+      "longitude": 130.6,
+      "depth": 10,
+      "magnitude": 3.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

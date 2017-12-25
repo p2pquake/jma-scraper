@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/16 5:39:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/16 5:36:00",
+    "hypocenter": {
+      "name": "長野県中部",
+      "latitude": 36.4,
+      "longitude": 138.0,
+      "depth": 10,
+      "magnitude": 2.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "千曲市杭瀬下",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "麻績村麻",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "筑北村坂井",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/15 19:43:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/15 19:36:00",
+    "hypocenter": {
+      "name": "釧路地方中南部",
+      "latitude": 43.4,
+      "longitude": 144.1,
+      "depth": 0,
+      "magnitude": 1.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "釧路市阿寒町阿寒湖温泉",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/14 8:15:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/14 8:11:00",
+    "hypocenter": {
+      "name": "有明海",
+      "latitude": 32.7,
+      "longitude": 130.4,
+      "depth": 10,
+      "magnitude": 3.5
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長崎県",
+      "addr": "島原市下折橋町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "雲仙市小浜町雲仙",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "南島原市深江町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "諫早市多良見町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "雲仙市国見町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "雲仙市雲仙出張所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "南島原市北有馬町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "南島原市布津町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "大牟田市昭和町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "みやま市高田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "玉名市中尾",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "玉名市岱明町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "玉名市横島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "菊池市旭志",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "宇土市新小路町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "宇城市松橋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "宇城市不知火町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山都町下馬尾",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本西区春日",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "上天草市大矢野町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

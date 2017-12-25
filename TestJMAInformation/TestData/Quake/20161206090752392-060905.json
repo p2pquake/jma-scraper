@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/06 9:07:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/06 9:05:00",
+    "hypocenter": {
+      "name": "岐阜県飛騨地方",
+      "latitude": 36.0,
+      "longitude": 137.3,
+      "depth": 10,
+      "magnitude": 4.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

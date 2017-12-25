@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/17 10:21:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/17 10:18:00",
+    "hypocenter": {
+      "name": "宮古島近海",
+      "latitude": 24.8,
+      "longitude": 125.4,
+      "depth": 50,
+      "magnitude": 4.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

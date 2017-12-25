@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/01 22:59:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/01 22:57:00",
+    "hypocenter": {
+      "name": "奈良県",
+      "latitude": 34.4,
+      "longitude": 136.0,
+      "depth": 40,
+      "magnitude": 2.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "奈良県",
+      "addr": "吉野町上市",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

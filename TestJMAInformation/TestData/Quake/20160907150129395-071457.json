@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/07 15:01:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/07 14:57:00",
+    "hypocenter": {
+      "name": "十勝地方北部",
+      "latitude": 43.4,
+      "longitude": 143.1,
+      "depth": 10,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "上士幌町清水谷",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

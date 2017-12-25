@@ -1,0 +1,90 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/09 19:44:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/09 19:41:00",
+    "hypocenter": {
+      "name": "秋田県内陸南部",
+      "latitude": 39.5,
+      "longitude": 140.4,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "秋田県",
+      "addr": "大仙市神宮寺",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市刈和野",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市南外",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市大曲花園町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "秋田市雄和女米木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "秋田市河辺和田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "由利本荘市石脇",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市協和境唐松岳",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市北長野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市協和境野田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大仙市高梨",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

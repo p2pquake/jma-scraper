@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/30 16:23:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/30 16:20:00",
+    "hypocenter": {
+      "name": "静岡県西部",
+      "latitude": 34.7,
+      "longitude": 138.0,
+      "depth": 30,
+      "magnitude": 2.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "静岡県",
+      "addr": "掛川市西大渕",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

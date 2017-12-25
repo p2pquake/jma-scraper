@@ -1,0 +1,114 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/11 8:12:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/11 8:09:00",
+    "hypocenter": {
+      "name": "豊後水道",
+      "latitude": 33.2,
+      "longitude": 132.2,
+      "depth": 40,
+      "magnitude": 3.3
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "愛媛県",
+      "addr": "西予市明浜町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市丸穂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市津島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市三間町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "大洲市肱川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "伊方町湊浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "松野町松丸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西予市宇和町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西予市三瓶町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛南町船越",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛南町一本松",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "宿毛市桜町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "宿毛市片島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "佐伯市蒲江蒲江浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "佐伯市上浦",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

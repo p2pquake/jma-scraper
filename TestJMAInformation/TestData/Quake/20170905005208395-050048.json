@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/05 0:52:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/05 0:48:00",
+    "hypocenter": {
+      "name": "熊本県天草・芦北地方",
+      "latitude": 32.3,
+      "longitude": 130.3,
+      "depth": 10,
+      "magnitude": 2.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "長島町鷹巣",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "長島町伊唐島",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

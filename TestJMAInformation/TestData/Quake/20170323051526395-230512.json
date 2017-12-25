@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/23 5:15:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/23 5:12:00",
+    "hypocenter": {
+      "name": "茨城県南部",
+      "latitude": 36.0,
+      "longitude": 140.1,
+      "depth": 10,
+      "magnitude": 2.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "牛久市中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "牛久市城中町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

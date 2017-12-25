@@ -1,0 +1,504 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/20 20:16:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/20 20:12:00",
+    "hypocenter": {
+      "name": "群馬県北部",
+      "latitude": 36.6,
+      "longitude": 139.3,
+      "depth": 10,
+      "magnitude": 3.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "群馬県",
+      "addr": "沼田市西倉内町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "沼田市利根町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "片品村鎌田",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "桐生市黒保根町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "渋川市赤城町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "沼田市下久屋町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "沼田市白沢町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "みなかみ町鹿野沢",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "東吾妻町原町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "群馬昭和村糸井",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "前橋市堀越町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "前橋市粕川町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "前橋市鼻毛石町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "桐生市元宿町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "桐生市新里町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "伊勢崎市西久保町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "太田市西本町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "渋川市吹屋",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "みどり市東町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "みどり市大間々町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "中之条町日影",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "中之条町中之条町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "群馬高山村中山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "川場村谷地",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "みなかみ町後閑",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "東吾妻町本宿",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "東吾妻町奥田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "前橋市昭和町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "前橋市駒形町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "前橋市富士見町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "高崎市高松町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "高崎市倉渕町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "高崎市足門町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "高崎市新町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "桐生市織姫町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "伊勢崎市今泉町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "伊勢崎市東町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "伊勢崎市境",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "太田市浜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "太田市粕川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "太田市新田金井町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "太田市大原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "館林市美園町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "渋川市有馬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "渋川市石原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "渋川市北橘町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "渋川市村上",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "富岡市七日市",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "富岡市妙義町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "榛東村新井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "吉岡町下野田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "甘楽町小幡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "邑楽町中野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "みどり市笠懸町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "日光市足尾町通洞",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "日光市湯元",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "日光市足尾町中才",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "日光市中鉢石町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "足利市大正町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "栃木市大平町富田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "栃木市岩舟町静",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "佐野市葛生東",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "佐野市高砂町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "鹿沼市今宮町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "檜枝岐村上河原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "水戸市内原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "小美玉市上玉里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "土浦市常名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "石岡市柿岡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "石岡市若宮",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "かすみがうら市上土田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "かすみがうら市大和田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "熊谷市妻沼",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "熊谷市江南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "本庄市本庄",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "東松山市松葉町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "深谷市仲町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "久喜市下早見",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "長瀞町野上下郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東大和市中央",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/12 4:33:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/12 4:28:00",
+    "hypocenter": {
+      "name": "群馬県南部",
+      "latitude": 36.4,
+      "longitude": 139.2,
+      "depth": 20,
+      "magnitude": 2.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "群馬県",
+      "addr": "東吾妻町原町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

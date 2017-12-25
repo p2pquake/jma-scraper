@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/22 9:26:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/22 9:23:00",
+    "hypocenter": {
+      "name": "トカラ列島近海",
+      "latitude": 29.3,
+      "longitude": 128.9,
+      "depth": 0,
+      "magnitude": 4.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

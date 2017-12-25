@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/24 18:49:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/24 18:44:00",
+    "hypocenter": {
+      "name": "新潟県中越地方",
+      "latitude": 37.0,
+      "longitude": 138.7,
+      "depth": 10,
+      "magnitude": 1.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "新潟県",
+      "addr": "津南町下船渡",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

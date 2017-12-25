@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/16 0:07:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/16 0:04:00",
+    "hypocenter": {
+      "name": "茨城県沖",
+      "latitude": 36.5,
+      "longitude": 141.1,
+      "depth": 40,
+      "magnitude": 3.9
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

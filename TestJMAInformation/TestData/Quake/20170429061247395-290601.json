@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/29 6:12:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/29 6:01:00",
+    "hypocenter": {
+      "name": "父島近海",
+      "latitude": 26.4,
+      "longitude": 142.7,
+      "depth": 30,
+      "magnitude": 4.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "小笠原村母島",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/04 14:17:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/04 14:14:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.4,
+      "longitude": 127.8,
+      "depth": 20,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "宜野湾市野嵩",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "中城村当間",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

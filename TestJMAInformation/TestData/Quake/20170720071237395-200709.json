@@ -1,0 +1,138 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/20 7:12:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/20 7:09:00",
+    "hypocenter": {
+      "name": "富山湾",
+      "latitude": 36.9,
+      "longitude": 137.3,
+      "depth": 20,
+      "magnitude": 3.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "富山県",
+      "addr": "富山市石坂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "富山市新桜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "富山市山田湯",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "魚津市釈迦堂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "魚津市本江",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "滑川市寺家町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "黒部市植木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "舟橋村仏生寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "立山町芦峅寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "入善町入膳",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "富山朝日町道下",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "氷見市加納",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "射水市橋下条",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "富山県",
+      "addr": "射水市二口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "七尾市本府中町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "七尾市袖ヶ江町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "羽咋市柳田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "飛騨市河合町元田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "飛騨市古川町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

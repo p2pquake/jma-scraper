@@ -1,0 +1,204 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/27 21:02:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/27 20:59:00",
+    "hypocenter": {
+      "name": "大阪湾",
+      "latitude": 34.5,
+      "longitude": 135.3,
+      "depth": 10,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "大阪府",
+      "addr": "大阪東成区東中本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪城東区放出西",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪東住吉区杭全",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "岸和田市岸城町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "岸和田市畑町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "岸和田市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "泉大津市東雲町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "貝塚市畠中",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "泉佐野市市場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "富田林市高辺台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "松原市阿保",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪和泉市府中町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "高石市加茂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "忠岡町忠岡東",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "熊取町野田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "千早赤阪村水分",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪堺市中区深井清水町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪堺市堺区山本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪堺市堺区大浜南町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪堺市西区鳳東町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪堺市南区桃山台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "神戸兵庫区上沢通",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "神戸長田区神楽町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "神戸北区藤原台南町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "三田市下深田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "奈良市半田開町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "斑鳩町法隆寺西",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "奈良川西町結崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "上牧町上牧",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "紀の川市粉河",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

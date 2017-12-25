@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/29 20:57:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/29 20:53:00",
+    "hypocenter": {
+      "name": "福島県会津",
+      "latitude": 37.7,
+      "longitude": 139.9,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "山形県",
+      "addr": "飯豊町上原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "喜多方市熱塩加納町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

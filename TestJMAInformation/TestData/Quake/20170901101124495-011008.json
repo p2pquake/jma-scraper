@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/01 10:11:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/01 10:08:00",
+    "hypocenter": {
+      "name": "京都府南部",
+      "latitude": 35.1,
+      "longitude": 135.7,
+      "depth": 10,
+      "magnitude": 2.6
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "京都府",
+      "addr": "京都右京区京北周山町",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

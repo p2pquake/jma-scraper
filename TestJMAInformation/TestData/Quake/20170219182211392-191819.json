@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/19 18:22:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/19 18:19:00",
+    "hypocenter": {
+      "name": "千葉県東方沖",
+      "latitude": 35.7,
+      "longitude": 140.8,
+      "depth": 60,
+      "magnitude": 5.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

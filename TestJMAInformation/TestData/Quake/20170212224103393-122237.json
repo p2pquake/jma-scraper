@@ -1,0 +1,84 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/02/12 22:41:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/12 22:37:00",
+    "hypocenter": {
+      "name": "岩手県沖",
+      "latitude": 40.2,
+      "longitude": 142.3,
+      "depth": 40,
+      "magnitude": 4.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "青森県",
+      "addr": "青森県三八上北",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩手県沿岸北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岩手県",
+      "addr": "岩手県内陸北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "八戸市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "五戸町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "青森南部町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "階上町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "普代村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "野田村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "盛岡市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

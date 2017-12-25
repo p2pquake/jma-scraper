@@ -1,0 +1,258 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/10 6:55:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/10 6:52:00",
+    "hypocenter": {
+      "name": "岐阜県美濃中西部",
+      "latitude": 35.8,
+      "longitude": 136.9,
+      "depth": 10,
+      "magnitude": 3.9
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市八幡町島谷",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市八幡町旭",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜山県市美山支所",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市白鳥町長滝",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市明宝",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市大和町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市白鳥町白鳥",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "高山市高根町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "下呂市森",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "下呂市萩原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "下呂市金山町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "下呂市馬瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "瑞浪市上平町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "可児市広見",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "川辺町中川辺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "八百津町八百津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "白川町河岐",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "関市板取",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "関市上之保",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "関市中之保",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "関市洞戸市場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "美濃市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町東杉原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町谷汲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町東津汲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町西横山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "大野町大野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜山県市谷合運動場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜山県市大門",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "本巣市根尾",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市和良町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市高鷲町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市美並町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "大野市貝皿",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "大野市朝日",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "新城市作手高里松風呂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "新城市作手高里縄手上",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "岡崎市若宮町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "一宮市千秋",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

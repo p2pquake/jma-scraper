@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/02/08 21:18:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/08 21:15:00",
+    "hypocenter": {
+      "name": "五島列島近海",
+      "latitude": 32.8,
+      "longitude": 129.3,
+      "depth": 10,
+      "magnitude": 4.0
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長崎県",
+      "addr": "長崎県五島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "新上五島町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

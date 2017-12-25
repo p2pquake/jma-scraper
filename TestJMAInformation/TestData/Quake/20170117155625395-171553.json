@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/17 15:56:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/17 15:53:00",
+    "hypocenter": {
+      "name": "石川県西方沖",
+      "latitude": 36.6,
+      "longitude": 136.0,
+      "depth": 10,
+      "magnitude": 3.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "石川県",
+      "addr": "志賀町香能",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "穴水町大町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "福井坂井市三国町中央",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

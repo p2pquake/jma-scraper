@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/24 8:25:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/24 8:19:00",
+    "hypocenter": {
+      "name": "トカラ列島近海",
+      "latitude": 29.4,
+      "longitude": 128.9,
+      "depth": 10,
+      "magnitude": 3.3
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

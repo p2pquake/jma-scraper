@@ -1,0 +1,54 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/12/28 21:58:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/28 21:53:00",
+    "hypocenter": {
+      "name": "茨城県北部",
+      "latitude": 36.7,
+      "longitude": 140.7,
+      "depth": 10,
+      "magnitude": 4.7
+    },
+    "maxScale": 40,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "茨城県北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "日立市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "高萩市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "常陸太田市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "東海村",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

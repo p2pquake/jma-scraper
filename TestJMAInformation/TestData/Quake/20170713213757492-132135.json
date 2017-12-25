@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/13 21:37:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/13 21:35:00",
+    "hypocenter": {
+      "name": "奄美大島近海",
+      "latitude": 28.0,
+      "longitude": 129.4,
+      "depth": 40,
+      "magnitude": 4.3
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

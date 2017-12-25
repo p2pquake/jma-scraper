@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/19 12:49:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/19 12:46:00",
+    "hypocenter": {
+      "name": "橘湾",
+      "latitude": 32.7,
+      "longitude": 130.0,
+      "depth": 20,
+      "magnitude": 4.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/21 17:33:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/21 17:30:00",
+    "hypocenter": {
+      "name": "三宅島近海",
+      "latitude": 34.1,
+      "longitude": 139.4,
+      "depth": 10,
+      "magnitude": 2.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "三宅村阿古",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

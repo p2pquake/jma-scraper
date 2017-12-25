@@ -1,0 +1,324 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/15 8:38:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/15 8:34:00",
+    "hypocenter": {
+      "name": "薩摩半島西方沖",
+      "latitude": 31.0,
+      "longitude": 130.3,
+      "depth": 140,
+      "magnitude": 4.6
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "宮崎県",
+      "addr": "都城市菖蒲原",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "都城市姫城町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "西都市上の宮",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "高千穂町三田井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎美郷町田代",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎市霧島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎市松橋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎市田野町体育館",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日南市油津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日南市吾田東",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日南市中央通",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日南市南郷町南町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "串間市都井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "都城市北原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "都城市山之口町花木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "小林市真方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "霧島市福山町牧之原",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿屋市札元",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿屋市串良町岡崎",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "大崎町仮宿",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "錦江町田代支所",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島市東郡元",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島市喜入町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "枕崎市高見町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "霧島市国分中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿屋市新栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿屋市吾平町麓",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "錦江町田代麓",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "錦江町城元",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "南大隅町佐多伊座敷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "南大隅町根占",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "曽於市大隅町中之内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "肝付町北方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "肝付町新富",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "志布志市志布志町志布志",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "志布志市有明町野井倉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "西之表市住吉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "西之表市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "中種子町野間",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "南種子町西之",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "南種子町中之上",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "屋久島町小瀬田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "屋久島町平内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "屋久島町尾之間",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "屋久島町宮之浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "瀬戸内町西古見",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "高知市池",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "土佐町土居",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "宿毛市桜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "佐伯市蒲江蒲江浦",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

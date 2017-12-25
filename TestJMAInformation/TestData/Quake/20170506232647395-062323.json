@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/06 23:26:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/06 23:23:00",
+    "hypocenter": {
+      "name": "八丈島東方沖",
+      "latitude": 33.3,
+      "longitude": 140.8,
+      "depth": 50,
+      "magnitude": 4.9
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "八丈町三根",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "八丈町富士グランド",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "神津島村金長",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "三宅村坪田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "御蔵島村西川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "八丈町樫立",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "青ヶ島村",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

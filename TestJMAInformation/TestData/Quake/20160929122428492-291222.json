@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/29 12:24:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/29 12:22:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 27.4,
+      "longitude": 128.6,
+      "depth": 40,
+      "magnitude": 3.9
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

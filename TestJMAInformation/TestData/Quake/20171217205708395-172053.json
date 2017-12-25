@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/12/17 20:57:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/17 20:53:00",
+    "hypocenter": {
+      "name": "上川地方北部",
+      "latitude": 44.0,
+      "longitude": 142.1,
+      "depth": 10,
+      "magnitude": 2.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "幌加内町平和",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "小平町達布",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

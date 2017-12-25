@@ -1,0 +1,240 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/31 11:50:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/31 11:46:00",
+    "hypocenter": {
+      "name": "新潟県中越地方",
+      "latitude": 37.0,
+      "longitude": 138.6,
+      "depth": 20,
+      "magnitude": 3.6
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "栄村北信",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野市戸隠",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "飯山市飯山福寿町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "坂城町坂城",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "山ノ内町平穏",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "山ノ内町消防署",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "野沢温泉村豊郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "飯綱町芋川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市安塚区安塚",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市浦川原区釜淵",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "十日町市上山",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "十日町市松代",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "十日町市松之山",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "津南町下船渡",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "南魚沼市塩沢小学校",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "南魚沼市塩沢庁舎",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "糸魚川市大野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市大手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市木田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市牧区柳島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市大潟区土底浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市吉川区原之町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市清里区荒牧",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市三和区井ノ口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市大島区岡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市板倉区針",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "妙高市田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "妙高市関山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "柏崎市高柳町岡野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "十日町市千歳町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "十日町市水口沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "出雲崎町米田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "湯沢町神立",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "中之条町日影",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "長野原町長野原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "草津町草津",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

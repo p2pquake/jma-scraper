@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/12/04 21:27:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/04 21:24:00",
+    "hypocenter": {
+      "name": "有明海",
+      "latitude": 32.8,
+      "longitude": 130.6,
+      "depth": 0,
+      "magnitude": 2.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "熊本西区春日",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

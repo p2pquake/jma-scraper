@@ -1,0 +1,228 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/05 16:00:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/05 15:56:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.7,
+      "longitude": 127.8,
+      "depth": 50,
+      "magnitude": 4.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "名護市港",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "国頭村辺土名",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "今帰仁村仲宗根",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "本部町役場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "恩納村恩納",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "宜野座村宜野座",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市石川石崎",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "名護市宮里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "名護市豊原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "国頭村奥",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "東村平良",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "金武町金武",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "伊江村東江前",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "粟国村浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "那覇市樋川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "那覇市港町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "宜野湾市野嵩",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄市美里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "読谷村座喜味",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "嘉手納町嘉手納",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "北谷町桑江",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "北中城村喜舎場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "中城村当間",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "西原町与那城",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南風原町兼城",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "座間味村座間味",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市みどり町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市与那城平安座",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "うるま市与那城饒辺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "八重瀬町東風平",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市知念久手堅",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市玉城富里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市佐敷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "南城市大里仲間",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

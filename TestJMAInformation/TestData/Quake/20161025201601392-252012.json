@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/25 20:16:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/25 20:12:00",
+    "hypocenter": {
+      "name": "千葉県南東沖",
+      "latitude": 34.7,
+      "longitude": 140.1,
+      "depth": 70,
+      "magnitude": 4.5
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

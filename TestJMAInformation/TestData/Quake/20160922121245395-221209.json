@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/22 12:12:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/22 12:09:00",
+    "hypocenter": {
+      "name": "山梨県東部・富士五湖",
+      "latitude": 35.5,
+      "longitude": 139.0,
+      "depth": 30,
+      "magnitude": 2.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "山梨県",
+      "addr": "富士吉田市上吉田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町船津",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

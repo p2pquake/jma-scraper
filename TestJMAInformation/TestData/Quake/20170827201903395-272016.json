@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/27 20:19:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/27 20:16:00",
+    "hypocenter": {
+      "name": "静岡県西部",
+      "latitude": 34.8,
+      "longitude": 138.1,
+      "depth": 30,
+      "magnitude": 3.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "静岡県",
+      "addr": "静岡菊川市堀之内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "浜松天竜区春野町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/03 8:32:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/03 8:29:00",
+    "hypocenter": {
+      "name": "長野県北部",
+      "latitude": 36.8,
+      "longitude": 137.9,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "長野市戸隠",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野市鬼無里",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "小谷村中小谷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "小川村高府",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野市中条",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "大町市美麻",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "白馬村北城",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "糸魚川市一の宮",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "糸魚川市大野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "糸魚川市青海",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市中ノ俣",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市大手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "妙高市関川",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

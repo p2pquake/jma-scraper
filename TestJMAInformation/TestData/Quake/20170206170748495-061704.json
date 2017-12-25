@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/02/06 17:07:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/02/06 17:04:00",
+    "hypocenter": {
+      "name": "種子島近海",
+      "latitude": 30.6,
+      "longitude": 131.2,
+      "depth": 30,
+      "magnitude": 3.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "中種子町野間",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/28 9:29:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/28 9:25:00",
+    "hypocenter": {
+      "name": "有明海",
+      "latitude": 33.0,
+      "longitude": 130.3,
+      "depth": 10,
+      "magnitude": 2.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "佐賀県",
+      "addr": "嬉野市下宿乙",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

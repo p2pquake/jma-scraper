@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/04/02 0:46:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/02 0:41:00",
+    "hypocenter": {
+      "name": "千葉県東方沖",
+      "latitude": 35.4,
+      "longitude": 140.4,
+      "depth": 30,
+      "magnitude": 3.3
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "千葉県北東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "長南町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

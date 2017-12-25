@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/06 20:46:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/06 20:43:00",
+    "hypocenter": {
+      "name": "根室半島南東沖",
+      "latitude": 43.1,
+      "longitude": 146.2,
+      "depth": 50,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "根室市落石東",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

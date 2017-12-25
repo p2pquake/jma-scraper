@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/10 17:52:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/10 17:49:00",
+    "hypocenter": {
+      "name": "大隅半島東方沖",
+      "latitude": 31.3,
+      "longitude": 132.0,
+      "depth": 20,
+      "magnitude": 3.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "宮崎県",
+      "addr": "日南市油津",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

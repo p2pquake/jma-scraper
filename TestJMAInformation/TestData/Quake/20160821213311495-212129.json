@@ -1,0 +1,72 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/08/21 21:33:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/08/21 21:29:00",
+    "hypocenter": {
+      "name": "徳島県南部",
+      "latitude": 33.8,
+      "longitude": 134.4,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "徳島県",
+      "addr": "石井町高川原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "美馬市木屋平",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "上勝町旭",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "牟岐町中村",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町和食",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町上那賀",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町木沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町延野",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

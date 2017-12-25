@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/09 22:22:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/09 22:19:00",
+    "hypocenter": {
+      "name": "和歌山県北部",
+      "latitude": 34.2,
+      "longitude": 135.3,
+      "depth": 0,
+      "magnitude": 2.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山市男野芝丁",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山市一番丁",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

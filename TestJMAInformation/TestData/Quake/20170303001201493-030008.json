@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/03/03 0:12:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/03 0:08:00",
+    "hypocenter": {
+      "name": "日向灘",
+      "latitude": 32.6,
+      "longitude": 132.1,
+      "depth": 30,
+      "magnitude": 4.0
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "大分県",
+      "addr": "大分県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "佐伯市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/07/02 1:02:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/02 0:58:00",
+    "hypocenter": {
+      "name": "熊本県阿蘇地方",
+      "latitude": 33.0,
+      "longitude": 131.2,
+      "depth": 10,
+      "magnitude": 4.5
+    },
+    "maxScale": 45,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "熊本県阿蘇",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "大分県",
+      "addr": "大分県西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "福岡県",
+      "addr": "福岡県筑後",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本県熊本",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "大分県",
+      "addr": "大分県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎県北部平野部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎県北部山沿い",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "産山村",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "熊本高森町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "阿蘇市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "竹田市",
+      "scale": 40,
+      "isArea": false
+    }
+  ]
+}

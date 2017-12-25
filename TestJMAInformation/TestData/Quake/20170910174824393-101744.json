@@ -1,0 +1,234 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/09/10 17:48:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/10 17:44:00",
+    "hypocenter": {
+      "name": "浦河沖",
+      "latitude": 41.7,
+      "longitude": 142.9,
+      "depth": 50,
+      "magnitude": 5.7
+    },
+    "maxScale": 40,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "日高地方中部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "日高地方東部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "石狩地方北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "石狩地方中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "石狩地方南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "渡島地方東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "空知地方南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "胆振地方中東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "日高地方西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "十勝地方中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "十勝地方南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "青森県",
+      "addr": "青森県下北",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "新冠町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "浦河町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "新篠津村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "札幌北区",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "札幌東区",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "札幌白石区",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "江別市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "千歳市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "函館市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "南幌町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "登別市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "厚真町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "安平町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "むかわ町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "平取町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "新ひだか町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "様似町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "えりも町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "芽室町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "幕別町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "浦幌町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "十勝大樹町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "東通村",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

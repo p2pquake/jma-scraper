@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/02 14:35:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/02 14:33:00",
+    "hypocenter": {
+      "name": "秋田県内陸北部",
+      "latitude": 40.0,
+      "longitude": 140.5,
+      "depth": 10,
+      "magnitude": 4.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

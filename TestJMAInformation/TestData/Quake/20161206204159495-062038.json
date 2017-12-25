@@ -1,0 +1,96 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/06 20:41:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/06 20:38:00",
+    "hypocenter": {
+      "name": "兵庫県南東部",
+      "latitude": 34.9,
+      "longitude": 134.9,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "兵庫県",
+      "addr": "加西市北条町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "多可町八千代区",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "西脇市上比延町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "西脇市黒田庄町前坂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "加西市下万願寺町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "篠山市杉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "丹波市山南町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "多可町加美区",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "加東市社",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "加東市河高",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "姫路市香寺町中屋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫神河町新田",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

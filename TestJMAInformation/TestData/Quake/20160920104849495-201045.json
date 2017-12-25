@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/20 10:48:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/20 10:45:00",
+    "hypocenter": {
+      "name": "伊勢湾",
+      "latitude": 35.0,
+      "longitude": 136.8,
+      "depth": 20,
+      "magnitude": 2.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "愛知県",
+      "addr": "知多市緑町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "鈴鹿市西条",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

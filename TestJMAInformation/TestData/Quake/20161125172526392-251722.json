@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/25 17:25:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/25 17:22:00",
+    "hypocenter": {
+      "name": "留萌地方中北部",
+      "latitude": 44.8,
+      "longitude": 141.8,
+      "depth": 30,
+      "magnitude": 4.7
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

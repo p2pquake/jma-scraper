@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/23 15:14:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/23 15:11:00",
+    "hypocenter": {
+      "name": "宗谷東方沖",
+      "latitude": 45.4,
+      "longitude": 142.3,
+      "depth": 10,
+      "magnitude": 3.3
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "猿払村浅茅野",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "猿払村浜鬼志別",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

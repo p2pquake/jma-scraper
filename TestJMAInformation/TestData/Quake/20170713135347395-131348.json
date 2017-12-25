@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/13 13:53:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/13 13:48:00",
+    "hypocenter": {
+      "name": "北海道北西沖",
+      "latitude": 44.4,
+      "longitude": 141.7,
+      "depth": 10,
+      "magnitude": 1.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "羽幌町南３条",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

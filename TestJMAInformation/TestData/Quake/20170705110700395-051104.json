@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/05 11:07:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/05 11:04:00",
+    "hypocenter": {
+      "name": "伊豆大島近海",
+      "latitude": 34.6,
+      "longitude": 139.4,
+      "depth": 10,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "東京利島村東山",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

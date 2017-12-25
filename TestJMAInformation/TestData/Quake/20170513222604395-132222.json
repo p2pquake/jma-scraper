@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/13 22:26:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/13 22:22:00",
+    "hypocenter": {
+      "name": "千葉県東方沖",
+      "latitude": 35.7,
+      "longitude": 140.9,
+      "depth": 30,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "茨城県",
+      "addr": "稲敷市江戸崎甲",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/12/16 6:01:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/12/16 5:57:00",
+    "hypocenter": {
+      "name": "大阪湾",
+      "latitude": 34.4,
+      "longitude": 134.9,
+      "depth": 10,
+      "magnitude": 3.6
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "兵庫県",
+      "addr": "洲本市山手",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "洲本市物部",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "南あわじ市広田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "神戸垂水区日向",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "洲本市五色町都志",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "南あわじ市福良",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "南あわじ市北阿万",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "南あわじ市市",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "淡路市久留麻",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "淡路市郡家",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "淡路市志筑",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "泉南市男里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪岬町深日",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "斑鳩町法隆寺西",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "鳴門市鳴門町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

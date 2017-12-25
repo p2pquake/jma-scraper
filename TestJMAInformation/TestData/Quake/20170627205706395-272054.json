@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/27 20:57:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/27 20:54:00",
+    "hypocenter": {
+      "name": "千葉県南東沖",
+      "latitude": 35.1,
+      "longitude": 140.2,
+      "depth": 20,
+      "magnitude": 2.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "勝浦市墨名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "鴨川市横渚",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

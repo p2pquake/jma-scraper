@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/03/03 17:31:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/03 17:27:00",
+    "hypocenter": {
+      "name": "根室半島南東沖",
+      "latitude": 43.1,
+      "longitude": 145.5,
+      "depth": 90,
+      "magnitude": 4.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "釧路地方中南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室地方中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室地方南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "標茶町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "鶴居村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "別海町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "根室市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

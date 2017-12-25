@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/08/03 10:27:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/08/03 10:24:00",
+    "hypocenter": {
+      "name": "滋賀県北部",
+      "latitude": 35.3,
+      "longitude": 136.4,
+      "depth": 20,
+      "magnitude": 3.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "滋賀県",
+      "addr": "多賀町多賀",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

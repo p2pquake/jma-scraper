@@ -1,0 +1,54 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/23 3:37:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/23 3:34:00",
+    "hypocenter": {
+      "name": "鳥取県中部",
+      "latitude": 35.4,
+      "longitude": 133.9,
+      "depth": 10,
+      "magnitude": 3.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鳥取県",
+      "addr": "倉吉市葵町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "北栄町土下",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "三朝町大瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "湯梨浜町久留",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "湯梨浜町龍島",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

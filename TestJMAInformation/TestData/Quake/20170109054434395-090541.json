@@ -1,0 +1,204 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/09 5:44:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/09 5:41:00",
+    "hypocenter": {
+      "name": "山梨県中・西部",
+      "latitude": 35.7,
+      "longitude": 138.7,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "山梨県",
+      "addr": "山梨市牧丘町窪平",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨市小原西",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "笛吹市一宮町末木",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "笛吹市境川町藤垈",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "笛吹市八代町南",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "笛吹市春日居町寺本",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲州市塩山下於曽",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲州市塩山上於曽",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲州市役所",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲州市勝沼町勝沼",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲府市相生",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲府市古関町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨市三富川浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲斐市下今井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "笛吹市御坂町夏目原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "笛吹市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨北杜市健康ランド須玉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨北杜市明野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨北杜市高根町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨北杜市長坂町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "市川三郷町六郷支所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲州市大和町初鹿野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "大月市大月",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "上野原市上野原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "鳴沢村役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町船津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町本栖",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "丹波山村丹波",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "青梅市日向和田",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

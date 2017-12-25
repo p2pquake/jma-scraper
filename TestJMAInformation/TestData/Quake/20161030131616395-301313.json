@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/30 13:16:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/30 13:13:00",
+    "hypocenter": {
+      "name": "三重県南部",
+      "latitude": 34.3,
+      "longitude": 136.1,
+      "depth": 50,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "奈良県",
+      "addr": "御杖村菅野",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

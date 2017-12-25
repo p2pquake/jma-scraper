@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/17 21:49:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/17 21:45:00",
+    "hypocenter": {
+      "name": "千葉県東方沖",
+      "latitude": 35.6,
+      "longitude": 140.8,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "銚子市若宮町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

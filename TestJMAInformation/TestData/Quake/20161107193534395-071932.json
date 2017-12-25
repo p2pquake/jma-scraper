@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/11/07 19:35:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/11/07 19:32:00",
+    "hypocenter": {
+      "name": "新島・神津島近海",
+      "latitude": 34.2,
+      "longitude": 139.2,
+      "depth": 0,
+      "magnitude": 2.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "神津島村金長",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "神津島村役場",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

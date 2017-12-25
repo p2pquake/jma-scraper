@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/09/02 4:45:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/02 4:42:00",
+    "hypocenter": {
+      "name": "胆振地方中東部",
+      "latitude": 42.8,
+      "longitude": 141.9,
+      "depth": 30,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "安平町早来北進",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/01 7:38:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/01 7:36:00",
+    "hypocenter": {
+      "name": "伊予灘",
+      "latitude": 33.6,
+      "longitude": 131.9,
+      "depth": 70,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "愛媛県",
+      "addr": "八幡浜市保内町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "伊方町湊浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "周防大島町東和総合支所",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

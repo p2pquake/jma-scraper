@@ -1,0 +1,78 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/09 12:26:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/09 12:23:00",
+    "hypocenter": {
+      "name": "石川県能登地方",
+      "latitude": 37.2,
+      "longitude": 136.9,
+      "depth": 20,
+      "magnitude": 3.3
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "石川県",
+      "addr": "七尾市本府中町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "七尾市中島町中島",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "穴水町大町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "七尾市袖ヶ江町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "七尾市能登島向田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "七尾市垣吉町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "輪島市鳳至町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "志賀町富来領家町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "志賀町香能",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

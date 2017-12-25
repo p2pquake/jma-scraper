@@ -1,0 +1,60 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/03/12 3:53:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/12 3:49:00",
+    "hypocenter": {
+      "name": "薩摩半島西方沖",
+      "latitude": 31.0,
+      "longitude": 130.4,
+      "depth": 140,
+      "magnitude": 5.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島県大隅",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島県屋久島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "大崎町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "錦江町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "肝付町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "屋久島町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

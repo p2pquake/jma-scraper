@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/12/26 1:58:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/25 23:22:00",
+    "hypocenter": {
+      "name": "チリ南部",
+      "latitude": -43.3,
+      "longitude": -74.5,
+      "depth": -1,
+      "magnitude": 7.6
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

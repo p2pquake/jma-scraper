@@ -1,0 +1,54 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/11/01 0:50:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/01 0:46:00",
+    "hypocenter": {
+      "name": "鹿児島湾",
+      "latitude": 31.4,
+      "longitude": 130.6,
+      "depth": 10,
+      "magnitude": 3.7
+    },
+    "maxScale": 40,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島県薩摩",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島県大隅",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "鹿児島市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "枕崎市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "鹿屋市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/01 2:55:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/01 2:52:00",
+    "hypocenter": {
+      "name": "和歌山県南部",
+      "latitude": 33.5,
+      "longitude": 135.7,
+      "depth": 30,
+      "magnitude": 3.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "和歌山県",
+      "addr": "すさみ町周参見",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

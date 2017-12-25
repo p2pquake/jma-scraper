@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/16 20:02:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/16 19:59:00",
+    "hypocenter": {
+      "name": "静岡県西部",
+      "latitude": 35.1,
+      "longitude": 137.9,
+      "depth": 20,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "静岡県",
+      "addr": "川根本町東藤川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "浜松天竜区佐久間町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/09/26 4:12:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/26 4:09:00",
+    "hypocenter": {
+      "name": "佐渡付近",
+      "latitude": 38.3,
+      "longitude": 137.8,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市河原田本町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

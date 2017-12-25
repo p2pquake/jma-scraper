@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/14 0:09:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/14 0:06:00",
+    "hypocenter": {
+      "name": "長野県南部",
+      "latitude": 36.0,
+      "longitude": 137.6,
+      "depth": 10,
+      "magnitude": 2.6
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "高山市高根町",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

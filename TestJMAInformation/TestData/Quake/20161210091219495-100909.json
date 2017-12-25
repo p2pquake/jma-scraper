@@ -1,0 +1,84 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/12/10 9:12:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/12/10 9:09:00",
+    "hypocenter": {
+      "name": "島根県西部",
+      "latitude": 35.2,
+      "longitude": 132.6,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "島根県",
+      "addr": "大田市大田町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市湖陵町二部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "飯南町下赤名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "大田市仁摩町仁万",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "大田市温泉津町小浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "川本町川本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根美郷町君谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根美郷町粕淵",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "邑南町下口羽",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "北広島町川小田",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

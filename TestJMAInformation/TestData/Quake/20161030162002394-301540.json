@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/10/30 16:20:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/30 15:40:00",
+    "hypocenter": {
+      "name": "イタリア中央部",
+      "latitude": 42.9,
+      "longitude": 13.1,
+      "depth": -1,
+      "magnitude": 6.6
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "None"
+  },
+  "points": []
+}

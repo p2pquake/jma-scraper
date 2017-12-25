@@ -1,0 +1,348 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/10/25 20:17:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/10/25 20:12:00",
+    "hypocenter": {
+      "name": "千葉県南東沖",
+      "latitude": 34.7,
+      "longitude": 140.1,
+      "depth": 70,
+      "magnitude": 4.5
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "館山市長須賀",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "館山市北条",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "鴨川市八色",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "鴨川市横渚",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "南房総市上堀",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "南房総市白浜町白浜",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "南房総市岩糸",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "南房総市谷向",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "一宮町一宮",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "市原市姉崎",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "勝浦市墨名",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "勝浦市新官",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "鴨川市天津",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "君津市久留里市場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "大多喜町大多喜",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "鋸南町下佐久間",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "いすみ市国府台",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "南房総市富浦町青木",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "南房総市和田町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "南房総市千倉町瀬戸",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "東金市東新宿",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "東金市日吉台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "睦沢町下之郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "長生村本郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "長南町長南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "山武市蓮沼ニ",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "大網白里市大網",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉中央区中央港",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉中央区千葉市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉中央区都町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉花見川区花島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉稲毛区園生町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉美浜区ひび野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉美浜区稲毛海岸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "木更津市太田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "木更津市富士見",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "鴨川市内浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "君津市久保",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "富津市下飯野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "御宿町須賀",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "いすみ市大原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "いすみ市岬町長者",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京千代田区大手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京江戸川区船堀",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "伊豆大島町波浮港",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京利島村東山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜中区山手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜港南区丸山台東部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎宮前区宮前平",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横須賀市光の丘",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "平塚市浅間町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "三浦市城山町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "東伊豆町奈良本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "河津町田中",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

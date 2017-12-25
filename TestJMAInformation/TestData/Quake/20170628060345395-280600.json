@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/28 6:03:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/28 6:00:00",
+    "hypocenter": {
+      "name": "神奈川県東部",
+      "latitude": 35.6,
+      "longitude": 139.6,
+      "depth": 40,
+      "magnitude": 2.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "神奈川県",
+      "addr": "横浜鶴見区末広町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎川崎区宮前町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

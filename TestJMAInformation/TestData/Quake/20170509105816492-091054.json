@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/09 10:58:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/09 10:54:00",
+    "hypocenter": {
+      "name": "宮古島近海",
+      "latitude": 24.2,
+      "longitude": 126.5,
+      "depth": 10,
+      "magnitude": 6.4
+    },
+    "maxScale": -1,
+    "domesticTsunami": "NonEffective",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

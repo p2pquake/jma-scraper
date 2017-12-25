@@ -1,0 +1,408 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/24 11:19:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/24 11:15:00",
+    "hypocenter": {
+      "name": "秋田県沖",
+      "latitude": 40.1,
+      "longitude": 139.6,
+      "depth": 10,
+      "magnitude": 4.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "秋田県",
+      "addr": "能代市緑町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "能代市追分町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "男鹿市男鹿中",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "男鹿市船川",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "男鹿市角間崎",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "八郎潟町大道",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "井川町北川尻",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大潟村中央",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "潟上市飯田川下虻川",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "三種町鵜川",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "三種町豊岡",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "秋田市八橋運動公園",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "能代市常盤山谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "能代市二ツ井町上台",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "藤里町藤琴",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "五城目町西磯ノ目",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "潟上市昭和大久保",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "潟上市天王",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "三種町ことおか中央公園",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "三種町鹿渡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "八峰町八森木戸の沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "八峰町峰浜目名潟",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "秋田市山王",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "秋田市雄和女米木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "秋田市河辺和田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大館市桜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大館市早口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "小坂町小坂砂森",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "上小阿仁村小沢田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市花園町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市阿仁水無",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市米内沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市阿仁銀山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市新田目",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "湯沢市沖鶴",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "羽後町西馬音内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "東成瀬村田子内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "秋田美郷町六郷東根",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "仙北市西木町上桧木内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "仙北市田沢湖生保内上清水",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "五所川原市敷島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "五所川原市金木町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "五所川原市相内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "今別町今別",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "つがる市柏",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "つがる市車力町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "つがる市稲垣町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "外ヶ浜町蟹田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "深浦町長慶平",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "深浦町深浦岡町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "深浦町深浦中沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "深浦町岩崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "西目屋村田代",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "藤崎町西豊田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "藤崎町水木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "田舎館村田舎館",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "東通村砂子又沢内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "二戸市福岡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "二戸市石切所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "二戸市浄法寺町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "矢巾町南矢幅",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "花巻市大迫町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "西和賀町沢内川舟",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岩手県",
+      "addr": "西和賀町沢内太田",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

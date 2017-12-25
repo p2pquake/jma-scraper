@@ -1,0 +1,90 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/10/01 16:22:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/10/01 16:19:00",
+    "hypocenter": {
+      "name": "栃木県北部",
+      "latitude": 36.8,
+      "longitude": 139.8,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "栃木県",
+      "addr": "日光市鬼怒川温泉大原",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "日光市芹沼",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "日光市今市本町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "日光市瀬川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "日光市中鉢石町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "日光市藤原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "矢板市本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "塩谷町玉生",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "宇都宮市明保野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "栃木県",
+      "addr": "宇都宮市中里町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "茨城県",
+      "addr": "土浦市常名",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

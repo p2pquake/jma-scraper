@@ -1,0 +1,54 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2016/08/28 5:48:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/08/28 5:44:00",
+    "hypocenter": {
+      "name": "新島・神津島近海",
+      "latitude": 34.2,
+      "longitude": 139.1,
+      "depth": 0,
+      "magnitude": 3.6
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "神津島村役場",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "新島村大原",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "新島村式根島",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "新島村本村",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "三宅村役場臨時庁舎",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

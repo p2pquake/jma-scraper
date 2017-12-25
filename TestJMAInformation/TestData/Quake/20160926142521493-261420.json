@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/09/26 14:25:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2016/09/26 14:20:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 27.4,
+      "longitude": 128.6,
+      "depth": 40,
+      "magnitude": 5.7
+    },
+    "maxScale": 45,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島県奄美南部",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島県奄美北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄県本島北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "知名町",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "瀬戸内町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "和泊町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "与論町",
+      "scale": 40,
+      "isArea": false
+    }
+  ]
+}

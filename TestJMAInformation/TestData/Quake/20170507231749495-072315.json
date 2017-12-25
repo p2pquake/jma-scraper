@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/07 23:17:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/07 23:15:00",
+    "hypocenter": {
+      "name": "熊本県熊本地方",
+      "latitude": 32.7,
+      "longitude": 131.1,
+      "depth": 0,
+      "magnitude": 2.7
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "山都町下馬尾",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山都町大平",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "日之影町岩井川",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

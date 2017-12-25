@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/11/01 11:43:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/11/01 11:40:00",
+    "hypocenter": {
+      "name": "山梨県東部・富士五湖",
+      "latitude": 35.4,
+      "longitude": 138.9,
+      "depth": 20,
+      "magnitude": 2.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "神奈川県",
+      "addr": "山北町山北",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原緑区中野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山中湖村山中",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町船津",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

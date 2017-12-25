@@ -1,0 +1,228 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/05/05 14:30:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/05/05 14:27:00",
+    "hypocenter": {
+      "name": "瀬戸内海中部",
+      "latitude": 34.1,
+      "longitude": 133.1,
+      "depth": 10,
+      "magnitude": 3.7
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "広島県",
+      "addr": "大崎上島町木江",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "大崎上島町東野",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "安芸高田市向原町長田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "三原市円一町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "三原市館町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "三原市本郷南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "三原市久井町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "尾道市瀬戸田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市広",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市下蒲刈町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市川尻町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市豊町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "東広島市西条栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "東広島市豊栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "竹原市中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "大崎上島町中野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市大西町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市菊間町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市吉海町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市宮窪町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市南宝来町二丁目",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市朝倉北",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市玉川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市波方町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市上浦町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市大三島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市伯方町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西条市丹原町鞍瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西条市周布",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西条市新田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西条市丹原町池田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "松山市北条辻",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "香川県",
+      "addr": "三豊市詫間町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "土佐町土居",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

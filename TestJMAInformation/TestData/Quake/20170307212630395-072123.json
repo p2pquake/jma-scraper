@@ -1,0 +1,84 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/03/07 21:26:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/03/07 21:23:00",
+    "hypocenter": {
+      "name": "岐阜県美濃中西部",
+      "latitude": 35.8,
+      "longitude": 136.9,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市八幡町島谷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市八幡町旭",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "高山市高根町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "下呂市馬瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜山県市美山支所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市白鳥町長滝",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市和良町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市明宝",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市大和町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "郡上市白鳥町白鳥",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

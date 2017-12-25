@@ -1,0 +1,366 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/04/13 2:18:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/04/13 2:15:00",
+    "hypocenter": {
+      "name": "和歌山県南部",
+      "latitude": 33.8,
+      "longitude": 135.4,
+      "depth": 30,
+      "magnitude": 3.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "和歌山県",
+      "addr": "湯浅町青木",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "由良町里",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "有田市初島町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "御坊市薗",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山広川町広",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山美浜町和田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "みなべ町芝",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "日高川町土生",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "紀美野町下佐々",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "田辺市中辺路町栗栖川",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "田辺市本宮町本宮",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "田辺市中屋敷町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "白浜町消防本部",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "上富田町朝来",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山市男野芝丁",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山市一番丁",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "海南市下津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "海南市日方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "有田市箕島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "かつらぎ町丁ノ町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "かつらぎ町花園梁瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "高野町高野山中学校",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山日高町高家",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山印南町印南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "みなべ町土井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "日高川町川原河",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "紀の川市桃山町元",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "紀の川市貴志川町神戸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "紀美野町神野市場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "有田川町清水",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "有田川町下津野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "田辺市中辺路町近露",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "田辺市鮎川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "新宮市熊野川町日足",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "白浜町日置",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "串本町串本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "那智勝浦町朝日",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "太地町太地暖海公園",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "太地町役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "古座川町高池",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町和食",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "美波町西の地",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "徳島市大和町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "小松島市横須町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "石井町高川原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "吉野川市川島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "美馬市木屋平",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "つるぎ町貞光",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "阿南市富岡町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "阿南市山口町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "阿南市那賀川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "勝浦町久国",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "上勝町旭",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "牟岐町中村",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町横石",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町延野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "香川県",
+      "addr": "東かがわ市西村",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

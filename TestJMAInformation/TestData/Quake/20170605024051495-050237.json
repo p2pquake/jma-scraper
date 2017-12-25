@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/06/05 2:40:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/06/05 2:37:00",
+    "hypocenter": {
+      "name": "滋賀県南部",
+      "latitude": 34.9,
+      "longitude": 136.1,
+      "depth": 20,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "三重県",
+      "addr": "伊賀市小田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "湖南市石部中央西庁舎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "甲賀市信楽町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

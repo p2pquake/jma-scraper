@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/07/01 23:47:00",
+    "type": "ScalePrompt",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/01 23:45:00",
+    "hypocenter": {
+      "name": "",
+      "latitude": -200.0,
+      "longitude": -200.0,
+      "depth": -1,
+      "magnitude": -1.0
+    },
+    "maxScale": 45,
+    "domesticTsunami": "Checking",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "胆振地方中東部",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "石狩地方中部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "石狩地方南部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "石狩地方北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "後志地方北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "空知地方南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "日高地方西部",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

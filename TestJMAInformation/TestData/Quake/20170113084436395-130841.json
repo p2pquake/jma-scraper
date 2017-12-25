@@ -1,0 +1,138 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/01/13 8:44:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/01/13 8:41:00",
+    "hypocenter": {
+      "name": "福島県会津",
+      "latitude": 37.4,
+      "longitude": 139.7,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福島県",
+      "addr": "三島町宮下",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "西会津町野沢",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "西会津町登世島",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "柳津町大成沢",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "柳津町柳津",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "福島昭和村下中津川",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "会津美里町高田庁舎",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "会津美里町新鶴庁舎",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "会津若松市北会津町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "喜多方市塩川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "喜多方市高郷町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "只見町黒谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "会津坂下町市中三番甲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "福島金山町川口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "会津美里町本郷庁舎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "南会津町田島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "南会津町界",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山形県",
+      "addr": "飯豊町上原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "魚沼市須原",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

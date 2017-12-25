@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2017/09/08 2:33:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/09/08 2:27:00",
+    "hypocenter": {
+      "name": "小笠原諸島西方沖",
+      "latitude": 28.0,
+      "longitude": 140.6,
+      "depth": 460,
+      "magnitude": 6.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "小笠原",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "小笠原村",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

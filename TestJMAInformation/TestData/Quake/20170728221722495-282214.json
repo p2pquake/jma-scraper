@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/28 22:17:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/28 22:14:00",
+    "hypocenter": {
+      "name": "滋賀県北部",
+      "latitude": 35.5,
+      "longitude": 136.3,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市公園町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

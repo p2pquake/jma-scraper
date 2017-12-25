@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "",
+    "time": "2017/07/06 11:18:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2017/07/06 11:15:00",
+    "hypocenter": {
+      "name": "橘湾",
+      "latitude": 32.6,
+      "longitude": 129.9,
+      "depth": 10,
+      "magnitude": 2.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長崎県",
+      "addr": "長崎市元町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}
