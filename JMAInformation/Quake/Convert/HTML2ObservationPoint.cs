@@ -206,7 +206,7 @@ namespace P2PQuake.JMAInformation.Quake.Convert
                     // "大阪府南部" → "大阪府" をprefectureにする，など
                     if (isAreaMode)
                     {
-                        Match match = Regex.Match(element, "^(.+?[都道府県]).+$");
+                        Match match = Regex.Match(element, @"^([^市区町村]{2}[都道府県]|[^市区町村]{3}県)");
                         if (match.Success)
                             point.prefecture = match.Groups[1].Value;
                     }
