@@ -33,6 +33,12 @@
       "isArea": true
     },
     {
+      "pref": "奈良県",
+      "addr": "奈良県",
+      "scale": 40,
+      "isArea": true
+    },
+    {
       "pref": "和歌山県",
       "addr": "和歌山県北部",
       "scale": 40,
@@ -99,757 +105,757 @@
       "isArea": true
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "尾鷲市",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "千早赤阪村",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大和郡山市",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "五條市",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "高取町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "広陵町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "下北山村",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "海南市",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "有田市",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "かつらぎ町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "湯浅町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "和歌山広川町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "由良町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "和歌山印南町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "みなべ町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "日高川町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "有田川町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "田辺市",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "新宮市",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "白浜町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "上富田町",
       "scale": 40,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "田原市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "名古屋南区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "半田市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "西尾市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "愛知美浜町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "熊野市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "紀宝町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "三重紀北町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "甲賀市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "城陽市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "八幡市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "京田辺市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "井手町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "精華町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "南山城村",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪都島区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪東淀川区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪東成区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪城東区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪東住吉区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪平野区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "枚方市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "八尾市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "寝屋川市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大東市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "柏原市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "東大阪市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "四條畷市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "交野市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "島本町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "岸和田市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "泉大津市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "泉佐野市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "富田林市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "河内長野市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "松原市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪和泉市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "羽曳野市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "泉南市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪狭山市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "忠岡町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "熊取町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪岬町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪太子町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "河南町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪堺市中区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪堺市堺区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪堺市美原区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪堺市東区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪堺市西区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大阪堺市南区",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "洲本市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "南あわじ市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "淡路市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "奈良市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大和高田市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "天理市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "橿原市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "桜井市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "御所市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "生駒市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "香芝市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "平群町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "三郷町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "斑鳩町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "安堵町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "奈良川西町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "三宅町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "田原本町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "上牧町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "王寺町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "河合町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "吉野町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "大淀町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "下市町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "黒滝村",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "天川村",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "野迫川村",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "十津川村",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "奈良川上村",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "東吉野村",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "葛城市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "和歌山市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "橋本市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "御坊市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "高野町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "和歌山美浜町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "和歌山日高町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "紀の川市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "紀美野町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "岩出市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "すさみ町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "串本町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "那智勝浦町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "太地町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "古座川町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "北山村",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "徳島市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "鳴門市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "石井町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "北島町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "阿南市",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "那賀町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "美波町",
       "scale": 30,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "高知香南市",
       "scale": 30,
       "isArea": false
