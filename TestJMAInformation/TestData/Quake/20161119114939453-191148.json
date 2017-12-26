@@ -33,6 +33,12 @@
       "isArea": true
     },
     {
+      "pref": "奈良県",
+      "addr": "奈良県",
+      "scale": 40,
+      "isArea": true
+    },
+    {
       "pref": "和歌山県",
       "addr": "和歌山県北部",
       "scale": 40,

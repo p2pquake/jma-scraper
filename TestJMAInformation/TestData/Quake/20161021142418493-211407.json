@@ -195,6 +195,12 @@
       "isArea": true
     },
     {
+      "pref": "奈良県",
+      "addr": "奈良県",
+      "scale": 30,
+      "isArea": true
+    },
+    {
       "pref": "和歌山県",
       "addr": "和歌山県北部",
       "scale": 30,
@@ -267,73 +273,73 @@
       "isArea": true
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "倉吉市",
       "scale": 55,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "湯梨浜町",
       "scale": 55,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "北栄町",
       "scale": 55,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "鳥取市",
       "scale": 50,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "三朝町",
       "scale": 50,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "鏡野町",
       "scale": 50,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "真庭市",
       "scale": 50,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "琴浦町",
       "scale": 45,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "日吉津村",
       "scale": 45,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "隠岐の島町",
       "scale": 45,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "勝央町",
       "scale": 46,
       "isArea": false
     },
     {
-      "pref": "奈良県",
+      "pref": "",
       "addr": "赤磐市",
       "scale": 46,
       "isArea": false
