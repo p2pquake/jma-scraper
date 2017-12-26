@@ -169,7 +169,7 @@ namespace P2PQuake.JMAInformation.Quake.Convert
                     scale = scaleToInt(match.Groups[1].Value, match.Groups[2].Value);
                 }
                 // 都道府県が素直に記されている場合
-                else if (Regex.IsMatch(element, "^.+[都道府県]$"))
+                else if (Regex.IsMatch(element, "^.+[都道府県]$") && type == IssueType.DetailScale)
                 {
                     prefecture = element;
                 }
