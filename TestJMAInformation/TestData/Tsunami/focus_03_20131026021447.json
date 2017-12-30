@@ -1,0 +1,16 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "平成２５年１０月２６日０２時１４分",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "福島県",
+      "grade": "津波注意報",
+      "immediate": false
+    }
+  ]
+}

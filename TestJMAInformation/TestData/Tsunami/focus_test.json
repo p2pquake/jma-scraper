@@ -1,0 +1,16 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "平成２２年　２月２７日０５時３３分",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "沖縄本島地方",
+      "grade": "津波警報",
+      "immediate": true
+    }
+  ]
+}

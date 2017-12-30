@@ -1,0 +1,41 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "平成２２年　３月　１日０８時４０分",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "青森県太平洋沿岸",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "岩手県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "宮城県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "福島県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "茨城県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "高知県",
+      "grade": "津波注意報",
+      "immediate": false
+    }
+  ]
+}

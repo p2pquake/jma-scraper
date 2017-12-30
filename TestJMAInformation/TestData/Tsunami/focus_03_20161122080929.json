@@ -1,0 +1,51 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "平成２８年１１月２２日０８時０９分",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "宮城県",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "福島県",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "青森県太平洋沿岸",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "岩手県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "茨城県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "千葉県九十九里・外房",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "千葉県内房",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "伊豆諸島",
+      "grade": "津波注意報",
+      "immediate": false
+    }
+  ]
+}

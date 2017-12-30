@@ -1,0 +1,16 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "平成２７年　４月２０日１０時４７分",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "宮古島・八重山地方",
+      "grade": "津波注意報",
+      "immediate": true
+    }
+  ]
+}

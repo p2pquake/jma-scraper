@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "平成２５年１０月２６日０２時５０分",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "岩手県",
+      "grade": "津波注意報",
+      "immediate": true
+    },
+    {
+      "name": "宮城県",
+      "grade": "津波注意報",
+      "immediate": true
+    },
+    {
+      "name": "福島県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "茨城県",
+      "grade": "津波注意報",
+      "immediate": true
+    },
+    {
+      "name": "千葉県九十九里・外房",
+      "grade": "津波注意報",
+      "immediate": true
+    }
+  ]
+}

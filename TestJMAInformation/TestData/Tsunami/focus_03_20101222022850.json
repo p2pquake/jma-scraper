@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "平成２２年１２月２２日０２時２８分",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "小笠原諸島",
+      "grade": "津波警報",
+      "immediate": true
+    },
+    {
+      "name": "伊豆諸島",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "静岡県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "愛知県外海",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "三重県南部",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "和歌山県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "徳島県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "高知県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "宮崎県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "種子島・屋久島地方",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "奄美諸島・トカラ列島",
+      "grade": "津波注意報",
+      "immediate": false
+    }
+  ]
+}
