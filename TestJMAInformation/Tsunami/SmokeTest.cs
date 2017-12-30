@@ -33,15 +33,8 @@ namespace TestJMAInformation.Tsunami
             string content = reader.ReadToEnd();
             reader.Close();
 
-            Console.WriteLine("---------------------------------");
-            Console.WriteLine("---------------------------------");
-            Console.WriteLine("--" + Path.GetFileName(sourcePath));
-
             Core core = JMATsunamiConverter.fromString(content);
             string json = JsonConvert.SerializeObject(core, Formatting.Indented);
-
-            Console.WriteLine("--");
-            Console.WriteLine(json);
 
             if (!File.Exists(expectedPath))
             {

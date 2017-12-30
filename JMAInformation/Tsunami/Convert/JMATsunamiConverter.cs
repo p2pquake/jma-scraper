@@ -124,8 +124,7 @@ namespace P2PQuake.JMAInformation.Tsunami.Convert
             {
                 core.cancelled = true;
             }
-
-            Console.WriteLine(body);
+            
             return core;
         }
     }
