@@ -1,0 +1,21 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "平成２７年　５月　３日０２時３９分",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "伊豆諸島",
+      "grade": "津波注意報",
+      "immediate": true
+    },
+    {
+      "name": "小笠原諸島",
+      "grade": "津波注意報",
+      "immediate": true
+    }
+  ]
+}

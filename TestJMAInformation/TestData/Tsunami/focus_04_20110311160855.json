@@ -1,0 +1,276 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "平成２３年　３月１１日１６時０８分",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "岩手県",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "宮城県",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "福島県",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "北海道太平洋沿岸中部",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "青森県太平洋沿岸",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "茨城県",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "千葉県九十九里・外房",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "伊豆諸島",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "北海道太平洋沿岸東部",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "北海道太平洋沿岸西部",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "青森県日本海沿岸",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "千葉県内房",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "小笠原諸島",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "相模湾・三浦半島",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "静岡県",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "和歌山県",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "徳島県",
+      "grade": "大津波警報",
+      "immediate": false
+    },
+    {
+      "name": "愛知県外海",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "三重県南部",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "高知県",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "宮崎県",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "種子島・屋久島地方",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "奄美諸島・トカラ列島",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "北海道日本海沿岸南部",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "陸奥湾",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "東京湾内湾",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "伊勢・三河湾",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "淡路島南部",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "愛媛県宇和海沿岸",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "大分県瀬戸内海沿岸",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "大分県豊後水道沿岸",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "鹿児島県東部",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "鹿児島県西部",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "沖縄本島地方",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "大東島地方",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "宮古島・八重山地方",
+      "grade": "津波警報",
+      "immediate": false
+    },
+    {
+      "name": "オホーツク海沿岸",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "大阪府",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "兵庫県瀬戸内海沿岸",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "岡山県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "香川県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "愛媛県瀬戸内海沿岸",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "有明・八代海",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "長崎県西方",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "熊本県天草灘沿岸",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "秋田県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "山形県",
+      "grade": "津波注意報",
+      "immediate": true
+    },
+    {
+      "name": "新潟県上中下越",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "佐渡",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "富山県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "石川県能登",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "広島県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "山口県瀬戸内海沿岸",
+      "grade": "津波注意報",
+      "immediate": false
+    }
+  ]
+}

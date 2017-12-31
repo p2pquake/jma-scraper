@@ -10,6 +10,6 @@ namespace P2PQuake.JMAInformation.Tsunami
         public string expire;
         public Issue issue;
         public bool cancelled;
-
+        public List<Area> areas;
     }
 }

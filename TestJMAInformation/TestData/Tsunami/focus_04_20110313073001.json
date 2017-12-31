@@ -1,0 +1,86 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "平成２３年　３月１３日０７時３０分",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "岩手県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "宮城県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "福島県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "北海道太平洋沿岸中部",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "青森県太平洋沿岸",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "茨城県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "千葉県九十九里・外房",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "伊豆諸島",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "北海道太平洋沿岸東部",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "北海道太平洋沿岸西部",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "小笠原諸島",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "三重県南部",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "和歌山県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "高知県",
+      "grade": "津波注意報",
+      "immediate": false
+    },
+    {
+      "name": "宮崎県",
+      "grade": "津波注意報",
+      "immediate": false
+    }
+  ]
+}
