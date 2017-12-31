@@ -21,7 +21,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug</OutputPath>
-    <DefineConstants>DEBUG;</DefineConstants>
+    <DefineConstants>DEBUG</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <ConsolePause>false</ConsolePause>
@@ -75,8 +75,10 @@
     <Compile Include="Quake\Point.cs" />
     <Compile Include="Tsunami\Area.cs" />
     <Compile Include="Tsunami\Convert\JMATsunamiConverter.cs" />
+    <Compile Include="Tsunami\Convert\Receive\UrlExtractor.cs" />
     <Compile Include="Tsunami\Core.cs" />
     <Compile Include="Tsunami\Issue.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
