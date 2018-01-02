@@ -9,7 +9,7 @@
   "areas": [
     {
       "name": "沖縄本島地方",
-      "grade": "津波警報",
+      "grade": "Warning",
       "immediate": true
     }
   ]

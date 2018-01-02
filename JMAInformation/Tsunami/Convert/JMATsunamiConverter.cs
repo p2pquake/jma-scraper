@@ -68,19 +68,19 @@ namespace P2PQuake.JMAInformation.Tsunami.Convert
                 {
                     if (Regex.IsMatch(line, "＜(津波|津波警報|津波の津波警報)＞"))
                     {
-                        level = "津波警報";
+                        level = "Warning";
                     }
                     if (Regex.IsMatch(line, "＜(大津波|大津波警報|大津波の津波警報)＞"))
                     {
-                        level = "大津波警報";
+                        level = "MajorWarning";
                     }
                     if (Regex.IsMatch(line, "＜(津波注意|津波注意報)＞"))
                     {
-                        level = "津波注意報";
+                        level = "Watch";
                     }
                     if (Regex.IsMatch(line, "＜津波予報（若干の海面変動）＞"))
                     {
-                        level = "若干の海面変動";
+                        level = "NonEffective";
                     }
 
                     continue;

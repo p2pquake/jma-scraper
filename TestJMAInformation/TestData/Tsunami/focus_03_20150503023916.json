@@ -9,12 +9,12 @@
   "areas": [
     {
       "name": "伊豆諸島",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": true
     },
     {
       "name": "小笠原諸島",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": true
     }
   ]

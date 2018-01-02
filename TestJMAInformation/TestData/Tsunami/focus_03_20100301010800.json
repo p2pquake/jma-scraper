@@ -9,152 +9,152 @@
   "areas": [
     {
       "name": "高知県",
-      "grade": "津波警報",
+      "grade": "Warning",
       "immediate": false
     },
     {
       "name": "青森県太平洋沿岸",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "岩手県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "宮城県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "北海道太平洋沿岸東部",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "北海道太平洋沿岸中部",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "北海道太平洋沿岸西部",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "福島県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "茨城県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "千葉県九十九里・外房",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "千葉県内房",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "伊豆諸島",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "小笠原諸島",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "相模湾・三浦半島",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "静岡県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "愛知県外海",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "三重県南部",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "和歌山県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "徳島県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "愛媛県宇和海沿岸",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "大分県瀬戸内海沿岸",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "大分県豊後水道沿岸",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "宮崎県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "鹿児島県東部",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "種子島・屋久島地方",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "奄美諸島・トカラ列島",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "鹿児島県西部",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "沖縄本島地方",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "宮古島・八重山地方",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "大阪府",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     }
   ]

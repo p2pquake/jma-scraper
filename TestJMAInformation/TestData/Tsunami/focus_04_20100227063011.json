@@ -9,22 +9,22 @@
   "areas": [
     {
       "name": "沖縄本島地方",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "奄美諸島・トカラ列島",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "大東島地方",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "宮古島・八重山地方",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     }
   ]

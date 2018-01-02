@@ -9,27 +9,27 @@
   "areas": [
     {
       "name": "岩手県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": true
     },
     {
       "name": "宮城県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": true
     },
     {
       "name": "福島県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "茨城県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": true
     },
     {
       "name": "千葉県九十九里・外房",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": true
     }
   ]

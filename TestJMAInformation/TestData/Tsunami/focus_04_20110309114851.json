@@ -9,22 +9,22 @@
   "areas": [
     {
       "name": "青森県太平洋沿岸",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "岩手県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "宮城県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     },
     {
       "name": "福島県",
-      "grade": "津波注意報",
+      "grade": "Watch",
       "immediate": false
     }
   ]
