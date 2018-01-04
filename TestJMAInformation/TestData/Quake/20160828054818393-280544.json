@@ -12,7 +12,7 @@
       "name": "新島・神津島近海",
       "latitude": 34.2,
       "longitude": 139.1,
-      "depth": -1,
+      "depth": 0,
       "magnitude": 3.6
     },
     "maxScale": 30,

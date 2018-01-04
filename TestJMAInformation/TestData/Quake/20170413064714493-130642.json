@@ -12,7 +12,7 @@
       "name": "トカラ列島近海",
       "latitude": 29.5,
       "longitude": 129.8,
-      "depth": -1,
+      "depth": 0,
       "magnitude": 3.5
     },
     "maxScale": 30,

@@ -201,7 +201,7 @@ namespace P2PQuake.JMAInformation.Quake.Convert
 
             string[] patterns = new string[] {
                 @"深さは?、?約?(\d+|ごく浅い|ごく浅く)(キロ|km)?",
-                @"深さは?、?約?(ごく浅い|ごく浅く)"
+                @"深さは?、?「?約?(ごく浅い|ごく浅く)",
             };
 
             foreach (string pattern in patterns)

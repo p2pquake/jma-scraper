@@ -12,7 +12,7 @@
       "name": "福島県沖",
       "latitude": 37.1,
       "longitude": 141.5,
-      "depth": -1,
+      "depth": 0,
       "magnitude": 6.1
     },
     "maxScale": 40,
