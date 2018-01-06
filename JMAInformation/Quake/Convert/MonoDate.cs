@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 namespace P2PQuake.JMAInformation.Quake.Convert
 {
-    class MonoDate
+    public class MonoDate
     {
         public static DateTime Parse(string input)
         {

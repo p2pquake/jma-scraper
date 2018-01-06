@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
+using P2PQuake.JMAInformation.Quake.Convert;
 
 namespace P2PQuake.JMAInformation.Tsunami.Convert
 {
@@ -48,7 +49,8 @@ namespace P2PQuake.JMAInformation.Tsunami.Convert
             Match issueFromMatch = Regex.Match(body, "^(.+時.{1,2}分)[ 　]+(.+)発表", RegexOptions.Multiline);
             if (issueFromMatch.Success)
             {
-                core.issue.time = issueFromMatch.Groups[1].Value;
+                // 数値半角化→空白除去→DateTime型変換
+                core.issue.time = MonoDate.Parse(NormalizeDateTime(issueFromMatch.Groups[1].Value)).ToString("yyyy/MM/dd HH:mm:ss");
                 core.issue.source = issueFromMatch.Groups[2].Value;
             }
 
@@ -126,6 +128,17 @@ namespace P2PQuake.JMAInformation.Tsunami.Convert
             }
             
             return core;
+        }
+
+        private static string NormalizeDateTime(string value)
+        {
+            var dic = new Dictionary<char, char>
+            {
+                {'０','0'}, {'１','1' }, {'２','2' }, {'３','3' }, {'４','4' },
+                {'５','5' }, {'６','6' }, {'７','7' }, {'８','8' }, {'９','9' }
+            };
+
+            return new string(value.Replace(" ", "").Replace("　", "").Select(e => (dic.ContainsKey(e) ? dic[e] : e)).ToArray());
         }
     }
 }
