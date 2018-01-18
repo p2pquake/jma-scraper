@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/07/13 5:13:00",
+    "time": "2017/07/13 05:13:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/07/13 5:10:00",
+    "time": "2017/07/13 05:10:00",
     "hypocenter": {
       "name": "鹿児島湾",
       "latitude": 31.3,

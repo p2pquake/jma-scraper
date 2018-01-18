@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/12/07 5:52:00",
+    "time": "2016/12/07 05:52:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/12/07 5:46:00",
+    "time": "2016/12/07 05:46:00",
     "hypocenter": {
       "name": "トカラ列島近海",
       "latitude": 29.3,

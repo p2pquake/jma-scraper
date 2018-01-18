@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/11/11 0:50:00",
+    "time": "2016/11/11 00:50:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/11/11 0:44:00",
+    "time": "2016/11/11 00:44:00",
     "hypocenter": {
       "name": "薩摩半島西方沖",
       "latitude": 31.6,

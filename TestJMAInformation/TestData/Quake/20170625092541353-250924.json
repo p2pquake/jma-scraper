@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2017/06/25 9:25:00",
+    "time": "2017/06/25 09:25:00",
     "type": "ScalePrompt",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/25 9:24:00",
+    "time": "2017/06/25 09:24:00",
     "hypocenter": {
       "name": "",
       "latitude": -200.0,

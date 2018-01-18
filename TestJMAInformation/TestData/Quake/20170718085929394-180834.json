@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2017/07/18 8:59:00",
+    "time": "2017/07/18 08:59:00",
     "type": "Foreign",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/07/18 8:34:00",
+    "time": "2017/07/18 08:34:00",
     "hypocenter": {
       "name": "ロシア、コマンドル諸島",
       "latitude": 54.2,

@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/08/23 8:30:00",
+    "time": "2016/08/23 08:30:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/08/23 8:26:00",
+    "time": "2016/08/23 08:26:00",
     "hypocenter": {
       "name": "与那国島近海",
       "latitude": 24.2,

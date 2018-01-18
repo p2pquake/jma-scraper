@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/11/08 8:28:00",
+    "time": "2016/11/08 08:28:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/11/08 8:24:00",
+    "time": "2016/11/08 08:24:00",
     "hypocenter": {
       "name": "父島近海",
       "latitude": 26.3,

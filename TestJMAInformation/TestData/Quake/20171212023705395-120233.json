@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/12/12 2:37:00",
+    "time": "2017/12/12 02:37:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/12/12 2:33:00",
+    "time": "2017/12/12 02:33:00",
     "hypocenter": {
       "name": "秋田県沖",
       "latitude": 40.0,

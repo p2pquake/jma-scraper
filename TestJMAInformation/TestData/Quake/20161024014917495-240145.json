@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/10/24 1:49:00",
+    "time": "2016/10/24 01:49:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/10/24 1:45:00",
+    "time": "2016/10/24 01:45:00",
     "hypocenter": {
       "name": "鳥取県中部",
       "latitude": 35.4,

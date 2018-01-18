@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/07/07 8:43:00",
+    "time": "2017/07/07 08:43:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/07/07 8:41:00",
+    "time": "2017/07/07 08:41:00",
     "hypocenter": {
       "name": "青森県下北地方",
       "latitude": 41.2,

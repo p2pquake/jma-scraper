@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/05/27 1:48:00",
+    "time": "2017/05/27 01:48:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/05/27 1:46:00",
+    "time": "2017/05/27 01:46:00",
     "hypocenter": {
       "name": "宮城県沖",
       "latitude": 38.7,

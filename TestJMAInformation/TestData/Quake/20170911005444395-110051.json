@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/09/11 0:54:00",
+    "time": "2017/09/11 00:54:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/09/11 0:51:00",
+    "time": "2017/09/11 00:51:00",
     "hypocenter": {
       "name": "東京都多摩西部",
       "latitude": 35.7,

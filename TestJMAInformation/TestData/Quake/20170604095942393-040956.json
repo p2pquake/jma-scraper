@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2017/06/04 9:59:00",
+    "time": "2017/06/04 09:59:00",
     "type": "ScaleAndDestination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/04 9:56:00",
+    "time": "2017/06/04 09:56:00",
     "hypocenter": {
       "name": "千葉県東方沖",
       "latitude": 35.4,

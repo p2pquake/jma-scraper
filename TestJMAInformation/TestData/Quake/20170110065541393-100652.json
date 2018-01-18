@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2017/01/10 6:55:00",
+    "time": "2017/01/10 06:55:00",
     "type": "ScaleAndDestination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/01/10 6:52:00",
+    "time": "2017/01/10 06:52:00",
     "hypocenter": {
       "name": "岐阜県美濃中西部",
       "latitude": 35.8,

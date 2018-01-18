@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/08/30 4:48:00",
+    "time": "2016/08/30 04:48:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/08/30 4:44:00",
+    "time": "2016/08/30 04:44:00",
     "hypocenter": {
       "name": "熊本県天草・芦北地方",
       "latitude": 32.5,

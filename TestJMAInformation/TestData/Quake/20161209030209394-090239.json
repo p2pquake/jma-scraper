@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2016/12/09 3:02:00",
+    "time": "2016/12/09 03:02:00",
     "type": "Foreign",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/12/09 2:39:00",
+    "time": "2016/12/09 02:39:00",
     "hypocenter": {
       "name": "ソロモン諸島",
       "latitude": -10.7,

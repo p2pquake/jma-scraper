@@ -2,7 +2,7 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/09/14 0:01:00",
+    "time": "2017/09/14 00:01:00",
     "type": "Destination",
     "correct": "None"
   },

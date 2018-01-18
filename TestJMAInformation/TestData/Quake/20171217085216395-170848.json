@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/12/17 8:52:00",
+    "time": "2017/12/17 08:52:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/12/17 8:48:00",
+    "time": "2017/12/17 08:48:00",
     "hypocenter": {
       "name": "山梨県東部・富士五湖",
       "latitude": 35.5,

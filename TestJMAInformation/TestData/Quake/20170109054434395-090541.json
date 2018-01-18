@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/01/09 5:44:00",
+    "time": "2017/01/09 05:44:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/01/09 5:41:00",
+    "time": "2017/01/09 05:41:00",
     "hypocenter": {
       "name": "山梨県中・西部",
       "latitude": 35.7,

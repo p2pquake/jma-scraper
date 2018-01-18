@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/10/07 9:17:00",
+    "time": "2016/10/07 09:17:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/10/07 9:14:00",
+    "time": "2016/10/07 09:14:00",
     "hypocenter": {
       "name": "浦河沖",
       "latitude": 42.0,

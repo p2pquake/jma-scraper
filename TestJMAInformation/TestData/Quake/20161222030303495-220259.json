@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/12/22 3:03:00",
+    "time": "2016/12/22 03:03:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/12/22 2:59:00",
+    "time": "2016/12/22 02:59:00",
     "hypocenter": {
       "name": "和歌山県北部",
       "latitude": 34.2,

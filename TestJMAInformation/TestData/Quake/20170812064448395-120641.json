@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/08/12 6:44:00",
+    "time": "2017/08/12 06:44:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/08/12 6:41:00",
+    "time": "2017/08/12 06:41:00",
     "hypocenter": {
       "name": "秋田県内陸北部",
       "latitude": 40.3,

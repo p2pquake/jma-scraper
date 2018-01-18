@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/10/09 3:39:00",
+    "time": "2016/10/09 03:39:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/10/09 3:36:00",
+    "time": "2016/10/09 03:36:00",
     "hypocenter": {
       "name": "釧路地方中南部",
       "latitude": 42.9,

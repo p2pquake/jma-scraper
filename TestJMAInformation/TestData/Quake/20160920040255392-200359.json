@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/09/20 4:02:00",
+    "time": "2016/09/20 04:02:00",
     "type": "Destination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/09/20 3:59:00",
+    "time": "2016/09/20 03:59:00",
     "hypocenter": {
       "name": "内浦湾",
       "latitude": 41.9,

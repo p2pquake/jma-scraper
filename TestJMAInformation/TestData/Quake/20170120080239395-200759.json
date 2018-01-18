@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/01/20 8:02:00",
+    "time": "2017/01/20 08:02:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/01/20 7:59:00",
+    "time": "2017/01/20 07:59:00",
     "hypocenter": {
       "name": "岩手県沿岸北部",
       "latitude": 39.6,

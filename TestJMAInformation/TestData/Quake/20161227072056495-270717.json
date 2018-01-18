@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/12/27 7:20:00",
+    "time": "2016/12/27 07:20:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/12/27 7:17:00",
+    "time": "2016/12/27 07:17:00",
     "hypocenter": {
       "name": "岡山県北部",
       "latitude": 35.3,

@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/10/02 4:43:00",
+    "time": "2017/10/02 04:43:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/10/02 4:40:00",
+    "time": "2017/10/02 04:40:00",
     "hypocenter": {
       "name": "根室地方中部",
       "latitude": 43.4,

@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/07/31 6:08:00",
+    "time": "2017/07/31 06:08:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/07/31 6:01:00",
+    "time": "2017/07/31 06:01:00",
     "hypocenter": {
       "name": "千島列島",
       "latitude": 45.5,

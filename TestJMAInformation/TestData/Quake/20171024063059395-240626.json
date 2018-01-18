@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/10/24 6:30:00",
+    "time": "2017/10/24 06:30:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/10/24 6:26:00",
+    "time": "2017/10/24 06:26:00",
     "hypocenter": {
       "name": "北海道東方沖",
       "latitude": 43.8,

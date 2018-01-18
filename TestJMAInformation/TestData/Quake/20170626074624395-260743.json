@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/06/26 7:46:00",
+    "time": "2017/06/26 07:46:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/26 7:43:00",
+    "time": "2017/06/26 07:43:00",
     "hypocenter": {
       "name": "伊豆大島近海",
       "latitude": 34.7,

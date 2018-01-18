@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/07/02 1:01:00",
+    "time": "2017/07/02 01:01:00",
     "type": "Destination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/07/02 0:58:00",
+    "time": "2017/07/02 00:58:00",
     "hypocenter": {
       "name": "熊本県阿蘇地方",
       "latitude": 33.0,

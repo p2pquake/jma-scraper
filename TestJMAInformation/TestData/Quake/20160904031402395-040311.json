@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/09/04 3:14:00",
+    "time": "2016/09/04 03:14:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/09/04 3:11:00",
+    "time": "2016/09/04 03:11:00",
     "hypocenter": {
       "name": "青森県東方沖",
       "latitude": 40.9,

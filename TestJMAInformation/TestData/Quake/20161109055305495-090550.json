@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/11/09 5:53:00",
+    "time": "2016/11/09 05:53:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/11/09 5:50:00",
+    "time": "2016/11/09 05:50:00",
     "hypocenter": {
       "name": "福岡県北九州地方",
       "latitude": 33.7,

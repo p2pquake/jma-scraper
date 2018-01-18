@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/12/03 5:41:00",
+    "time": "2017/12/03 05:41:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/12/03 5:38:00",
+    "time": "2017/12/03 05:38:00",
     "hypocenter": {
       "name": "兵庫県南東部",
       "latitude": 34.9,

@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2016/12/24 8:15:00",
+    "time": "2016/12/24 08:15:00",
     "type": "ScaleAndDestination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/12/24 8:10:00",
+    "time": "2016/12/24 08:10:00",
     "hypocenter": {
       "name": "トカラ列島近海",
       "latitude": 29.2,

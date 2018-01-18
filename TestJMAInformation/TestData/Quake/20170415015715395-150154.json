@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/04/15 1:57:00",
+    "time": "2017/04/15 01:57:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/04/15 1:54:00",
+    "time": "2017/04/15 01:54:00",
     "hypocenter": {
       "name": "新潟県中越地方",
       "latitude": 36.8,

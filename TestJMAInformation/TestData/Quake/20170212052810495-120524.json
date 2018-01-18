@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/02/12 5:28:00",
+    "time": "2017/02/12 05:28:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/02/12 5:24:00",
+    "time": "2017/02/12 05:24:00",
     "hypocenter": {
       "name": "大阪府北部",
       "latitude": 34.9,

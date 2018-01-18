@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/08/13 2:11:00",
+    "time": "2017/08/13 02:11:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/08/13 2:07:00",
+    "time": "2017/08/13 02:07:00",
     "hypocenter": {
       "name": "埼玉県南部",
       "latitude": 35.9,

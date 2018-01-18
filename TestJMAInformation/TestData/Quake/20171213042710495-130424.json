@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/12/13 4:27:00",
+    "time": "2017/12/13 04:27:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/12/13 4:24:00",
+    "time": "2017/12/13 04:24:00",
     "hypocenter": {
       "name": "奈良県",
       "latitude": 34.4,

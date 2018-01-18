@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/09/29 1:38:00",
+    "time": "2016/09/29 01:38:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/09/29 1:33:00",
+    "time": "2016/09/29 01:33:00",
     "hypocenter": {
       "name": "択捉島南東沖",
       "latitude": 43.9,

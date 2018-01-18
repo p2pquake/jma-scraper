@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/09/20 8:36:00",
+    "time": "2017/09/20 08:36:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/09/20 8:33:00",
+    "time": "2017/09/20 08:33:00",
     "hypocenter": {
       "name": "青森県三八上北地方",
       "latitude": 40.7,

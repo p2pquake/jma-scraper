@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/12/10 7:57:00",
+    "time": "2017/12/10 07:57:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/12/10 7:54:00",
+    "time": "2017/12/10 07:54:00",
     "hypocenter": {
       "name": "日向灘",
       "latitude": 31.8,

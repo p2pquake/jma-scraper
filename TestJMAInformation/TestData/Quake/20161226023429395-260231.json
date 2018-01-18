@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/12/26 2:34:00",
+    "time": "2016/12/26 02:34:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/12/26 2:31:00",
+    "time": "2016/12/26 02:31:00",
     "hypocenter": {
       "name": "栃木県北部",
       "latitude": 36.9,

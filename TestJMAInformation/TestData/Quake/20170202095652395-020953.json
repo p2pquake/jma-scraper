@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/02/02 9:56:00",
+    "time": "2017/02/02 09:56:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/02/02 9:53:00",
+    "time": "2017/02/02 09:53:00",
     "hypocenter": {
       "name": "新島・神津島近海",
       "latitude": 34.2,

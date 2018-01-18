@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/07/20 7:12:00",
+    "time": "2017/07/20 07:12:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/07/20 7:09:00",
+    "time": "2017/07/20 07:09:00",
     "hypocenter": {
       "name": "富山湾",
       "latitude": 36.9,

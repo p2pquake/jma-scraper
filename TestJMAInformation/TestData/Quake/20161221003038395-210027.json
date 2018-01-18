@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/12/21 0:30:00",
+    "time": "2016/12/21 00:30:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/12/21 0:27:00",
+    "time": "2016/12/21 00:27:00",
     "hypocenter": {
       "name": "岩手県沖",
       "latitude": 39.6,

@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/06/09 7:04:00",
+    "time": "2017/06/09 07:04:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/09 7:01:00",
+    "time": "2017/06/09 07:01:00",
     "hypocenter": {
       "name": "根室半島南東沖",
       "latitude": 42.6,

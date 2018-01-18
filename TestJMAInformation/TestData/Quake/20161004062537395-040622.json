@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/10/04 6:25:00",
+    "time": "2016/10/04 06:25:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/10/04 6:22:00",
+    "time": "2016/10/04 06:22:00",
     "hypocenter": {
       "name": "釧路沖",
       "latitude": 42.9,

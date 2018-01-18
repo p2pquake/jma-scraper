@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/07/07 7:32:00",
+    "time": "2017/07/07 07:32:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/07/07 7:29:00",
+    "time": "2017/07/07 07:29:00",
     "hypocenter": {
       "name": "西表島付近",
       "latitude": 24.3,

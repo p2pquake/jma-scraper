@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2017/06/19 5:55:00",
+    "time": "2017/06/19 05:55:00",
     "type": "ScaleAndDestination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/19 5:51:00",
+    "time": "2017/06/19 05:51:00",
     "hypocenter": {
       "name": "福島県中通り",
       "latitude": 37.1,

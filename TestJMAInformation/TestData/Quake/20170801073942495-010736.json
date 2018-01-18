@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/08/01 7:39:00",
+    "time": "2017/08/01 07:39:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/08/01 7:36:00",
+    "time": "2017/08/01 07:36:00",
     "hypocenter": {
       "name": "種子島南東沖",
       "latitude": 30.0,

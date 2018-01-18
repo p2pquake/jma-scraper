@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/11/23 2:56:00",
+    "time": "2016/11/23 02:56:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/11/23 2:53:00",
+    "time": "2016/11/23 02:53:00",
     "hypocenter": {
       "name": "宮古島近海",
       "latitude": 25.4,

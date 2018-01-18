@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2017/04/13 2:18:00",
+    "time": "2017/04/13 02:18:00",
     "type": "ScaleAndDestination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/04/13 2:15:00",
+    "time": "2017/04/13 02:15:00",
     "hypocenter": {
       "name": "和歌山県南部",
       "latitude": 33.8,

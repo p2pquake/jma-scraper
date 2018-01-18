@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/07/02 2:55:00",
+    "time": "2017/07/02 02:55:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/07/02 2:52:00",
+    "time": "2017/07/02 02:52:00",
     "hypocenter": {
       "name": "有明海",
       "latitude": 32.8,

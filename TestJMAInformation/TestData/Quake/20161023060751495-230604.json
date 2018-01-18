@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/10/23 6:07:00",
+    "time": "2016/10/23 06:07:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/10/23 6:04:00",
+    "time": "2016/10/23 06:04:00",
     "hypocenter": {
       "name": "島根県東部",
       "latitude": 35.1,

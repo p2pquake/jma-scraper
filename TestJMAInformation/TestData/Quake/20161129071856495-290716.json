@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/11/29 7:18:00",
+    "time": "2016/11/29 07:18:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/11/29 7:16:00",
+    "time": "2016/11/29 07:16:00",
     "hypocenter": {
       "name": "宮崎県南部山沿い",
       "latitude": 32.0,

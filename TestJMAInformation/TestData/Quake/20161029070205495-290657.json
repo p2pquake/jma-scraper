@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/10/29 7:02:00",
+    "time": "2016/10/29 07:02:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/10/29 6:57:00",
+    "time": "2016/10/29 06:57:00",
     "hypocenter": {
       "name": "宮古島北西沖",
       "latitude": 25.7,

@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2017/09/20 3:40:00",
+    "time": "2017/09/20 03:40:00",
     "type": "Foreign",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/09/20 3:14:00",
+    "time": "2017/09/20 03:14:00",
     "hypocenter": {
       "name": "メキシコ中部",
       "latitude": 18.6,

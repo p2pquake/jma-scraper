@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/06/12 6:29:00",
+    "time": "2017/06/12 06:29:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/12 6:26:00",
+    "time": "2017/06/12 06:26:00",
     "hypocenter": {
       "name": "福島県沖",
       "latitude": 37.1,

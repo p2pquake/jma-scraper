@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/10/02 4:23:00",
+    "time": "2017/10/02 04:23:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/10/02 4:20:00",
+    "time": "2017/10/02 04:20:00",
     "hypocenter": {
       "name": "種子島近海",
       "latitude": 30.4,

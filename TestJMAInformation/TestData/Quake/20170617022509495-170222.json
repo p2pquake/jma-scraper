@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/06/17 2:25:00",
+    "time": "2017/06/17 02:25:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/17 2:22:00",
+    "time": "2017/06/17 02:22:00",
     "hypocenter": {
       "name": "京都府南部",
       "latitude": 35.2,

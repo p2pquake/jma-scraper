@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/09/12 2:41:00",
+    "time": "2017/09/12 02:41:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/09/12 2:35:00",
+    "time": "2017/09/12 02:35:00",
     "hypocenter": {
       "name": "硫黄島近海",
       "latitude": 24.1,

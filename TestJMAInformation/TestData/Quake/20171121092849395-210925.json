@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/11/21 9:28:00",
+    "time": "2017/11/21 09:28:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/11/21 9:25:00",
+    "time": "2017/11/21 09:25:00",
     "hypocenter": {
       "name": "茨城県沖",
       "latitude": 36.5,

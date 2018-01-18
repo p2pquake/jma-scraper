@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/06/27 3:53:00",
+    "time": "2017/06/27 03:53:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/27 3:50:00",
+    "time": "2017/06/27 03:50:00",
     "hypocenter": {
       "name": "長野県南部",
       "latitude": 35.9,

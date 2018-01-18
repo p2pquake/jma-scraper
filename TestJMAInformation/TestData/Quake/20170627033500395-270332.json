@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/06/27 3:35:00",
+    "time": "2017/06/27 03:35:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/27 3:32:00",
+    "time": "2017/06/27 03:32:00",
     "hypocenter": {
       "name": "千葉県北西部",
       "latitude": 35.6,

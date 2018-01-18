@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/01/03 3:40:00",
+    "time": "2017/01/03 03:40:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/01/03 3:36:00",
+    "time": "2017/01/03 03:36:00",
     "hypocenter": {
       "name": "三重県南東沖",
       "latitude": 34.0,

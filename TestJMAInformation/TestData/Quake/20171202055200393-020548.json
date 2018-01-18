@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2017/12/02 5:52:00",
+    "time": "2017/12/02 05:52:00",
     "type": "ScaleAndDestination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/12/02 5:48:00",
+    "time": "2017/12/02 05:48:00",
     "hypocenter": {
       "name": "浦河沖",
       "latitude": 42.1,

@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/10/26 7:58:00",
+    "time": "2017/10/26 07:58:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/10/26 7:54:00",
+    "time": "2017/10/26 07:54:00",
     "hypocenter": {
       "name": "上川地方北部",
       "latitude": 44.0,
