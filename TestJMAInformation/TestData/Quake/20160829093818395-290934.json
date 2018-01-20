@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/08/29 9:38:00",
+    "time": "2016/08/29 09:38:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/08/29 9:34:00",
+    "time": "2016/08/29 09:34:00",
     "hypocenter": {
       "name": "十勝地方南部",
       "latitude": 42.3,

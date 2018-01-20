@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/11/15 1:49:00",
+    "time": "2016/11/15 01:49:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/11/15 1:46:00",
+    "time": "2016/11/15 01:46:00",
     "hypocenter": {
       "name": "石川県能登地方",
       "latitude": 37.3,

@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/04/10 3:32:00",
+    "time": "2017/04/10 03:32:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/04/10 3:29:00",
+    "time": "2017/04/10 03:29:00",
     "hypocenter": {
       "name": "愛媛県南予",
       "latitude": 33.5,

@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/12/25 2:54:00",
+    "time": "2016/12/25 02:54:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/12/25 2:50:00",
+    "time": "2016/12/25 02:50:00",
     "hypocenter": {
       "name": "沖縄本島近海",
       "latitude": 26.7,

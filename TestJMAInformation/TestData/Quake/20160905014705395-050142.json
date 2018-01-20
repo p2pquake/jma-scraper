@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/09/05 1:47:00",
+    "time": "2016/09/05 01:47:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/09/05 1:42:00",
+    "time": "2016/09/05 01:42:00",
     "hypocenter": {
       "name": "千葉県北東部",
       "latitude": 35.9,

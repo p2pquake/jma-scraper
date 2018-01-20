@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/02/08 3:23:00",
+    "time": "2017/02/08 03:23:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/02/08 3:19:00",
+    "time": "2017/02/08 03:19:00",
     "hypocenter": {
       "name": "四国沖",
       "latitude": 33.4,

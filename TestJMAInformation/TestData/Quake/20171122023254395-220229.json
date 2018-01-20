@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/11/22 2:32:00",
+    "time": "2017/11/22 02:32:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/11/22 2:29:00",
+    "time": "2017/11/22 02:29:00",
     "hypocenter": {
       "name": "釧路地方中南部",
       "latitude": 43.5,

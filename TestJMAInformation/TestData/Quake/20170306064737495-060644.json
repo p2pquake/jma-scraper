@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/03/06 6:47:00",
+    "time": "2017/03/06 06:47:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/03/06 6:44:00",
+    "time": "2017/03/06 06:44:00",
     "hypocenter": {
       "name": "大分県中部",
       "latitude": 33.3,

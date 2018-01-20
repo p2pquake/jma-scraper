@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/12/26 9:52:00",
+    "time": "2016/12/26 09:52:00",
     "type": "Destination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/12/26 9:49:00",
+    "time": "2016/12/26 09:49:00",
     "hypocenter": {
       "name": "高知県中部",
       "latitude": 33.7,

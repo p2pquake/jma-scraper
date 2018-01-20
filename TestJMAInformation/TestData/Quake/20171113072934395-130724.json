@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/11/13 7:29:00",
+    "time": "2017/11/13 07:29:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/11/13 7:24:00",
+    "time": "2017/11/13 07:24:00",
     "hypocenter": {
       "name": "三陸沖",
       "latitude": 38.0,

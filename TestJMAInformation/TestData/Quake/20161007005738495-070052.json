@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/10/07 0:57:00",
+    "time": "2016/10/07 00:57:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/10/07 0:52:00",
+    "time": "2016/10/07 00:52:00",
     "hypocenter": {
       "name": "台湾付近",
       "latitude": 22.7,

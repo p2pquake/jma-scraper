@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/08/15 1:02:00",
+    "time": "2017/08/15 01:02:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/08/15 0:59:00",
+    "time": "2017/08/15 00:59:00",
     "hypocenter": {
       "name": "網走地方",
       "latitude": 44.0,

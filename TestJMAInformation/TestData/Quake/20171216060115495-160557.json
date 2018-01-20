@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/12/16 6:01:00",
+    "time": "2017/12/16 06:01:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/12/16 5:57:00",
+    "time": "2017/12/16 05:57:00",
     "hypocenter": {
       "name": "大阪湾",
       "latitude": 34.4,

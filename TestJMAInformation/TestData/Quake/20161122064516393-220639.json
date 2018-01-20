@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2016/11/22 6:45:00",
+    "time": "2016/11/22 06:45:00",
     "type": "ScaleAndDestination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/11/22 6:39:00",
+    "time": "2016/11/22 06:39:00",
     "hypocenter": {
       "name": "福島県浜通り",
       "latitude": 37.3,

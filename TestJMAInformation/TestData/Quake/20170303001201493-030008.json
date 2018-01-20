@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2017/03/03 0:12:00",
+    "time": "2017/03/03 00:12:00",
     "type": "ScaleAndDestination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/03/03 0:08:00",
+    "time": "2017/03/03 00:08:00",
     "hypocenter": {
       "name": "日向灘",
       "latitude": 32.6,

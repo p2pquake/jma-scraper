@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/11/23 3:48:00",
+    "time": "2016/11/23 03:48:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/11/23 3:45:00",
+    "time": "2016/11/23 03:45:00",
     "hypocenter": {
       "name": "房総半島南方沖",
       "latitude": 34.5,

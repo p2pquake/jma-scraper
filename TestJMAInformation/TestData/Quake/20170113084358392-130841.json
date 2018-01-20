@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/01/13 8:43:00",
+    "time": "2017/01/13 08:43:00",
     "type": "Destination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/01/13 8:41:00",
+    "time": "2017/01/13 08:41:00",
     "hypocenter": {
       "name": "福島県会津",
       "latitude": 37.4,

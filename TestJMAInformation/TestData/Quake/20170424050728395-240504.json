@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/04/24 5:07:00",
+    "time": "2017/04/24 05:07:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/04/24 5:04:00",
+    "time": "2017/04/24 05:04:00",
     "hypocenter": {
       "name": "三河湾",
       "latitude": 34.7,

@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/09/30 5:36:00",
+    "time": "2017/09/30 05:36:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/09/30 5:32:00",
+    "time": "2017/09/30 05:32:00",
     "hypocenter": {
       "name": "岐阜県飛騨地方",
       "latitude": 36.2,

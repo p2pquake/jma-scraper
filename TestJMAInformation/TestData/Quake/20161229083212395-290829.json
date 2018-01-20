@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/12/29 8:32:00",
+    "time": "2016/12/29 08:32:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/12/29 8:29:00",
+    "time": "2016/12/29 08:29:00",
     "hypocenter": {
       "name": "茨城県北部",
       "latitude": 36.7,

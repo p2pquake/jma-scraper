@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/11/12 7:30:00",
+    "time": "2016/11/12 07:30:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/11/12 7:25:00",
+    "time": "2016/11/12 07:25:00",
     "hypocenter": {
       "name": "与那国島近海",
       "latitude": 24.0,

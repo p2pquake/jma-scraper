@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/06/01 7:38:00",
+    "time": "2017/06/01 07:38:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/01 7:36:00",
+    "time": "2017/06/01 07:36:00",
     "hypocenter": {
       "name": "伊予灘",
       "latitude": 33.6,

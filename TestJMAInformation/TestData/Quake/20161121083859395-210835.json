@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/11/21 8:38:00",
+    "time": "2016/11/21 08:38:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/11/21 8:35:00",
+    "time": "2016/11/21 08:35:00",
     "hypocenter": {
       "name": "三重県中部",
       "latitude": 34.8,

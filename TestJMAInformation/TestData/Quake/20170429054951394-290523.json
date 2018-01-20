@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2017/04/29 5:49:00",
+    "time": "2017/04/29 05:49:00",
     "type": "Foreign",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/04/29 5:23:00",
+    "time": "2017/04/29 05:23:00",
     "hypocenter": {
       "name": "フィリピン諸島、ミンダナオ",
       "latitude": 5.5,

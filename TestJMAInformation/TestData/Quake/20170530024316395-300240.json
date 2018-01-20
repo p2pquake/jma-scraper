@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/05/30 2:43:00",
+    "time": "2017/05/30 02:43:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/05/30 2:40:00",
+    "time": "2017/05/30 02:40:00",
     "hypocenter": {
       "name": "苫小牧沖",
       "latitude": 41.6,

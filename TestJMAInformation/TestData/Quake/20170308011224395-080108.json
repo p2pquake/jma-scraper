@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/03/08 1:12:00",
+    "time": "2017/03/08 01:12:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/03/08 1:08:00",
+    "time": "2017/03/08 01:08:00",
     "hypocenter": {
       "name": "青森県東方沖",
       "latitude": 41.5,

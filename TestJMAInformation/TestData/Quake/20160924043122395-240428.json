@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/09/24 4:31:00",
+    "time": "2016/09/24 04:31:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/09/24 4:28:00",
+    "time": "2016/09/24 04:28:00",
     "hypocenter": {
       "name": "静岡県中部",
       "latitude": 35.2,

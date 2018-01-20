@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/10/12 4:06:00",
+    "time": "2016/10/12 04:06:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/10/12 4:02:00",
+    "time": "2016/10/12 04:02:00",
     "hypocenter": {
       "name": "十勝地方南部",
       "latitude": 42.3,

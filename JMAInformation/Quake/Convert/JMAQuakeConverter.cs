@@ -24,14 +24,14 @@ namespace P2PQuake.JMAInformation.Quake.Convert
             // .issue
             Issue issue   = new Issue();
             issue.source  = jmaQuake.issueOf;
-            issue.time    = jmaQuake.issueTime.ToString();
+            issue.time    = jmaQuake.issueTime.ToString("yyyy/MM/dd HH:mm:ss");
             // TODO: 要確認（toStringでいけるか？）
             issue.type    = jmaQuake.issueType.ToString();
             issue.correct = jmaQuake.correctType.ToString();
             core.issue    = issue;
             // .earthquake
             Earthquake earthquake = new Earthquake();
-            earthquake.time       = jmaQuake.occuredTime.ToString();
+            earthquake.time       = jmaQuake.occuredTime.ToString("yyyy/MM/dd HH:mm:ss");
             {
                 Hypocenter hypocenter = new Hypocenter();
                 hypocenter.name       = jmaQuake.occuredPlace;

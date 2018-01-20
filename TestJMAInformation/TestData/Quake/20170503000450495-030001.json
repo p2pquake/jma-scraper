@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/05/03 0:04:00",
+    "time": "2017/05/03 00:04:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/05/03 0:01:00",
+    "time": "2017/05/03 00:01:00",
     "hypocenter": {
       "name": "高知県東部",
       "latitude": 33.5,

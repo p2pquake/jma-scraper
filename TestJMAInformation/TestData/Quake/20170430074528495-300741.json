@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/04/30 7:45:00",
+    "time": "2017/04/30 07:45:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/04/30 7:41:00",
+    "time": "2017/04/30 07:41:00",
     "hypocenter": {
       "name": "石垣島近海",
       "latitude": 24.4,

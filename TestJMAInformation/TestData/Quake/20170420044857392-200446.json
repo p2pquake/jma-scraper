@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/04/20 4:48:00",
+    "time": "2017/04/20 04:48:00",
     "type": "Destination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/04/20 4:46:00",
+    "time": "2017/04/20 04:46:00",
     "hypocenter": {
       "name": "茨城県北部",
       "latitude": 36.7,

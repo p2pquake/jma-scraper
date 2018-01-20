@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/01/14 9:02:00",
+    "time": "2017/01/14 09:02:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/01/14 8:59:00",
+    "time": "2017/01/14 08:59:00",
     "hypocenter": {
       "name": "渡島地方西部",
       "latitude": 41.6,

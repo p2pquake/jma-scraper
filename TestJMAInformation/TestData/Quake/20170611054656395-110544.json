@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/06/11 5:46:00",
+    "time": "2017/06/11 05:46:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/11 5:44:00",
+    "time": "2017/06/11 05:44:00",
     "hypocenter": {
       "name": "福井県嶺北",
       "latitude": 36.1,

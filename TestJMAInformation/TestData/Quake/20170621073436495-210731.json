@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/06/21 7:34:00",
+    "time": "2017/06/21 07:34:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/21 7:31:00",
+    "time": "2017/06/21 07:31:00",
     "hypocenter": {
       "name": "豊後水道",
       "latitude": 32.9,

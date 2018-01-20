@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/09/18 9:38:00",
+    "time": "2016/09/18 09:38:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/09/18 9:35:00",
+    "time": "2016/09/18 09:35:00",
     "hypocenter": {
       "name": "紀伊水道",
       "latitude": 34.0,

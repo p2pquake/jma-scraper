@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/08/07 9:27:00",
+    "time": "2017/08/07 09:27:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/08/07 9:24:00",
+    "time": "2017/08/07 09:24:00",
     "hypocenter": {
       "name": "鹿児島県薩摩地方",
       "latitude": 31.2,

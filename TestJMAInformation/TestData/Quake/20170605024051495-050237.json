@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/06/05 2:40:00",
+    "time": "2017/06/05 02:40:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/05 2:37:00",
+    "time": "2017/06/05 02:37:00",
     "hypocenter": {
       "name": "滋賀県南部",
       "latitude": 34.9,

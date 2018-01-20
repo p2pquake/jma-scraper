@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2016/12/25 5:20:00",
+    "time": "2016/12/25 05:20:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/12/25 5:17:00",
+    "time": "2016/12/25 05:17:00",
     "hypocenter": {
       "name": "奄美大島近海",
       "latitude": 28.4,

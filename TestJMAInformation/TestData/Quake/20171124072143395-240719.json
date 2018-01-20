@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/11/24 7:21:00",
+    "time": "2017/11/24 07:21:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/11/24 7:19:00",
+    "time": "2017/11/24 07:19:00",
     "hypocenter": {
       "name": "胆振地方中東部",
       "latitude": 42.8,

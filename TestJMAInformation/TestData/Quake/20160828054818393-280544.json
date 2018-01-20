@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2016/08/28 5:48:00",
+    "time": "2016/08/28 05:48:00",
     "type": "ScaleAndDestination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2016/08/28 5:44:00",
+    "time": "2016/08/28 05:44:00",
     "hypocenter": {
       "name": "新島・神津島近海",
       "latitude": 34.2,

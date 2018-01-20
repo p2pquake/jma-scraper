@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/10/30 6:32:00",
+    "time": "2017/10/30 06:32:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/10/30 6:30:00",
+    "time": "2017/10/30 06:30:00",
     "hypocenter": {
       "name": "福島県浜通り",
       "latitude": 37.4,

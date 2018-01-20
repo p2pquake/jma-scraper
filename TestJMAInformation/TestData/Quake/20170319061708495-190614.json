@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/03/19 6:17:00",
+    "time": "2017/03/19 06:17:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/03/19 6:14:00",
+    "time": "2017/03/19 06:14:00",
     "hypocenter": {
       "name": "福岡県福岡地方",
       "latitude": 33.5,

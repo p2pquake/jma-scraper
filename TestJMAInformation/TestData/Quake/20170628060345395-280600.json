@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/06/28 6:03:00",
+    "time": "2017/06/28 06:03:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/06/28 6:00:00",
+    "time": "2017/06/28 06:00:00",
     "hypocenter": {
       "name": "神奈川県東部",
       "latitude": 35.6,

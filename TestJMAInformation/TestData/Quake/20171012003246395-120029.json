@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/10/12 0:32:00",
+    "time": "2017/10/12 00:32:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/10/12 0:29:00",
+    "time": "2017/10/12 00:29:00",
     "hypocenter": {
       "name": "国後島付近",
       "latitude": 43.7,

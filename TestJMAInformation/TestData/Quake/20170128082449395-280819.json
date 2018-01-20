@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/01/28 8:24:00",
+    "time": "2017/01/28 08:24:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/01/28 8:19:00",
+    "time": "2017/01/28 08:19:00",
     "hypocenter": {
       "name": "留萌地方南部",
       "latitude": 44.0,

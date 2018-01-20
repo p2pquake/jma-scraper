@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "",
-    "time": "2017/08/06 3:10:00",
+    "time": "2017/08/06 03:10:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2017/08/06 3:07:00",
+    "time": "2017/08/06 03:07:00",
     "hypocenter": {
       "name": "熊本県熊本地方",
       "latitude": 32.5,
