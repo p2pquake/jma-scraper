@@ -252,3 +252,6 @@ paket-files/
 .idea/
 *.sln.iml
 
+# Mongoid
+mongoid.yml
+
