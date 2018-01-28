@@ -12,12 +12,12 @@ namespace P2PQuake.JMAInformation.Quake.Convert.Receive
     {
         // 気象庁 地震情報の一覧ページURL
         private string[] urls = {
-            "http://www.jma.go.jp/jp/quake/quake_sindo_index.html",     // 震度速報
-            "http://www.jma.go.jp/jp/quake/quake_singen_index.html",    // 震源
-            "http://www.jma.go.jp/jp/quake/quake_singendo_index.html",  // 震度・震源
-            "http://www.jma.go.jp/jp/quake/quake_local_index.html",     // 各地の震度
-            "http://www.jma.go.jp/jp/quake/quake_foreign_index.html",   // 遠地地震
             "http://www.jma.go.jp/jp/quake/quake_sonota_index.html",    // その他
+            "http://www.jma.go.jp/jp/quake/quake_foreign_index.html",   // 遠地地震
+            "http://www.jma.go.jp/jp/quake/quake_local_index.html",     // 各地の震度
+            "http://www.jma.go.jp/jp/quake/quake_singendo_index.html",  // 震度・震源
+            "http://www.jma.go.jp/jp/quake/quake_singen_index.html",    // 震源
+            "http://www.jma.go.jp/jp/quake/quake_sindo_index.html",     // 震度速報
         };
             
         public UrlExtractor ()
@@ -38,7 +38,8 @@ namespace P2PQuake.JMAInformation.Quake.Convert.Receive
                 //System.Threading.Thread.Sleep (10000);
                 list.AddRange(ExtractUrls(url)); 
             }
-            
+
+            list.Sort();
             return list;
         }
         
