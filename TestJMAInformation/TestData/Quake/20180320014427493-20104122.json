@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/20 10:44:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/20 10:41:00",
+    "hypocenter": {
+      "name": "西表島付近",
+      "latitude": 24.2,
+      "longitude": 123.8,
+      "depth": 20,
+      "magnitude": 3.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

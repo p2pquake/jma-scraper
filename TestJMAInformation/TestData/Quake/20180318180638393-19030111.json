@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/19 03:06:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/19 03:01:00",
+    "hypocenter": {
+      "name": "択捉島南東沖",
+      "latitude": 44.9,
+      "longitude": 149.7,
+      "depth": 160,
+      "magnitude": 4.9
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/02/26 03:11:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/02/26 02:45:00",
+    "hypocenter": {
+      "name": "パプアニューギニア、ニューギニア",
+      "latitude": -6.2,
+      "longitude": 142.8,
+      "depth": -1,
+      "magnitude": 7.6
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "None"
+  },
+  "points": []
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/20 17:08:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/20 17:04:00",
+    "hypocenter": {
+      "name": "トカラ列島近海",
+      "latitude": 29.3,
+      "longitude": 129.3,
+      "depth": 0,
+      "magnitude": 1.9
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/20 08:37:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/20 08:34:00",
+    "hypocenter": {
+      "name": "兵庫県北部",
+      "latitude": 35.6,
+      "longitude": 134.6,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

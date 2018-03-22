@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/16 04:25:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/16 04:23:00",
+    "hypocenter": {
+      "name": "山梨県中・西部",
+      "latitude": 35.3,
+      "longitude": 138.5,
+      "depth": 20,
+      "magnitude": 2.6
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

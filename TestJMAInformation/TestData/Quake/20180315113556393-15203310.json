@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/15 20:35:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/15 20:33:00",
+    "hypocenter": {
+      "name": "北海道南西沖",
+      "latitude": 42.2,
+      "longitude": 139.5,
+      "depth": 10,
+      "magnitude": 3.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

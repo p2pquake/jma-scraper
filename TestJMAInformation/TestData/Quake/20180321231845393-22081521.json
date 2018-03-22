@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/22 08:18:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/22 08:15:00",
+    "hypocenter": {
+      "name": "苫小牧沖",
+      "latitude": 42.3,
+      "longitude": 141.5,
+      "depth": 100,
+      "magnitude": 4.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

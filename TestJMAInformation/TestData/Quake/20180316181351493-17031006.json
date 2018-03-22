@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/17 03:13:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/17 03:10:00",
+    "hypocenter": {
+      "name": "奄美大島近海",
+      "latitude": 28.4,
+      "longitude": 129.5,
+      "depth": 30,
+      "magnitude": 3.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

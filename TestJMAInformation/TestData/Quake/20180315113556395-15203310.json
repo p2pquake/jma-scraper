@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/15 20:35:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/15 20:33:00",
+    "hypocenter": {
+      "name": "北海道南西沖",
+      "latitude": 42.2,
+      "longitude": 139.5,
+      "depth": 10,
+      "magnitude": 3.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "奥尻町奥尻",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

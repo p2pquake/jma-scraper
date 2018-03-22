@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/20 08:08:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/20 08:05:00",
+    "hypocenter": {
+      "name": "静岡県西部",
+      "latitude": 34.7,
+      "longitude": 138.0,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}
