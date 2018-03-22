@@ -15,7 +15,7 @@
       "depth": 0,
       "magnitude": 1.9
     },
-    "maxScale": -1,
+    "maxScale": 10,
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
