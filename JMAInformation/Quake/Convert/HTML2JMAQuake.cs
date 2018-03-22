@@ -239,7 +239,7 @@ namespace P2PQuake.JMAInformation.Quake.Convert
             string html = getHtml(true, true, true, true, true);
             int occuredScale = -1;
 
-            MatchCollection matches = Regex.Matches(html, @"震度([1-47]|[5-6]([弱強]))(?!以上)"); // (\d)(弱|強)?(?!以上)");
+            MatchCollection matches = Regex.Matches(html, @"震度は?([1-47]|[5-6]([弱強]))(?!以上)"); // (\d)(弱|強)?(?!以上)");
             foreach (Match match in matches)
             {
                 // SCALE CONVERT
