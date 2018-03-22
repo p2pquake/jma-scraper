@@ -46,6 +46,8 @@ namespace P2PQuake.JMAInformation.Quake.Convert
             strArray = pre2StrArray(html);
             if (strArray == null)
                 strArray = table2StrArray(html);
+            if (strArray == null)
+                strArray = tablePre2StrArray(html);
 
             return strArray;
         }
@@ -91,6 +93,39 @@ namespace P2PQuake.JMAInformation.Quake.Convert
                 body = Regex.Replace(body, @"<tr.*?>[\¥r\¥n 　	]*<td.*?>[\¥r\¥n 　	]*", " *");
                 body = Regex.Replace(body, "<.+?>", " ");
                 body = Regex.Replace(body, @"[¥\r¥\n 　	]+", " ", RegexOptions.Multiline);
+                body = Regex.Replace(body, "^ ", "");
+
+                strArray = body.Split(' ');
+            }
+
+            return strArray;
+        }
+
+        private string[] tablePre2StrArray(string html)
+        {
+            string[] strArray = null;
+
+            Match match = Regex.Match(html, @"<table.*?>(.+?震度[１２３４５６７].+?)</table>", RegexOptions.Singleline | RegexOptions.IgnoreCase);
+            if (match.Success)
+            {
+                // 削っていく
+                string body = match.Groups[1].Value;
+
+                while (true)
+                {
+                    Match shortMatch = Regex.Match(body, @"<table.*?>(.*震度[１２３４５６７].*)", RegexOptions.Singleline | RegexOptions.IgnoreCase);
+                    if (shortMatch.Success)
+                        body = shortMatch.Groups[1].Value;
+                    else
+                        break;
+                }
+
+                body = Regex.Replace(body, @"\t", " ");
+                body = Regex.Replace(body, @"<br ?/?>", "\r\n", RegexOptions.Singleline);
+                body = Regex.Replace(body, @"<tr>|<td>|</td>|</tr>", " ");
+                body = Regex.Replace(body, @"[\\r\\n]+[ 　	]*", " +");
+                body = Regex.Replace(body, @"[¥\r¥\n 　	]+", " *", RegexOptions.Multiline);
+                body = Regex.Replace(body, "[ 　	]+", " ");
                 body = Regex.Replace(body, "^ ", "");
 
                 strArray = body.Split(' ');
