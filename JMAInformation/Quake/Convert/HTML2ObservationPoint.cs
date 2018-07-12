@@ -60,6 +60,7 @@ namespace P2PQuake.JMAInformation.Quake.Convert
             if (match.Success)
             {
                 string body = match.Groups[1].Value;
+                body = Regex.Replace(body, @"<br ?/?>", "\r\n", RegexOptions.Singleline);
                 body = Regex.Replace(body, @"[\\r\\n]+[ 　	]+", " +");
                 body = Regex.Replace(body, @"[¥\r¥\n 　	]+", " *", RegexOptions.Multiline);
                 body = Regex.Replace(body, "[ 　	]+", " ");
