@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/14 02:36:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/14 02:29:00",
+    "hypocenter": {
+      "name": "和歌山県北部",
+      "latitude": 34.0,
+      "longitude": 135.3,
+      "depth": 10,
+      "magnitude": 1.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

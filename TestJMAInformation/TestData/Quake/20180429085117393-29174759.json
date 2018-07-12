@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/29 17:51:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/29 17:47:00",
+    "hypocenter": {
+      "name": "秋田県内陸南部",
+      "latitude": 39.5,
+      "longitude": 140.4,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

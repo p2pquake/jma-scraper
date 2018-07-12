@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/29 11:33:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/29 11:29:00",
+    "hypocenter": {
+      "name": "富山県西部",
+      "latitude": 36.3,
+      "longitude": 137.0,
+      "depth": 0,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "飛騨市河合町元田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "白川村鳩谷",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

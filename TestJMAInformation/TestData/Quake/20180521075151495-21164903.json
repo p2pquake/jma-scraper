@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/21 16:51:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/21 16:49:00",
+    "hypocenter": {
+      "name": "岡山県北部",
+      "latitude": 35.0,
+      "longitude": 133.5,
+      "depth": 20,
+      "magnitude": 2.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岡山県",
+      "addr": "新見市唐松",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "真庭市下方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "真庭市禾津",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

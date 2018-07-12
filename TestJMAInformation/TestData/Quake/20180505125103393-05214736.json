@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/05 21:51:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/05 21:47:00",
+    "hypocenter": {
+      "name": "内浦湾",
+      "latitude": 42.0,
+      "longitude": 141.0,
+      "depth": 10,
+      "magnitude": 3.0
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

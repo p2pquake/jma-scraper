@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/23 23:10:00",
+    "type": "ScalePrompt",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/23 23:08:00",
+    "hypocenter": {
+      "name": "",
+      "latitude": -200.0,
+      "longitude": -200.0,
+      "depth": -1,
+      "magnitude": -1.0
+    },
+    "maxScale": 30,
+    "domesticTsunami": "Checking",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "京都府",
+      "addr": "京都府南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪府北部",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

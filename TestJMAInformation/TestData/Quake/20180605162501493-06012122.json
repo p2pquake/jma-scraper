@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/06 01:25:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/06 01:21:00",
+    "hypocenter": {
+      "name": "日向灘",
+      "latitude": 32.5,
+      "longitude": 132.2,
+      "depth": 20,
+      "magnitude": 3.9
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

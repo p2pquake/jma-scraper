@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/17 10:50:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/17 10:47:00",
+    "hypocenter": {
+      "name": "宮城県沖",
+      "latitude": 38.2,
+      "longitude": 142.6,
+      "depth": 30,
+      "magnitude": 3.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "宮城県",
+      "addr": "登米市迫町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

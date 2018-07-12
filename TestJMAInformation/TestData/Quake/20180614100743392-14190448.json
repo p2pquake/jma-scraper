@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/14 19:07:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/14 19:04:00",
+    "hypocenter": {
+      "name": "千葉県南部",
+      "latitude": 35.2,
+      "longitude": 140.3,
+      "depth": 10,
+      "magnitude": 4.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

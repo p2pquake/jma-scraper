@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/15 14:03:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/15 14:00:00",
+    "hypocenter": {
+      "name": "山梨県東部・富士五湖",
+      "latitude": 35.5,
+      "longitude": 139.0,
+      "depth": 30,
+      "magnitude": 4.6
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

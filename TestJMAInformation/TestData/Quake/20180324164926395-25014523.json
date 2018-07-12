@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/25 01:49:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/25 01:45:00",
+    "hypocenter": {
+      "name": "秋田県内陸南部",
+      "latitude": 39.5,
+      "longitude": 140.4,
+      "depth": 20,
+      "magnitude": 1.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "秋田県",
+      "addr": "大仙市神宮寺",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

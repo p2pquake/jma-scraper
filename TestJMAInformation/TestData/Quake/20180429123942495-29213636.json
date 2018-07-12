@@ -1,0 +1,108 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/29 21:39:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/29 21:36:00",
+    "hypocenter": {
+      "name": "京都府南部",
+      "latitude": 35.2,
+      "longitude": 135.5,
+      "depth": 10,
+      "magnitude": 3.5
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "京都府",
+      "addr": "京都右京区京北周山町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "南丹市園部町小桜町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京丹波町本庄",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都北区中川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都左京区花脊",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "南丹市美山町島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "南丹市日吉町保野田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "南丹市八木町八木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京丹波町蒲生",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京丹波町橋爪",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "福井おおい町名田庄久坂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "福井おおい町本郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "三田市下里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "篠山市杉",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

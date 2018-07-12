@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/14 22:13:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/14 22:09:00",
+    "hypocenter": {
+      "name": "長野県北部",
+      "latitude": 36.6,
+      "longitude": 137.9,
+      "depth": 10,
+      "magnitude": 1.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "小川村高府",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

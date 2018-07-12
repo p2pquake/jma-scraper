@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/21 04:39:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/21 04:36:00",
+    "hypocenter": {
+      "name": "長野県南部",
+      "latitude": 35.9,
+      "longitude": 137.6,
+      "depth": 10,
+      "magnitude": 2.6
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

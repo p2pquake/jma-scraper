@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/24 22:22:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/24 22:18:00",
+    "hypocenter": {
+      "name": "北海道東方沖",
+      "latitude": 43.6,
+      "longitude": 147.6,
+      "depth": 30,
+      "magnitude": 4.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

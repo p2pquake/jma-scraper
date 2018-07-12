@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/28 01:02:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/28 00:59:00",
+    "hypocenter": {
+      "name": "西表島付近",
+      "latitude": 24.2,
+      "longitude": 123.8,
+      "depth": 10,
+      "magnitude": 4.3
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

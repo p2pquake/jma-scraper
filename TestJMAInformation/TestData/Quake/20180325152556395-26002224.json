@@ -1,0 +1,168 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/26 00:25:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/26 00:22:00",
+    "hypocenter": {
+      "name": "佐渡付近",
+      "latitude": 37.8,
+      "longitude": 138.0,
+      "depth": 10,
+      "magnitude": 4.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "新潟県",
+      "addr": "上越市木田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市河原田本町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市羽茂本郷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "長岡市寺泊敦ケ曽根",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "長岡市中之島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市大手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市吉川区原之町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市清里区荒牧",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "上越市大島区岡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市相川三町目",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市岩谷口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市両津湊",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市千種",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市新穂瓜生屋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市畑野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市真野新町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市赤泊",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市相川栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "佐渡市小木町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "魚沼市今泉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "阿賀町鹿瀬中学校",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "新潟県",
+      "addr": "出雲崎町米田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福島県",
+      "addr": "西会津町野沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "石川県",
+      "addr": "輪島市舳倉島",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

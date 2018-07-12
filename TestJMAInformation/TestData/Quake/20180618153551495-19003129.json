@@ -1,0 +1,1404 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/19 00:35:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/19 00:31:00",
+    "hypocenter": {
+      "name": "大阪府北部",
+      "latitude": 34.9,
+      "longitude": 135.6,
+      "depth": 10,
+      "magnitude": 4.0
+    },
+    "maxScale": 40,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "京都府",
+      "addr": "京都伏見区向島",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "大山崎町円明寺",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都中京区河原町御池",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都伏見区竹田",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都伏見区醍醐",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都伏見区淀",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都伏見区久我",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都西京区樫原",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都西京区大枝",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "宇治市宇治琵琶",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "亀岡市余部町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "城陽市寺田",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "向日市寺戸町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "長岡京市開田",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "八幡市八幡",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "南丹市園部町小桜町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "久御山町田井",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "井手町井手",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都北区紫竹",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都上京区今出川御前",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都左京区田中",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都左京区大原",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都中京区西ノ京",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都東山区清水",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都下京区河原町塩小路",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都南区西九条",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都右京区太秦",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都右京区嵯峨",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都山科区安朱川向町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都山科区西野",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "宇治市折居台",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "亀岡市安町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京田辺市田辺",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "南丹市八木町八木",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "宇治田原町荒木",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "精華町南稲八妻",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京丹波町蒲生",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都北区中川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都上京区薮ノ内町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都左京区鞍馬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都左京区花脊",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都左京区岩倉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都右京区京北周山町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都右京区嵯峨樒原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "福知山市三和町千束",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京丹後市弥栄町溝谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "南丹市日吉町保野田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "木津川市加茂町里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "木津川市木津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "木津川市山城町上狛",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "笠置町笠置",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "和束町釜塚",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "南山城村北大河原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京丹波町橋爪",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京丹波町本庄",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "伊根町日出",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "与謝野町加悦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "与謝野町四辻",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "枚方市大垣内",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "島本町若山台",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "高槻市消防本部",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "箕面市粟生外院",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "交野市私部",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "豊能町余野",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪都島区都島本通",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪東淀川区北江口",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪旭区大宮",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪淀川区木川東",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪北区茶屋町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪国際空港",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "豊中市曽根南町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "豊中市役所",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "池田市城南",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "吹田市内本町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "高槻市桃園町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "高槻市立第２中学校",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "茨木市東中条町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "寝屋川市役所",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "箕面市箕面",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "摂津市三島",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "四條畷市中野",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "能勢町今西",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪福島区福島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪此花区春日出北",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪港区築港",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪西淀川区千舟",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪東淀川区柴島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪東成区東中本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪生野区舎利寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪城東区放出西",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪阿倍野区松崎町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪東住吉区杭全",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪西成区岸里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪鶴見区横堤",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪平野区平野南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪中央区大手前",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "泉大津市東雲町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "守口市京阪本通",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "八尾市本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大東市新町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "門真市中町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "東大阪市荒本北",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "大津市御陵町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "大津市国分",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "大津市南郷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市西浅井町大浦",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "草津市草津",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "栗東市安養寺",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "東近江市五個荘小幡町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "大津市南小松",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "大津市真野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "彦根市城町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "彦根市西今町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市高月町渡岸寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "長浜市木之本町木之本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "近江八幡市桜宮町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "近江八幡市出町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "近江八幡市安土町下豊浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "守山市石田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "甲賀市水口町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "甲賀市甲賀町大久保",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "甲賀市土山町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "甲賀市信楽町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "野洲市西河原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "野洲市小篠原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "湖南市中央森北公園",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "湖南市石部中央西庁舎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "湖南市中央東庁舎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "高島市今津町日置前",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "高島市朽木柏",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "高島市勝野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "東近江市上二俣町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "東近江市八日市緑町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "東近江市池庄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "東近江市市子川原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "米原市下多良",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "米原市長岡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "滋賀日野町河原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "竜王町小口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "愛荘町安孫子",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "愛荘町愛知川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "豊郷町石畑",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "甲良町在士",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "川西市中央町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "三田市下里",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "神戸長田区神楽町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "神戸垂水区日向",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "神戸中央区脇浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "尼崎市昭和通",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "明石市中崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "明石市相生",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "西宮市宮前町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "西宮市平木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "洲本市物部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "伊丹市千僧",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "宝塚市東洋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "三田市下深田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "篠山市北新町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "篠山市杉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "篠山市宮田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "丹波市春日町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "丹波市市島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "朝来市和田山町枚田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "朝来市生野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "淡路市富島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "淡路市久留麻",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "猪名川町紫合",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "大和郡山市北郡山町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "高取町観覚寺",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "奈良市西紀寺町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "奈良市月ヶ瀬尾山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "奈良市二条大路南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "大和高田市野口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "大和高田市大中",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "天理市川原城町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "橿原市八木町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "桜井市初瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "桜井市粟殿",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "御所市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "生駒市東新町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "香芝市本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "葛城市柿本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "葛城市長尾",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "宇陀市菟田野松井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "宇陀市大宇陀迫間",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "山添村大西",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "平群町吉新",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "三郷町勢野西",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "斑鳩町法隆寺西",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "安堵町東安堵",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "奈良川西町結崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "田原本町役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "曽爾村今井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "御杖村菅野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "明日香村岡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "上牧町上牧",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "王寺町王寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "広陵町南郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "河合町池部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "吉野町上市",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "敦賀市松栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "大野市朝日",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福井県",
+      "addr": "越前市粟田部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "大垣市丸の内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "大垣市墨俣町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "関市若草通り",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "羽島市竹鼻町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜山県市大門",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜山県市高富",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "瑞穂市別府",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "本巣市下真桑",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "海津市平田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐南町八剣",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "養老町高田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "神戸町神戸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "輪之内町四郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "安八町氷取",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町東杉原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町谷汲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "揖斐川町東津汲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "大野町大野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "半田市東洋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "常滑市新開町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市島崎町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "四日市市新浜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "松阪市魚町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "鈴鹿市西条",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "亀山市椿世町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "伊賀市小田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "香川県",
+      "addr": "小豆島町馬木",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

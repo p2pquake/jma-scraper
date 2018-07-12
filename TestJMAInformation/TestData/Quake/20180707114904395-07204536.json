@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/07/07 20:49:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/07/07 20:45:00",
+    "hypocenter": {
+      "name": "千葉県南東沖",
+      "latitude": 35.0,
+      "longitude": 140.7,
+      "depth": 60,
+      "magnitude": 3.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "勝浦市墨名",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

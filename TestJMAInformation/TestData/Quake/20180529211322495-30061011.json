@@ -1,0 +1,234 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/30 06:13:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/30 06:10:00",
+    "hypocenter": {
+      "name": "徳島県南部",
+      "latitude": 33.9,
+      "longitude": 134.5,
+      "depth": 10,
+      "magnitude": 3.8
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "徳島県",
+      "addr": "阿南市富岡町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "阿南市那賀川町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "吉野川市川島町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "美馬市木屋平",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "勝浦町久国",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "神山町神領",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町横石",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町和食",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町延野",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "美波町西の地",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "徳島市大和町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "徳島市津田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "鳴門市鳴門町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "小松島市横須町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "阿南市山口町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "阿南市羽ノ浦町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "吉野川市鴨島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "吉野川市山川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "吉野川市美郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "阿波市吉野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "上勝町旭",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "佐那河内村下",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "石井町高川原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町木頭和無田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "那賀町木沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "牟岐町中村",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "美波町奥河内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "海陽町大里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "海陽町宍喰浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "つるぎ町貞光",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "南あわじ市福良",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "香川県",
+      "addr": "さぬき市寒川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "東洋町生見",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "安田町安田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "馬路村馬路",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

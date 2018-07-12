@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/15 10:44:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/15 10:41:00",
+    "hypocenter": {
+      "name": "網走沖",
+      "latitude": 44.3,
+      "longitude": 144.1,
+      "depth": 10,
+      "magnitude": 3.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "北見市常呂町常呂",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

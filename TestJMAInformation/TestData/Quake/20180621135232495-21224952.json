@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/21 22:52:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/21 22:49:00",
+    "hypocenter": {
+      "name": "香川県東部",
+      "latitude": 34.2,
+      "longitude": 134.4,
+      "depth": 10,
+      "magnitude": 2.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "徳島県",
+      "addr": "石井町高川原",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

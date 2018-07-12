@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/01 01:29:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/01 01:25:00",
+    "hypocenter": {
+      "name": "トカラ列島近海",
+      "latitude": 30.0,
+      "longitude": 130.1,
+      "depth": 110,
+      "magnitude": 3.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "屋久島町宮之浦",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

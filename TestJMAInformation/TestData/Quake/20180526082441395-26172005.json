@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/26 17:24:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/26 17:20:00",
+    "hypocenter": {
+      "name": "長野県北部",
+      "latitude": 36.9,
+      "longitude": 138.6,
+      "depth": 20,
+      "magnitude": 2.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "栄村北信",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

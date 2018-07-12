@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/09 05:51:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/09 05:49:00",
+    "hypocenter": {
+      "name": "島根県西部",
+      "latitude": 35.2,
+      "longitude": 132.6,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "島根県",
+      "addr": "大田市大田町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

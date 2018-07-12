@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/02 18:54:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/02 18:48:00",
+    "hypocenter": {
+      "name": "択捉島南東沖",
+      "latitude": 43.8,
+      "longitude": 148.1,
+      "depth": 10,
+      "magnitude": 5.5
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

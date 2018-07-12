@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/26 20:06:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/26 20:03:00",
+    "hypocenter": {
+      "name": "岩手県沖",
+      "latitude": 39.3,
+      "longitude": 142.1,
+      "depth": 50,
+      "magnitude": 4.3
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

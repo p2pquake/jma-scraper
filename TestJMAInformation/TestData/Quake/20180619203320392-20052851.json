@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/20 05:33:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/20 05:28:00",
+    "hypocenter": {
+      "name": "宗谷地方北部",
+      "latitude": 45.0,
+      "longitude": 141.8,
+      "depth": 40,
+      "magnitude": 4.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

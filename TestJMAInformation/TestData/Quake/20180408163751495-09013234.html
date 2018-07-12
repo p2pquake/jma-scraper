@@ -1,0 +1,363 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Author" content="気象庁 Japan Meteorological Agency">
+<meta name="keywords" content="気象庁 Japan Meteorological Agency">
+<title>気象庁｜地震情報</title>
+<style type="text/css" media="print"><!-- #submenu { visibility: hidden; } --></style>
+<style type="text/css" media="all"><!-- @import url(/jp/common/default.css); --></style>
+<style type="text/css" media="all"><!-- @import url(/jp/common/weather_info_v2.css); --></style>
+<style type="text/css" media="all"><!-- @import url(/jp/quake2/quake.css); --></style>
+<link media="print" rel="stylesheet" type="text/css" href="/jp/common/print.css">
+<style type="text/css" media="all"><!--
+#explain { border: 0px;}
+#info { border: 0px; }
+#guide { border: 0; }
+--></style>
+<script Language="JavaScript">
+<!--
+function urlJump(page) {
+this.location.href=page+'.html'; 
+}
+function GoIndex(){
+this.location.href='index.html';
+}
+-->
+</script>
+<script src="/jp/common/weather_info.js" type="text/javascript"></script>
+<script src="/jp/quake2/his_js/history_local.js" type="text/javascript"></script>
+<script src="/jp/quake2/quake.js" type="text/javascript"></script>
+<script type="text/javascript" src="/jp/common/jquery.js"></script>
+<script type="text/javascript">
+if (((navigator.userAgent.indexOf('iPhone') > 0 && navigator.userAgent.indexOf('iPad') == -1) || navigator.userAgent.indexOf('iPod') > 0 || (navigator.userAgent.indexOf('Android') > 0 && navigator.userAgent.indexOf('Mobile') > 0) || navigator.userAgent.indexOf('BlackBerry') > 0 || navigator.userAgent.indexOf('Windows Phone') > 0 || navigator.userAgent.indexOf('Windows CE') > 0)) {
+	document.write("<meta name=\"viewport\" content=\"width=680,initial-scale=0.47; user-scale=yes\">");
+}
+</script>
+<script type="text/javascript">
+if (((navigator.userAgent.indexOf('iPhone') > 0 && navigator.userAgent.indexOf('iPad') == -1) || navigator.userAgent.indexOf('iPod') > 0 || (navigator.userAgent.indexOf('Android') > 0 && navigator.userAgent.indexOf('Mobile') > 0) || navigator.userAgent.indexOf('BlackBerry') > 0 || navigator.userAgent.indexOf('Windows Phone') > 0 || navigator.userAgent.indexOf('Windows CE') > 0)) {
+	document.write("<link rel=\"stylesheet\" href=\"/jp/common/sph.css\">");
+	document.write("<script type=\"text/javascript\" src=\"/jp/common/sph.js\"></scr"+"ipt>");
+}
+</script>
+</head>
+<script language="javascript">
+<!-- 
+function init() {
+submenu_control();   // サブメニュー表示制御のための追加
+}
+--></script>
+	<body onLoad="init()" onresize="javascript:submenu_control();">
+<noscript><div>すべての機能をご利用いただくにはJavascriptを有効にしてください。</div></noscript>
+		<a name="top"></a>
+		<div id="top">
+			<!-- global menu -->
+<div id="logo">
+<a href="/"><img src="/jp/common/logo.gif" alt="気象庁 Japan Meteorological Agency" height="47" width="120"></a></div>
+<div id="header_right">
+<div id="header_link">
+<ul>
+<li id="toMain"><a href="#main">本文へ</a></li>
+<li xml:lang="en" lang="en"><a href="/jma/indexe.html">ENGLISH</a></li>
+<li><a href="/jma/kishou/info/goiken.html">ご意見･ご感想</a></li>
+<li id="siteMap"><a href="/jma/kishou/sitemap.html">サイトマップ</a></li>
+</ul>
+</div>
+<!-- search -->
+<div id="yjsearch" class="watermark">
+<p>キーワードを入力し検索ボタンを押下ください。</p>
+<form action="/jma/menu/search.html" method="get" id="srch">
+<input type="search" results="5" name="p" id="srchInput" />
+<input type="image" src="/jp/common/btn_search.gif" alt="検索" id="srchBtn" onclick="document.getElementById('srchInput').focus();" />
+<input type="hidden" id="fr" name="fr" value="cse" />
+<input type="hidden" id="ei" name="ei" value="utf-8" />
+<input type="hidden" id="csid" name="csid" value="pD.LqPJKNL6pX5S8V0Zj684fKOuX.849vg9h" />
+<input type="hidden" name="vs" value="www.jma.go.jp" id="yjInsite" />
+</form>
+<img src="//custom.search.yahoo.co.jp/images/window/pD.LqPJKNL6pX5S8V0Zj684fKOuX.849vg9h.gif" alt="" /> </div>
+<script type="text/javascript">
+					(function() {
+					var sb = document.getElementById('yjsearch');
+					if (sb && sb.className == 'watermark') {
+						var si = document.getElementById('srchInput');
+						var f = function() { si.className = 'nomark'; };
+						var b = function() {
+							if (si.value == '') {
+								si.className = '';
+							}
+						};
+						si.onfocus = f;
+						si.onblur = b;
+						if (!/[&?]p=[^&]/.test(location.search)) {
+							b();
+						} else {
+							f();
+						}
+					}
+					})();
+</script> 
+<!-- search --> 
+</div>
+<table id="global" cellspacing="0" cellpadding="0">
+<tr>
+<td class="side"><a href="/">
+<div>ホーム</div>
+</a></td>
+<td class="side"><a href="/jma/menu/menuflash.html">
+<div class="here">防災情報</div>
+</a></td>
+<td class="side"><a href="/jma/menu/menureport.html">
+<div>各種データ・資料</div>
+</a></td>
+<td class="side"><a href="/jma/menu/menuknowledge.html">
+<div>知識・解説</div>
+</a></td>
+<td class="side"><a href="/jma/menu/menuabout.html">
+<div>気象庁について</div>
+</a></td>
+<td><a href="/jma/menu/menulinks.html">
+<div>案内・申請</div>
+</a></td>
+</tr>
+</table>
+			<div id="nesting">
+				<a href="/">ホーム</a> &gt; <a href="/jma/menu/menuflash.html">防災情報</a> &gt; <a href="/jp/quake/index.html">地震情報</a></div>
+		</div>
+		<!-- ***************** コンテンツ表示基底部 ****************************** -->
+		<div id="base">
+			<div id="sidebar">
+				<!-- サブメニュー部 -->
+<div id="submenu" class="sidemenu">
+<table border="0" cellspacing="0" cellpadding="0">
+<ul>
+<tr>
+<td colspan="2">再読込ボタンかブラウザの更新ボタンをクリックして最新の情報をお使いください。</td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/warn/">気象警報・注意報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;大雨・洪水警報の危険度分布</li></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;&nbsp;&nbsp;・<a href="/jp/doshamesh/">土砂災害警戒判定メッシュ情報</a></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;&nbsp;&nbsp;・<a href="/jp/suigaimesh/inund.html">大雨警報（浸水害）の危険度分布</a></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;&nbsp;&nbsp;・<a href="/jp/suigaimesh/flood.html">洪水警報の危険度分布</a></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/kishojoho/">気象情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;海上警報&nbsp;<a href="/jp/seawarn/">気象</a> / <a href="/jp/kaijyo/">火山</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/typh/">台風情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/flood/">指定河川洪水予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/dosha/">土砂災害警戒情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/tatsumaki/">竜巻注意情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="http://www.data.jma.go.jp/fcd/yoho/data/kouon/">高温注意情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/tsunami/">大津波警報・津波警報・津波注意報、津波情報、津波予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/quake/">地震情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="http://www.data.jma.go.jp/svd/eew/data/nteq/index.html">南海トラフ地震関連情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/volcano/">噴火警報・予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/funkasokuho/">噴火速報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/ashfall/">降灰予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/yoho/">天気予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/mesh20/">天気分布予報</a> / <a href="/jp/jikei/">時系列予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/week/">週間天気予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/seafcst/">海上予報</a> / <a href="/jp/umimesh/">海上分布予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/soukei/">異常天候早期警戒情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/longfcst/" target="_top">季節予報(1か月・3か月・暖候期・寒候期)</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/radame/">解析雨量・降水短時間予報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/g3/">天気図</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/radnowc/">レーダー・ナウキャスト(降水・雷・竜巻)</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/highresorad/">高解像度降水ナウキャスト</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/gms/">気象衛星</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/gms150jp/">気象衛星（高頻度）</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;アメダス <a href="/jp/amedas/">地図形式</a> / <a href="/jp/amedas_h/">表形式</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/kuko/">空港の気象</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/windpro/">ウィンドプロファイラ（上空の風）</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;黄砂情報 <a href="/jp/kosa/">実況図</a> / <a href="/jp/kosafcst/">予測図</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/uv/">紫外線情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><img width="100%" height="2px" src="/jp/common/line_menu.gif" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/choi/">潮位観測情報</a></li></td>
+</tr>
+<tr>
+<td colspan="2"><li>&nbsp;<a href="/jp/wave/">波浪観測情報</a></li></td>
+</tr>
+</ul>
+</table>
+</div>
+			</div>
+			<!-- 情報表示部 -->
+			<div id="main">
+				        <img src="/jma/trouble/trouble.png" alt="" />
+				<!-- タイトル -->
+				<div id="title">
+				<table><tr>
+        <td class="titleTextW">	
+					<h1 style="width:550px">地震情報（各地の震度に関する情報）</h1>
+				</td>
+        </tr>
+        </table>	
+				</div>
+				<div id="refre"><input type="button" title="再読込" value="再読込" id="operate" onclick="document.location.reload();"></div>
+				<div id="guide">
+					最近一週間の地震情報が選択できます。<br /><br />
+					<a href="/jp/quake/quake_sindo_index.html"><img src="/jp/quake2/icons/quake01_off.png" id="btn1" border="0" onMousedown="document.getElementById('btn1').src='/jp/quake2/icons/quake01_up.png'" onMouseout="document.getElementById('btn1').src='/jp/quake2/icons/quake01_off.png'" alt="震度３以上の地域名、発生時刻の情報"></a>
+					<a href="/jp/quake/quake_singen_index.html"><img src="/jp/quake2/icons/quake02_off.png" id="btn2" border="0" onMousedown="document.getElementById('btn2').src='/jp/quake2/icons/quake02_up.png'" onMouseout="document.getElementById('btn2').src='/jp/quake2/icons/quake02_off.png'" alt="震源、マグニチュードの情報"></a>
+					<a href="/jp/quake/quake_singendo_index.html"><img src="/jp/quake2/icons/quake03_off.png" id="btn3" border="0" onMousedown="document.getElementById('btn3').src='/jp/quake2/icons/quake03_up.png'" onMouseout="document.getElementById('btn3').src='/jp/quake2/icons/quake03_off.png'" alt="震源、マグニチュードと震度３以上を観測した地域名と市町村名の情報"></a>
+					<a href="/jp/quake/quake_local_index.html"><img src="/jp/quake2/icons/quake04_on.png" id="btn4" border="0" onMousedown="document.getElementById('btn4').src='/jp/quake2/icons/quake04_up.png'" onMouseout="document.getElementById('btn4').src='/jp/quake2/icons/quake04_on.png'" alt="震度１以上を観測した地点と震源、マグニチュードの情報"></a>
+					<a href="/jp/quake/quake_foreign_index.html"><img src="/jp/quake2/icons/quake05_off.png" id="btn5" border="0" onMousedown="document.getElementById('btn5').src='/jp/quake2/icons/quake05_up.png'" onMouseout="document.getElementById('btn5').src='/jp/quake2/icons/quake05_off.png'" alt="国外で発生した地震の震源、マグニチュードの情報"></a>
+					<a href="/jp/quake/quake_sonota_index.html"><img src="/jp/quake2/icons/quake06_off.png" id="btn6" border="0" onMousedown="document.getElementById('btn6').src='/jp/quake2/icons/quake06_up.png'" onMouseout="document.getElementById('btn6').src='/jp/quake2/icons/quake06_off.png'" alt="震度１以上を観測した地震回数情報等"></a><br /><br />
+					<div id="print"><input type="button" title="地震情報を印刷します。" value="印刷" onclick="javascript:print();"></div>
+					【各地の震度に関する情報】震度１以上を観測した地点と地震の発生場所（震源）やその規模（マグニチュード）の情報<br />
+											<span id="rtnbtn"><input type="button" name="g" onClick="idx('20180408163751495-09013234', '0')" value="＜前の情報"></span>
+						<span id="nxtbtn"><input type="button" name="g" onClick="idx('20180408163751495-09013234', '1')" value="次の情報＞"></span>
+						<input type="button" name="g" onClick="urlJump('00000000095')" value="最新情報">
+									</div>
+				<div style="float:left; font-size: 95%;">
+地図をクリックすると拡大できます。
+				</div>
+				<div id="jumpExplain" class="innerJump"><a href="#explain">説明へ</a></div>
+				<br />
+				<div id="info">
+					<img src="./images/japan/20180408163751495-09013234.png" usemap="#quakemap" alt=""> 
+						<MAP name="quakemap">
+							<AREA shape="poly" coords="243,196,198,223,198,290,238,311,250,311,253,296,257,280,255,246,258,230,256,224,252,226" href=./6/20180408163751495-09013234.html title="九州">
+<AREA shape="poly" coords="257,176,295,176,308,201,309,207,312,208,314,206,316,204,319,202,319,201,323,206,322,212,322,215,317,216,316,219,318,225,317,230,315,232,316,240,324,260,257,280,255,244,258,230,256,224,252,225,250,219,243,196" href=./5/20180408163751495-09013234.html title="近畿・中国・四国">
+<AREA shape="poly" coords="329,129,296,176,308,202,309,205,312,207,317,203,320,199,321,201,323,206,323,209,322,214,320,216,316,216,316,217,318,220,318,224,317,230,315,233,315,237,315,239,326,264,362,264,362,221,368,214,445,214,446,178,386,178,384,180,380,175,377,172,368,178,364,169,368,165,372,163,372,155,375,152,370,146" href=./3/20180408163751495-09013234.html title="関東・中部">
+
+						</MAP>
+						<br />
+						<input type="button" name="g" onClick="urlJump('20180408163751493-09013234')" value="この地震の各地域・市町村の震度" id="operate" class="switchShingenLocal">
+						<table id="infobox" cellspacing='0' width='100%' class='textframe'>
+							<tr>
+								<td>
+									各地の震度に関する情報<br>平成３０年　４月　９日０１時３７分　気象庁発表<br><br>９日０１時３２分ころ、地震がありました。<br>震源地は、島根県西部（北緯３５．２度、東経１３２．６度）で、震源の深さは約１０ｋｍ、地震の規模（マグニチュード）は５．８と推定されます。<br>この地震による津波の心配はありません。<br>この地震について、緊急地震速報を発表しています。<br><br>この地震により観測された最大震度は５強です。
+<br>
+<br>
+［震度１以上が観測された地点］
+<br>
+＊印は気象庁以外の震度観測点についての情報です。
+<br>
+島根県　　震度５強　大田市大田町＊<br>　　　　　震度５弱　出雲市多伎町小田＊　出雲市湖陵町二部＊<br>　　　　　　　　　　大田市仁摩町仁万＊　雲南市大東町大東<br>　　　　　　　　　　雲南市三刀屋町三刀屋＊　雲南市木次町里方＊<br>　　　　　　　　　　川本町川本＊　島根美郷町君谷　島根美郷町粕淵＊<br>　　　　　震度４　　松江市西津田　松江市玉湯町湯町＊<br>　　　　　　　　　　松江市宍道町宍道＊　浜田市殿町＊<br>　　　　　　　　　　浜田市三隅町三隅＊　出雲市今市町<br>　　　　　　　　　　出雲市塩冶有原町＊　出雲市平田町＊<br>　　　　　　　　　　出雲市佐田町反辺＊　出雲市大社町杵築南＊<br>　　　　　　　　　　出雲市斐川町荘原＊　益田市常盤町＊<br>　　　　　　　　　　大田市温泉津町小浜＊　江津市江津町＊<br>　　　　　　　　　　江津市桜江町川戸＊　雲南市掛合町掛合＊<br>　　　　　　　　　　雲南市加茂町加茂中＊　奥出雲町三成＊<br>　　　　　　　　　　飯南町頓原＊　飯南町下赤名＊<br>　　　　　　　　　　島根美郷町都賀本郷＊　邑南町淀原＊<br>　　　　　　　　　　邑南町瑞穂支所＊<br>　　　　　震度３　　松江市西生馬町　松江市学園南＊<br>　　　　　　　　　　松江市鹿島町佐陀本郷＊　松江市島根町加賀＊<br>　　　　　　　　　　松江市八束町波入＊　松江市東出雲町揖屋＊<br>　　　　　　　　　　松江市八雲町西岩坂＊　浜田市大辻町<br>　　　　　　　　　　浜田市旭町今市＊　出雲市坂浦町　益田市水分町＊<br>　　　　　　　　　　益田市匹見町匹見＊　益田市美都町都茂＊<br>　　　　　　　　　　安来市広瀬町広瀬祖父谷丁＊　安来市伯太町東母里＊<br>　　　　　　　　　　雲南市吉田町吉田＊　奥出雲町横田＊<br>　　　　　　　　　　邑南町下口羽＊　邑南町矢上＊　津和野町日原＊<br>　　　　　　　　　　吉賀町六日市＊　隠岐の島町城北町＊<br>　　　　　　　　　　隠岐の島町北方＊<br>　　　　　震度２　　松江市美保関総合運動公園＊　浜田市野原町＊<br>　　　　　　　　　　浜田市金城町下来原＊　浜田市弥栄町長安本郷＊<br>　　　　　　　　　　益田市匹見町石谷　津和野町後田＊<br>　　　　　　　　　　吉賀町柿木村柿木＊　海士町海士＊<br>　　　　　　　　　　西ノ島町浦郷小学校＊　隠岐の島町西町<br>　　　　　　　　　　隠岐の島町山田　隠岐の島町布施＊<br>　　　　　　　　　　隠岐の島町都万＊<br>　　　　　震度１　　知夫村役場＊<br>鳥取県　　震度４　　米子市博労町　米子市東町＊　境港市東本町<br>　　　　　　　　　　境港市上道町＊　鳥取日野町根雨＊<br>　　　　　震度３　　鳥取市吉方　鳥取市吉成＊<br>　　　　　　　　　　鳥取市鹿野町鹿野小学校＊　鳥取市福部町細川＊<br>　　　　　　　　　　鳥取市鹿野町鹿野＊　鳥取市青谷町青谷＊<br>　　　　　　　　　　米子市淀江町＊　智頭町智頭　湯梨浜町久留＊<br>　　　　　　　　　　湯梨浜町龍島＊　琴浦町徳万＊　北栄町土下＊<br>　　　　　　　　　　北栄町由良宿＊　日吉津村日吉津＊　大山町御来屋＊<br>　　　　　　　　　　大山町赤坂＊　大山町末長＊　鳥取南部町法勝寺＊<br>　　　　　　　　　　鳥取南部町天萬＊　伯耆町吉長＊　伯耆町溝口＊<br>　　　　　　　　　　日南町生山＊　日南町霞＊　江府町江尾＊<br>　　　　　震度２　　鳥取市河原町渡一木＊　鳥取市用瀬町用瀬＊<br>　　　　　　　　　　鳥取市佐治町加瀬木＊　鳥取市国府町宮下＊<br>　　　　　　　　　　鳥取市気高町浜村＊　倉吉市葵町＊<br>　　　　　　　　　　倉吉市関金町大鳥居＊　岩美町浦富　八頭町郡家＊<br>　　　　　　　　　　八頭町船岡＊　八頭町北山＊　三朝町大瀬＊<br>　　　　　　　　　　湯梨浜町泊＊　琴浦町赤碕中学校＊　琴浦町赤碕＊<br>　　　　　震度１　　倉吉市岩倉長峯　鳥取若桜町若桜＊<br>岡山県　　震度４　　倉敷市児島小川町＊<br>　　　　　震度３　　岡山北区足守　岡山北区新屋敷＊　岡山北区大供＊<br>　　　　　　　　　　岡山北区御津金川＊　岡山北区建部町＊<br>　　　　　　　　　　岡山東区瀬戸町＊　岡山南区片岡＊<br>　　　　　　　　　　岡山南区浦安南町＊　倉敷市新田　倉敷市沖＊<br>　　　　　　　　　　倉敷市白楽町＊　倉敷市真備町＊<br>　　　　　　　　　　倉敷市水島北幸町＊　倉敷市玉島阿賀崎＊<br>　　　　　　　　　　倉敷市船穂町＊　津山市加茂町＊　玉野市宇野＊<br>　　　　　　　　　　笠岡市殿川＊　笠岡市笠岡＊　井原市井原町＊<br>　　　　　　　　　　総社市地頭片山＊　総社市清音軽部＊<br>　　　　　　　　　　高梁市成羽町＊　高梁市川上町＊　高梁市備中町＊<br>　　　　　　　　　　新見市唐松＊　新見市千屋実＊　新見市哲西町矢田＊<br>　　　　　　　　　　瀬戸内市邑久町＊　瀬戸内市長船町＊　赤磐市上市<br>　　　　　　　　　　赤磐市松木＊　真庭市下方＊　真庭市禾津＊<br>　　　　　　　　　　真庭市下呰部＊　真庭市豊栄＊　真庭市蒜山下和＊<br>　　　　　　　　　　真庭市蒜山下福田＊　真庭市蒜山上福田＊<br>　　　　　　　　　　真庭市久世＊　真庭市落合垂水＊　浅口市天草公園<br>　　　　　　　　　　浅口市寄島町＊　浅口市鴨方町＊　浅口市金光町＊<br>　　　　　　　　　　和気町尺所＊　和気町矢田＊　早島町前潟＊<br>　　　　　　　　　　里庄町里見＊　矢掛町矢掛＊　鏡野町上齋原＊<br>　　　　　震度２　　岡山北区桑田町　岡山中区浜＊　岡山東区西大寺南＊<br>　　　　　　　　　　倉敷市下津井＊　津山市林田　津山市小中原＊<br>　　　　　　　　　　津山市山北＊　津山市新野東＊　津山市中北下＊<br>　　　　　　　　　　津山市阿波＊　井原市美星町＊　井原市芳井町＊<br>　　　　　　　　　　総社市中央＊　高梁市原田南町＊　高梁市有漢町＊<br>　　　　　　　　　　高梁市松原通＊　新見市新見　新見市神郷下神代＊<br>　　　　　　　　　　新見市哲多町本郷＊　新見市大佐小阪部＊<br>　　　　　　　　　　備前市伊部　備前市東片上＊　備前市吉永町＊<br>　　　　　　　　　　赤磐市町苅田＊　赤磐市周匝＊　真庭市勝山＊<br>　　　　　　　　　　真庭市美甘＊　美作市真加部＊　美作市栄町＊<br>　　　　　　　　　　美作市福本＊　美作市江見＊　美作市太田＊<br>　　　　　　　　　　新庄村役場＊　鏡野町井坂＊　鏡野町富西谷＊<br>　　　　　　　　　　鏡野町竹田＊　勝央町勝間田＊　奈義町豊沢＊<br>　　　　　　　　　　西粟倉村影石＊　久米南町下弓削＊<br>　　　　　　　　　　岡山美咲町原田＊　岡山美咲町西川＊<br>　　　　　　　　　　岡山美咲町久木＊　吉備中央町下加茂＊<br>　　　　　　　　　　吉備中央町豊野＊<br>　　　　　震度１　　備前市日生町＊　瀬戸内市牛窓町＊　美作市尾谷<br>　　　　　　　　　　美作市古町＊<br>広島県　　震度４　　広島三次市君田町＊　庄原市高野町＊<br>　　　　　　　　　　安芸高田市向原町長田＊　神石高原町油木＊<br>　　　　　震度３　　広島中区羽衣町＊　広島東区福田＊　広島西区己斐＊<br>　　　　　　　　　　広島安佐南区祇園＊　広島安佐北区可部南＊<br>　　　　　　　　　　広島安芸区中野＊　広島佐伯区利松＊　呉市宝町<br>　　　　　　　　　　呉市二河町＊　呉市広＊　呉市下蒲刈町＊<br>　　　　　　　　　　呉市焼山＊　呉市川尻町＊　呉市音戸町＊<br>　　　　　　　　　　呉市安浦町＊　竹原市中央＊　三原市円一町<br>　　　　　　　　　　三原市大和町＊　三原市本郷南＊　三原市久井町＊<br>　　　　　　　　　　尾道市因島土生町＊　尾道市向島町＊　尾道市久保＊<br>　　　　　　　　　　尾道市瀬戸田町＊　福山市松永町　福山市東桜町＊<br>　　　　　　　　　　福山市駅家町＊　福山市内海町＊　福山市沼隈町＊<br>　　　　　　　　　　福山市神辺町＊　広島三次市十日市中<br>　　　　　　　　　　広島三次市三次町＊　広島三次市布野町＊<br>　　　　　　　　　　広島三次市作木町＊　広島三次市三良坂町＊<br>　　　　　　　　　　広島三次市吉舎町＊　庄原市西城町大佐＊<br>　　　　　　　　　　庄原市東城町＊　庄原市口和町＊　庄原市比和町＊<br>　　　　　　　　　　庄原市中本町＊　大竹市小方＊　東広島市黒瀬町<br>　　　　　　　　　　東広島市西条栄町＊　東広島市豊栄町＊<br>　　　　　　　　　　東広島市河内町＊　廿日市市大野＊<br>　　　　　　　　　　廿日市市下平良＊　廿日市市津田＊　廿日市市吉和＊<br>　　　　　　　　　　安芸高田市八千代町＊　安芸高田市高宮町＊<br>　　　　　　　　　　安芸高田市向原町＊　安芸高田市吉田町＊<br>　　　　　　　　　　安芸高田市美土里町＊　安芸高田市甲田町＊<br>　　　　　　　　　　江田島市沖美町＊　江田島市大柿町＊<br>　　　　　　　　　　府中町大通り＊　海田町上市＊　熊野町役場＊<br>　　　　　　　　　　坂町役場＊　安芸太田町加計＊　安芸太田町中筒賀＊<br>　　　　　　　　　　安芸太田町戸河内＊　北広島町都志見　北広島町有田<br>　　　　　　　　　　北広島町川小田＊　北広島町大朝＊<br>　　　　　　　　　　大崎上島町中野＊　世羅町東神崎＊　世羅町西上原＊<br>　　　　　　　　　　世羅町小国＊　神石高原町高光＊<br>　　　　　震度２　　広島中区上八丁堀　広島南区宇品海岸＊<br>　　　　　　　　　　広島佐伯区湯来町和田＊　呉市倉橋町鳶ヶ巣<br>　　　　　　　　　　呉市郷原町＊　呉市豊浜町＊　呉市蒲刈町＊<br>　　　　　　　　　　呉市豊町＊　三原市館町＊　尾道市長江＊<br>　　　　　　　　　　尾道市御調町＊　福山市鞆町＊　福山市新市町＊<br>　　　　　　　　　　広島府中市府川町＊　広島府中市上下町上下＊<br>　　　　　　　　　　広島三次市甲奴図書館＊　広島三次市三和町＊<br>　　　　　　　　　　庄原市西城町熊野　庄原市総領町＊<br>　　　　　　　　　　東広島市福富町＊　東広島市安芸津町＊<br>　　　　　　　　　　廿日市市宮島町＊　江田島市江田島町＊<br>　　　　　　　　　　北広島町豊平郵便局＊　大崎上島町木江＊<br>　　　　　　　　　　大崎上島町東野＊　神石高原町小畠＊<br>　　　　　　　　　　神石高原町下豊松＊<br>　　　　　震度１　　広島空港<br>愛媛県　　震度４　　今治市吉海町＊　上島町弓削＊<br>　　　　　震度３　　松山市中島大浦＊　今治市南宝来町二丁目<br>　　　　　　　　　　今治市大西町＊　今治市菊間町＊　今治市宮窪町＊<br>　　　　　　　　　　今治市上浦町＊　今治市大三島町＊　今治市伯方町＊<br>　　　　　　　　　　大洲市大洲＊　西予市明浜町＊　東温市見奈良＊<br>　　　　　　　　　　上島町生名＊　上島町岩城＊　伊方町湊浦＊<br>　　　　　震度２　　松山市北持田町　松山市富久町＊　松山市北条辻＊<br>　　　　　　　　　　今治市朝倉北＊　今治市波方町＊　今治市関前岡村＊<br>　　　　　　　　　　宇和島市住吉町　宇和島市吉田町＊<br>　　　　　　　　　　八幡浜市五反田＊　八幡浜市保内町＊<br>　　　　　　　　　　新居浜市一宮町　西条市丹原町鞍瀬　西条市周布＊<br>　　　　　　　　　　西条市新田＊　西条市丹原町池田＊　西条市小松町＊<br>　　　　　　　　　　伊予市下吾川＊　四国中央市中曽根町＊<br>　　　　　　　　　　四国中央市土居町＊　西予市宇和町＊<br>　　　　　　　　　　西予市三瓶町＊　東温市南方＊　上島町魚島＊<br>　　　　　　　　　　久万高原町久万＊　愛媛松前町筒井＊　内子町内子＊<br>　　　　　　　　　　内子町平岡＊<br>　　　　　震度１　　今治市玉川町＊　宇和島市丸穂＊　宇和島市津島町＊<br>　　　　　　　　　　宇和島市三間町＊　八幡浜市広瀬　新居浜市中筋町＊<br>　　　　　　　　　　新居浜市別子山＊　大洲市肱川町＊　大洲市長浜＊<br>　　　　　　　　　　伊予市中山町＊　四国中央市新宮町＊　西予市野村町<br>　　　　　　　　　　久万高原町東川＊　久万高原町渋草＊　砥部町総津＊<br>　　　　　　　　　　砥部町宮内＊　内子町小田＊　伊方町三崎＊<br>　　　　　　　　　　松野町松丸＊　愛南町柏＊　愛南町一本松＊<br>兵庫県　　震度３　　豊岡市桜町　赤穂市加里屋＊　たつの市御津町＊<br>　　　　　　　　　　上郡町大持＊<br>　　　　　震度２　　神戸垂水区日向＊　姫路市安田＊<br>　　　　　　　　　　姫路市安富町安志＊　姫路市香寺町中屋＊<br>　　　　　　　　　　姫路市豊富＊　姫路市林田＊　相生市旭<br>　　　　　　　　　　豊岡市出石町＊　豊岡市日高町＊　豊岡市城崎町＊<br>　　　　　　　　　　豊岡市竹野町＊　豊岡市中央町＊　加古川市加古川町<br>　　　　　　　　　　加古川市志方町＊　高砂市荒井町＊　加西市北条町＊<br>　　　　　　　　　　篠山市北新町　篠山市杉＊　養父市広谷＊<br>　　　　　　　　　　丹波市春日町＊　丹波市青垣町＊　丹波市市島町＊<br>　　　　　　　　　　南あわじ市市＊　朝来市和田山町枚田<br>　　　　　　　　　　朝来市生野町＊　朝来市和田山町柳原＊<br>　　　　　　　　　　朝来市山東町＊　朝来市新井＊　淡路市郡家＊<br>　　　　　　　　　　淡路市志筑＊　宍粟市山崎町船元＊　宍粟市千種町＊<br>　　　　　　　　　　たつの市龍野町＊　たつの市新宮町＊<br>　　　　　　　　　　多可町加美区＊　市川町西川辺＊　福崎町南田原＊<br>　　　　　　　　　　兵庫神河町新田＊　兵庫太子町鵤＊<br>　　　　　　　　　　兵庫香美町香住区香住＊<br>　　　　　震度１　　神戸兵庫区烏原町＊　神戸中央区脇浜<br>　　　　　　　　　　神戸西区竹の台＊　姫路市神子岡前<br>　　　　　　　　　　姫路市夢前町前之庄＊　明石市中崎　明石市相生＊<br>　　　　　　　　　　西宮市宮前町　西宮市平木＊　洲本市物部<br>　　　　　　　　　　西脇市上比延町＊　三木市細川町　三木市福井＊<br>　　　　　　　　　　三田市下深田　三田市下里＊　加西市下万願寺町<br>　　　　　　　　　　篠山市宮田＊　養父市大屋町＊　養父市八鹿町＊<br>　　　　　　　　　　養父市関宮＊　丹波市柏原町＊　丹波市山南町＊<br>　　　　　　　　　　南あわじ市福良　南あわじ市広田＊　淡路市富島<br>　　　　　　　　　　淡路市久留麻＊　宍粟市山崎町中広瀬<br>　　　　　　　　　　宍粟市波賀町＊　宍粟市一宮町＊　加東市社<br>　　　　　　　　　　加東市天神＊　兵庫稲美町国岡＊　兵庫神河町寺前＊<br>　　　　　　　　　　佐用町上月＊　佐用町佐用＊　佐用町下徳久＊<br>　　　　　　　　　　佐用町三日月＊　兵庫香美町香住区三川<br>　　　　　　　　　　兵庫香美町村岡区神坂＊　新温泉町浜坂＊<br>　　　　　　　　　　新温泉町湯＊<br>山口県　　震度３　　下関市竹崎　宇部市東須恵＊　山口市小郡下郷＊<br>　　　　　　　　　　山口市阿知須＊　山口市阿東徳佐＊　萩市土原<br>　　　　　　　　　　萩市下田万＊　萩市須佐＊　防府市西浦＊<br>　　　　　　　　　　岩国市今津　岩国市横山＊　岩国市玖珂町阿山＊<br>　　　　　　　　　　岩国市由宇町＊　岩国市玖珂総合支所＊<br>　　　　　　　　　　岩国市錦町広瀬＊　柳井市大畠＊<br>　　　　　　　　　　周南市桜馬場通り＊　周南市富田＊<br>　　　　　　　　　　周南市岐山通り＊　山陽小野田市日の出＊<br>　　　　　　　　　　周防大島町平野＊　周防大島町西安下庄＊<br>　　　　　　　　　　周防大島町久賀＊　和木町和木＊　田布施町下田布施<br>　　　　　　　　　　平生町平生＊　阿武町奈古＊<br>　　　　　震度２　　下関市菊川町田部＊　下関市豊北町角島＊<br>　　　　　　　　　　宇部市船木＊　宇部市常盤町＊　山口市前町<br>　　　　　　　　　　山口市秋穂二島＊　山口市阿東生雲＊<br>　　　　　　　　　　山口市秋穂東＊　山口市亀山町＊　山口市徳地堀＊<br>　　　　　　　　　　萩市見島宇津　萩市川上＊　萩市江向＊　萩市吉部＊<br>　　　　　　　　　　萩市明木＊　萩市福井＊　萩市見島本村＊　防府市寿<br>　　　　　　　　　　下松市大手町＊　岩国市美川町高ケ原＊<br>　　　　　　　　　　岩国市周東町下久原＊　岩国市美和町生見＊<br>　　　　　　　　　　岩国市本郷町本郷＊　岩国市美川町四馬神＊<br>　　　　　　　　　　光市中央＊　光市岩田＊　長門市新別名＊<br>　　　　　　　　　　長門市三隅＊　柳井市南町＊　美祢市秋芳町秋吉＊<br>　　　　　　　　　　美祢市大嶺町＊　周南市熊毛中央町＊<br>　　　　　　　　　　周南市鹿野上＊　山陽小野田市鴨庄＊<br>　　　　　　　　　　周防大島町小松＊　上関町長島＊<br>　　　　　震度１　　下関市豊浦町川棚　下関市豊浦町浄水場＊<br>　　　　　　　　　　下関市豊北町滝部＊　下関市豊田町殿敷＊<br>　　　　　　　　　　下関市役所＊　宇部市野中　下松市瀬戸<br>　　　　　　　　　　長門市日置＊　長門市東深川＊　美祢市美東町大田＊<br>　　　　　　　　　　上関町室津＊<br>香川県　　震度３　　高松市扇町＊　高松市国分寺町＊　坂出市久米町＊<br>　　　　　　　　　　観音寺市坂本町　観音寺市瀬戸町＊<br>　　　　　　　　　　観音寺市豊浜町＊　東かがわ市西村　三豊市豊中町＊<br>　　　　　　　　　　三豊市高瀬町＊　三豊市三野町＊　三豊市詫間町＊<br>　　　　　　　　　　土庄町甲　小豆島町安田＊　小豆島町池田＊<br>　　　　　　　　　　綾川町山田下＊　多度津町家中<br>　　　　　震度２　　高松市伏石町　高松市香川町＊　高松市庵治町＊<br>　　　　　　　　　　高松市香南町＊　高松市牟礼町＊　丸亀市新田町＊<br>　　　　　　　　　　丸亀市大手町＊　丸亀市飯山町＊　坂出市王越町<br>　　　　　　　　　　善通寺市文京町＊　観音寺市大野原町＊<br>　　　　　　　　　　さぬき市長尾総合公園＊　さぬき市志度＊<br>　　　　　　　　　　さぬき市長尾東＊　さぬき市津田町＊<br>　　　　　　　　　　さぬき市大川町＊　さぬき市寒川町＊<br>　　　　　　　　　　東かがわ市湊＊　三豊市仁尾町＊　三豊市財田町＊<br>　　　　　　　　　　三豊市山本町＊　土庄町大部＊　小豆島町馬木＊<br>　　　　　　　　　　三木町氷上＊　直島町役場＊　宇多津町役場＊<br>　　　　　　　　　　綾川町滝宮＊　琴平町榎井＊　多度津町栄町＊<br>　　　　　　　　　　まんのう町造田＊　まんのう町吉野下＊<br>　　　　　　　　　　まんのう町生間＊<br>　　　　　震度１　　高松空港　高松市塩江町＊<br>高知県　　震度３　　高知市本町　高知市丸ノ内＊<br>　　　　　震度２　　高知市池＊　高知市高須東町＊　安芸市西浜<br>　　　　　　　　　　安芸市矢ノ丸＊　南国市オオソネ＊　土佐市蓮池＊<br>　　　　　　　　　　高知香南市夜須町坪井＊　芸西村和食＊<br>　　　　　　　　　　日高村本郷＊　黒潮町佐賀＊<br>　　　　　震度１　　高知市春野町芳原　高知市鏡小浜＊　高知市土佐山＊<br>　　　　　　　　　　室戸市室戸岬町　室戸市浮津＊　須崎市山手町<br>　　　　　　　　　　須崎市西糺町＊　宿毛市片島　宿毛市桜町＊<br>　　　　　　　　　　土佐清水市足摺岬　四万十市古津賀＊<br>　　　　　　　　　　高知香南市吉川町吉原＊　高知香南市香我美町下分＊<br>　　　　　　　　　　高知香南市赤岡支所＊　香美市土佐山田町宝町<br>　　　　　　　　　　香美市物部町神池　香美市土佐山田町岩積＊<br>　　　　　　　　　　香美市香北町美良布＊　香美市物部町大栃＊<br>　　　　　　　　　　東洋町生見＊　奈半利町役場＊　田野町役場＊<br>　　　　　　　　　　安田町安田＊　北川村野友＊　馬路村馬路＊<br>　　　　　　　　　　本山町本山＊　大豊町黒石＊　大豊町高須＊<br>　　　　　　　　　　土佐町土居＊　大川村小松＊　いの町脇ノ山＊<br>　　　　　　　　　　いの町長沢＊　いの町上八川＊　いの町役場＊<br>　　　　　　　　　　仁淀川町土居＊　仁淀川町森＊　仁淀川町大崎＊<br>　　　　　　　　　　中土佐町久礼＊　佐川町役場＊　越知町越知＊<br>　　　　　　　　　　梼原町広野＊　梼原町梼原＊　高知津野町永野＊<br>　　　　　　　　　　四万十町大正＊<br>福井県　　震度２　　高浜町宮崎<br>　　　　　震度１　　福井市豊島　敦賀市松栄町　敦賀市中央＊<br>　　　　　　　　　　小浜市大手町＊　鯖江市水落町＊　越前市粟田部＊<br>　　　　　　　　　　福井坂井市春江町随応寺＊　越前町西田中＊<br>　　　　　　　　　　福井おおい町本郷＊　福井若狭町市場＊<br>　　　　　　　　　　福井若狭町中央＊<br>岐阜県　　震度２　　海津市平田町＊<br>　　　　　震度１　　岐阜市加納二之丸　岐阜市京町＊　岐阜市柳津町＊<br>　　　　　　　　　　大垣市丸の内＊　大垣市墨俣町＊　多治見市笠原町＊<br>　　　　　　　　　　中津川市かやの木町　羽島市竹鼻町＊<br>　　　　　　　　　　恵那市長島町＊　美濃加茂市太田町<br>　　　　　　　　　　各務原市川島河田町＊　岐阜山県市大門＊<br>　　　　　　　　　　岐阜山県市高富＊　瑞穂市別府＊　瑞穂市宮田＊<br>　　　　　　　　　　本巣市下真桑＊　岐南町八剣＊　笠松町司町＊<br>　　　　　　　　　　養老町高田＊　垂井町役場＊　神戸町神戸＊<br>　　　　　　　　　　輪之内町四郷＊　安八町氷取＊　揖斐川町三輪<br>　　　　　　　　　　大野町大野＊　北方町北方＊<br>滋賀県　　震度２　　大津市南小松　長浜市西浅井町大浦＊<br>　　　　　　　　　　近江八幡市桜宮町　高島市勝野＊　米原市下多良＊<br>　　　　　震度１　　大津市御陵町　大津市国分＊　彦根市城町<br>　　　　　　　　　　彦根市西今町＊　近江八幡市出町＊　甲賀市水口町<br>　　　　　　　　　　湖南市中央森北公園＊　高島市朽木市場＊<br>　　　　　　　　　　東近江市上二俣町＊　豊郷町石畑＊<br>京都府　　震度２　　福知山市長田野町＊　福知山市三和町千束＊<br>　　　　　　　　　　福知山市大江町河守＊　宮津市柳縄手＊<br>　　　　　　　　　　長岡京市開田＊　八幡市八幡＊<br>　　　　　　　　　　京丹後市久美浜町広瀬＊　京丹後市峰山町＊<br>　　　　　　　　　　京丹後市大宮町＊　京丹後市久美浜市民局＊<br>　　　　　　　　　　京丹後市網野町＊　京丹後市弥栄町溝谷＊<br>　　　　　　　　　　大山崎町円明寺＊　与謝野町加悦＊　与謝野町岩滝＊<br>　　　　　　　　　　与謝野町四辻＊<br>　　　　　震度１　　京都上京区薮ノ内町＊　京都中京区西ノ京<br>　　　　　　　　　　京都下京区河原町塩小路＊　京都右京区京北周山町＊<br>　　　　　　　　　　京都西京区大枝＊　福知山市内記<br>　　　　　　　　　　福知山市夜久野町額田＊　舞鶴市下福井　舞鶴市浜＊<br>　　　　　　　　　　舞鶴市北吸＊　綾部市若竹町＊　宇治市宇治琵琶<br>　　　　　　　　　　亀岡市安町　亀岡市余部町＊　城陽市寺田＊<br>　　　　　　　　　　向日市寺戸町＊　京田辺市田辺＊<br>　　　　　　　　　　京丹後市弥栄町吉沢　京丹後市丹後町＊<br>　　　　　　　　　　南丹市美山町島＊　南丹市園部町小桜町＊<br>　　　　　　　　　　南丹市八木町八木＊　木津川市加茂町里＊<br>　　　　　　　　　　久御山町田井＊　井手町井手＊　宇治田原町荒木＊<br>　　　　　　　　　　京丹波町坂原　京丹波町蒲生＊　京丹波町本庄＊<br>　　　　　　　　　　伊根町亀島＊　伊根町日出＊<br>大阪府　　震度２　　高槻市立第２中学校＊　大東市新町＊<br>　　　　　　　　　　島本町若山台＊　能勢町今西＊　能勢町役場＊<br>　　　　　震度１　　大阪都島区都島本通＊　大阪福島区福島＊<br>　　　　　　　　　　大阪此花区春日出北＊　大阪西区九条南＊<br>　　　　　　　　　　大阪港区築港＊　大阪大正区泉尾＊<br>　　　　　　　　　　大阪西淀川区千舟＊　大阪東淀川区北江口＊<br>　　　　　　　　　　大阪東成区東中本＊　大阪生野区舎利寺＊<br>　　　　　　　　　　大阪旭区大宮＊　大阪城東区放出西＊<br>　　　　　　　　　　大阪東住吉区杭全＊　大阪西成区岸里＊<br>　　　　　　　　　　大阪淀川区木川東＊　大阪鶴見区横堤＊<br>　　　　　　　　　　大阪住之江区御崎＊　大阪平野区平野南＊<br>　　　　　　　　　　大阪北区茶屋町＊　大阪堺市堺区大浜南町＊<br>　　　　　　　　　　大阪堺市中区深井清水町　大阪堺市南区桃山台＊<br>　　　　　　　　　　岸和田市岸城町　岸和田市役所＊　大阪国際空港<br>　　　　　　　　　　豊中市曽根南町＊　豊中市役所＊　池田市城南＊<br>　　　　　　　　　　吹田市内本町＊　泉大津市東雲町＊　高槻市桃園町<br>　　　　　　　　　　高槻市消防本部＊　守口市京阪本通＊<br>　　　　　　　　　　枚方市大垣内＊　茨木市東中条町＊　八尾市本町＊<br>　　　　　　　　　　泉佐野市市場＊　富田林市本町　寝屋川市役所＊<br>　　　　　　　　　　箕面市箕面　箕面市粟生外院＊　門真市中町＊<br>　　　　　　　　　　摂津市三島＊　高石市加茂＊　東大阪市荒本北＊<br>　　　　　　　　　　泉南市消防本部＊　四條畷市中野＊　交野市私部＊<br>　　　　　　　　　　阪南市尾崎町＊　大阪岬町深日＊<br>徳島県　　震度２　　徳島市大和町　徳島市新蔵町＊　鳴門市鳴門町＊<br>　　　　　　　　　　小松島市横須町＊　阿南市那賀川町＊<br>　　　　　　　　　　吉野川市鴨島町　吉野川市川島町＊<br>　　　　　　　　　　吉野川市山川町＊　阿波市市場町＊　阿波市土成町＊<br>　　　　　　　　　　阿波市阿波町＊　阿波市吉野町＊　美馬市脇町<br>　　　　　　　　　　美馬市美馬町＊　美馬市穴吹町＊<br>　　　　　　　　　　徳島三好市池田総合体育館　徳島三好市池田中学校＊<br>　　　　　　　　　　徳島三好市三野町＊　石井町高川原＊　海陽町大里＊<br>　　　　　　　　　　松茂町広島＊　北島町中村＊　藍住町奥野＊<br>　　　　　　　　　　板野町大寺＊　上板町七條＊　つるぎ町貞光＊<br>　　　　　　　　　　東みよし町昼間＊　東みよし町加茂＊<br>　　　　　震度１　　鳴門市撫養町　阿南市富岡町　阿南市山口町＊<br>　　　　　　　　　　美馬市穴吹ふれスポ公園　美馬市木屋平＊<br>　　　　　　　　　　徳島三好市東祖谷＊　徳島三好市西祖谷山村＊<br>　　　　　　　　　　那賀町木頭和無田＊　那賀町和食＊　牟岐町中村＊<br>　　　　　　　　　　美波町西の地＊　つるぎ町半田＊<br>福岡県　　震度２　　北九州門司区不老町＊　北九州若松区桜町＊<br>　　　　　　　　　　北九州小倉北区大手町＊　北九州八幡東区大谷＊<br>　　　　　　　　　　久留米市津福本町　久留米市城島町＊　直方市新町＊<br>　　　　　　　　　　飯塚市立岩＊　飯塚市勢田＊　行橋市今井＊<br>　　　　　　　　　　行橋市中央＊　中間市長津＊　中間市中間＊<br>　　　　　　　　　　宗像市江口神原＊　宗像市東郷＊　福岡古賀市駅東＊<br>　　　　　　　　　　嘉麻市上臼井＊　朝倉市杷木池田＊　朝倉市宮野＊<br>　　　　　　　　　　新宮町緑ヶ浜＊　芦屋町幸町＊　水巻町頃末＊<br>　　　　　　　　　　遠賀町今古賀＊　小竹町勝野＊　筑前町篠隈＊<br>　　　　　　　　　　苅田町京町＊　みやこ町勝山上田＊<br>　　　　　震度１　　北九州小倉南区横代東町＊　北九州八幡東区桃園<br>　　　　　　　　　　北九州八幡西区相生町＊　福岡空港<br>　　　　　　　　　　福岡博多区博多駅前＊　福岡中央区大濠<br>　　　　　　　　　　福岡西区今宿＊　久留米市北野町＊<br>　　　　　　　　　　久留米市田主丸町＊　飯塚市川島　飯塚市忠隈＊<br>　　　　　　　　　　飯塚市綱分＊　柳川市本町＊　小郡市小郡＊<br>　　　　　　　　　　春日市原町＊　大野城市曙町＊　宗像市神湊＊<br>　　　　　　　　　　福津市手光　福津市津屋崎＊　糸島市志摩初<br>　　　　　　　　　　鞍手町中山＊　筑前町下高場　大刀洗町冨多＊<br>　　　　　　　　　　添田町添田＊　糸田町役場＊　赤村内田＊<br>　　　　　　　　　　福智町上野　福智町金田＊　福智町弁城＊<br>　　　　　　　　　　苅田町若久　みやこ町犀川本庄＊　みやこ町豊津＊<br>　　　　　　　　　　上毛町東下＊　上毛町垂水＊　築上町築城＊<br>　　　　　　　　　　築上町椎田＊<br>佐賀県　　震度２　　佐賀市諸富＊　佐賀市東与賀＊　佐賀市久保田＊<br>　　　　　　　　　　神埼市神埼＊　神埼市千代田＊　上峰町坊所＊<br>　　　　　　　　　　みやき町三根＊　みやき町北茂安＊<br>　　　　　震度１　　佐賀市駅前中央　佐賀市大和＊　佐賀市三瀬＊<br>　　　　　　　　　　佐賀市川副＊　唐津市浜玉＊　唐津市肥前＊<br>　　　　　　　　　　鳥栖市宿町＊　武雄市北方＊　小城市三日月＊<br>　　　　　　　　　　小城市芦刈＊　吉野ヶ里町三田川＊　基山町宮浦＊<br>　　　　　　　　　　みやき町中原＊　江北町山口＊　白石町福田＊<br>　　　　　　　　　　白石町福富＊<br>熊本県　　震度２　　長洲町長洲＊<br>　　　　　震度１　　玉名市天水町＊<br>大分県　　震度２　　佐伯市上浦＊　臼杵市臼杵＊　津久見市宮本町＊<br>　　　　　　　　　　豊後高田市真玉＊　豊後高田市香々地＊<br>　　　　　　　　　　豊後大野市清川町＊　国東市鶴川　国東市田深＊<br>　　　　　　　　　　国東市国見町伊美＊　姫島村役場＊<br>　　　　　震度１　　大分市新春日町＊　大分市佐賀関＊　別府市鶴見<br>　　　　　　　　　　別府市天間　中津市上宮永　中津市植野＊<br>　　　　　　　　　　中津市耶馬溪町＊　中津市豊田町＊　中津市三光＊<br>　　　　　　　　　　佐伯市蒲江蒲江浦　佐伯市春日町＊　佐伯市米水津＊<br>　　　　　　　　　　津久見市立花町＊　豊後高田市御玉＊<br>　　　　　　　　　　杵築市南杵築＊　杵築市山香町＊　宇佐市院内町＊<br>　　　　　　　　　　宇佐市上田＊　由布市湯布院町川上＊<br>　　　　　　　　　　国東市国見町西方寺<br>長野県　　震度１　　飯田市高羽町　飯田市大久保町＊　諏訪市湖岸通り<br>　　　　　　　　　　諏訪市高島＊<br>愛知県　　震度１　　名古屋千種区日和町　名古屋北区萩野通＊<br>　　　　　　　　　　名古屋西区八筋町＊　名古屋中村区大宮町＊<br>　　　　　　　　　　名古屋中川区東春田＊　名古屋港区春田野＊<br>　　　　　　　　　　名古屋南区鳴尾＊　名古屋守山区下志段味＊<br>　　　　　　　　　　名古屋守山区西新＊　名古屋名東区名東本町＊<br>　　　　　　　　　　一宮市千秋　一宮市木曽川町＊　瀬戸市苗場町＊<br>　　　　　　　　　　愛知津島市埋田町＊　小牧市安田町＊<br>　　　　　　　　　　稲沢市稲府町＊　稲沢市祖父江町＊　稲沢市平和町＊<br>　　　　　　　　　　岩倉市川井町＊　愛西市稲葉町　愛西市石田町＊<br>　　　　　　　　　　愛西市諏訪町＊　清須市西枇杷島町花咲＊<br>　　　　　　　　　　清須市須ケ口＊　北名古屋市西之保＊　弥富市神戸＊<br>　　　　　　　　　　弥富市前ヶ須町＊　愛知みよし市三好町＊<br>　　　　　　　　　　あま市甚目寺＊　長久手市岩作城の内＊<br>　　　　　　　　　　東郷町春木＊　蟹江町蟹江本町＊　飛島村竹之郷＊<br>三重県　　震度１　　津市島崎町　四日市市日永　鈴鹿市西条<br>奈良県　　震度１　　大和郡山市北郡山町＊　御所市役所＊　葛城市柿本＊<br>　　　　　　　　　　葛城市長尾＊　斑鳩町法隆寺西＊　奈良川西町結崎＊<br>　　　　　　　　　　田原本町役場＊　高取町観覚寺＊　広陵町南郷＊<br>和歌山県　震度１　　和歌山市男野芝丁　有田市箕島　御坊市薗<br>　　　　　　　　　　田辺市中屋敷町＊　紀の川市粉河<br>　　　　　　　　　　紀の川市桃山町元＊　紀の川市西大井＊<br>　　　　　　　　　　岩出市西野＊　和歌山美浜町和田＊<br>　　　　　　　　　　和歌山日高町高家＊　みなべ町芝＊<br>長崎県　　震度１　　諫早市多良見町＊　諫早市森山町＊　松浦市志佐町＊<br>　　　　　　　　　　雲仙市愛野町＊<br>宮崎県　　震度１　　高千穂町三田井<br>
+<br>
+<br />
+
+<br />
+
+<br />
+								</td>
+							</tr>
+						</table>
+				</div>
+			<br />
+			<br />
+			<div id="explain">
+				<a name="explain"></a>
+				市町村合併から暫くの期間は、合併前の市町村名称で震度情報が発表されることがあります。
+				<br />
+				<br />
+				<br />
+				<ul class="pagelink">
+					<li><a href='/jp/quake/quake_local_index.html'>各地の震度情報一覧ページへ戻る</a>
+						<li><a href="http://www.data.jma.go.jp/svd/eqev/data/joho/seisinfo.html">地震情報の解説へ</a><br />
+						<li><a href="http://www.jma.go.jp/jma/kishou/know/faq/faq27.html">よくある質問集（震度・マグニチュードなど）へ</a><br /><br />
+						<li><a href="http://www.data.jma.go.jp/svd/eqev/data/index.html">地震資料のページへ</a>
+						<li><a href="http://www.data.jma.go.jp/svd/eqdb/data/shindo/index.php">震度データベース検索（過去地震の検索）のページへ</a>
+						<li><a href="http://www.data.jma.go.jp/svd/eew/data/nc/rireki/rireki.html">緊急地震速報の発表状況へ</a>
+						<li><a href="http://www.data.jma.go.jp/svd/eew/data/suikei/index.html">推計震度分布図のページへ（震度５弱以上を観測した場合に発表）</a>
+						<li><a href="http://www.data.jma.go.jp/svd/eew/data/ltpgm/index.html">長周期地震動に関する観測情報（試行）のページへ</a>
+				</ul>
+			</div>
+			<div id="gotop">
+				<a href="#top">このページのトップへ</a></div>
+			</div>
+			</div>
+			<div id="foot">
+					<!-- 共通フッター -->
+<p>気象庁：〒100-8122東京都千代田区大手町1-3-4  代表電話：03-3212-8341</p>
+<a href="/jma/kishou/info/coment.html">気象庁ホームページについて</a>
+			</div>
+		    <script type="text/javascript">
+			    chkID("rtnbtn",0);
+			    chkID("nxtbtn",1); 
+			</script>
+	</body>
+
+</html>

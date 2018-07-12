@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/31 23:45:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/31 23:43:00",
+    "hypocenter": {
+      "name": "長野県南部",
+      "latitude": 36.0,
+      "longitude": 137.6,
+      "depth": 0,
+      "magnitude": 2.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "高山市高根町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

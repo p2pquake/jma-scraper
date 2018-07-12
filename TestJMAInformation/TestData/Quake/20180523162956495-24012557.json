@@ -1,0 +1,900 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/24 01:29:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/24 01:25:00",
+    "hypocenter": {
+      "name": "福岡県筑後地方",
+      "latitude": 33.1,
+      "longitude": 130.5,
+      "depth": 10,
+      "magnitude": 4.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福岡県",
+      "addr": "福岡空港",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "大牟田市昭和町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "大牟田市有明町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "久留米市津福本町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "久留米市城島町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "久留米市三潴町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "柳川市大和町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "柳川市三橋町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "柳川市本町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "筑後市山ノ井",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "大川市酒見",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "みやま市瀬高町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "みやま市山川町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "みやま市高田町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "筑前町下高場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "筑前町篠隈",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "大木町八町牟田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "福岡広川町新代",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "福岡博多区博多駅前",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "福岡中央区大濠",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "福岡南区塩原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "福岡西区今宿",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "福岡城南区神松寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "福岡早良区板屋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "大牟田市笹林",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "久留米市小森野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "久留米市北野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "飯塚市長尾",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "飯塚市綱分",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "八女市黒木町北木屋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "八女市吉田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "八女市黒木町今",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "八女市立花町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "八女市本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "小郡市小郡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "筑紫野市二日市西",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "春日市原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "大野城市曙町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "宗像市江口神原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "太宰府市観世音寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "嘉麻市上山田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "朝倉市堤",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "朝倉市菩提寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "糸島市志摩初",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "糸島市前原東",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "糸島市二丈深江",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "福岡那珂川町西隈",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "宇美町宇美",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "小竹町勝野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "筑前町新町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "大刀洗町冨多",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "佐賀市川副",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "佐賀市東与賀",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "佐賀市久保田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "唐津市北波多",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "唐津市肥前",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "伊万里市立花町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "武雄市武雄町武雄",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "武雄市山内",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "小城市芦刈",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "嬉野市塩田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "嬉野市下宿乙",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "神埼市千代田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "上峰町坊所",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "みやき町三根",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "みやき町北茂安",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "江北町山口",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "白石町福田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "白石町福富",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "白石町有明",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "佐賀市駅前中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "佐賀市富士町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "佐賀市栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "佐賀市諸富",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "佐賀市大和",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "佐賀市三瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "唐津市西城内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "唐津市竹木場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "唐津市厳木町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "唐津市浜玉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "唐津市七山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "唐津市相知",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "鳥栖市宿町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "多久市北多久町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "佐賀鹿島市納富分",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "小城市三日月",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "小城市小城",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "神埼市神埼",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "吉野ヶ里町三田川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "吉野ヶ里町東脊振",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "基山町宮浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "みやき町中原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "玄海町諸浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "有田町本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "有田町立部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "大町町大町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "太良町多良",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "平戸市志々伎町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "川棚町中組",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "佐世保市干尽町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "佐世保市八幡町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "佐世保市吉井町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "佐世保市世知原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "島原市下折橋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "島原市有明町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "諫早市多良見町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "諫早市森山町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "大村市玖島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "平戸市岩の上町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "平戸市鏡川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "平戸市田平町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "松浦市志佐町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "松浦市鷹島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "松浦市福島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "壱岐市郷ノ浦町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "西海市西海町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "雲仙市国見町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "雲仙市小浜町雲仙",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "雲仙市愛野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "雲仙市雲仙出張所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "雲仙市瑞穂町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "雲仙市小浜町北本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "南島原市口之津町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "東彼杵町蔵本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "佐々町本田原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長崎県",
+      "addr": "新上五島町立串",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "荒尾市宮内出目",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "南関町関町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "和水町江田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "和水町板楠",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "熊本北区植木町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "玉名市築地",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "玉名市中尾",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "玉名市岱明町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "玉名市横島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山鹿市老人福祉センター",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山鹿市菊鹿町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山鹿市鹿本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山鹿市鹿央町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "山鹿市鹿北町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "菊池市七城町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "菊池市隈府",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "菊池市旭志",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "玉東町木葉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "長洲町長洲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "熊本県",
+      "addr": "大津町引水",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

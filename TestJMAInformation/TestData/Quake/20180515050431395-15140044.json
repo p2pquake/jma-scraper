@@ -1,0 +1,1248 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/15 14:04:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/15 14:00:00",
+    "hypocenter": {
+      "name": "山梨県東部・富士五湖",
+      "latitude": 35.5,
+      "longitude": 139.0,
+      "depth": 30,
+      "magnitude": 4.6
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "神奈川県",
+      "addr": "三浦市城山町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "中井町比奈窪",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "山北町山北",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜中区山手町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜中区山下町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜保土ケ谷区上菅田町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜磯子区磯子",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜金沢区白帆",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜港北区綱島西",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜戸塚区鳥が丘",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜港南区丸山台東部",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜旭区今宿東町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜旭区上白根町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜瀬谷区中屋敷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜瀬谷区三ツ境",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜泉区岡津町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜青葉区市ケ尾町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎中原区小杉町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原緑区中野",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原中央区上溝",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原中央区水郷田名",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原南区磯部",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "平塚市浅間町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "藤沢市大庭",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "藤沢市打戻",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "藤沢市長後",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "藤沢市辻堂東海岸",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "小田原市荻窪",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "茅ヶ崎市茅ヶ崎",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "秦野市曽屋",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "秦野市平沢",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "厚木市中町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "厚木市下津古久",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "伊勢原市伊勢原",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "海老名市大谷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "座間市相武台",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "南足柄市関本",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "綾瀬市深谷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "寒川町宮山",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "大磯町月京",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "二宮町中里",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "神奈川大井町金子",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "松田町松田惣領",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "箱根町湯本",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "真鶴町岩",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "湯河原町中央",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "清川村煤ヶ谷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜鶴見区馬場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜鶴見区末広町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜神奈川区広台太田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜西区浜松町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜中区山吹町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜中区日本大通",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜南区大岡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜保土ケ谷区神戸町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜金沢区寺前",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜金沢区釜利谷南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜港北区大倉山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜港北区日吉本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜戸塚区戸塚町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜緑区十日市場町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜緑区鴨居",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜栄区小菅ケ谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜泉区和泉町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横浜青葉区榎が丘",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎川崎区宮前町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎川崎区中島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎幸区戸手本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎中原区小杉陣屋町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎宮前区宮前平",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎宮前区野川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "川崎麻生区片平",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原緑区若柳",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原緑区大島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原緑区小渕",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原緑区久保沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原緑区橋本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原中央区中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "相模原南区相模大野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横須賀市光の丘",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "横須賀市坂本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "鎌倉市御成町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "藤沢市朝日町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "小田原市久野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "大和市下鶴間",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "開成町延沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "愛川町角田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "大月市御太刀",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町船津",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町長浜",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲府市古関町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士吉田市上吉田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士吉田市下吉田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "都留市上谷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "大月市大月",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "上野原市役所",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲州市大和町初鹿野",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士川町鰍沢",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "道志村役場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "西桂町小沼",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "忍野村忍草",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山中湖村山中",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "鳴沢村役場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町勝山",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町役場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲府市飯田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲府市相生",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨市牧丘町窪平",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨市三富川浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨北杜市長坂町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "笛吹市境川町藤垈",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "笛吹市御坂町夏目原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "笛吹市芦川町中芦川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "笛吹市八代町南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "笛吹市春日居町寺本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "上野原市秋山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲州市塩山上於曽",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲州市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "甲州市勝沼町勝沼",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "中央市大鳥居",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "中央市成島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "身延町大磯小磯",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士川町天神中条",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "富士河口湖町本栖",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "丹波山村丹波",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京世田谷区三軒茶屋",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京渋谷区宇田川町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "町田市本町田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "日野市神明",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "国分寺市戸倉",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京千代田区大手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京千代田区麹町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京中央区勝どき",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京港区海岸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京文京区大塚",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京品川区平塚",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京目黒区中央町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京大田区本羽田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京大田区多摩川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京世田谷区世田谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京世田谷区中町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京世田谷区成城",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京渋谷区本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京中野区中野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京中野区江古田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京杉並区高井戸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京練馬区東大泉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京練馬区光が丘",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京足立区神明南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京足立区千住中居町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京葛飾区立石",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "八王子市大横町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "八王子市堀之内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "八王子市石川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "三鷹市野崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "青梅市東青梅",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "青梅市日向和田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京府中市寿町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京府中市朝日町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "調布市西つつじヶ丘",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "町田市忠生",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "町田市森野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "小金井市本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "小平市小川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "国分寺市本多",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "狛江市和泉本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東大和市中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "清瀬市中里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "武蔵村山市本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "多摩市関戸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "西東京市中町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "日の出町平井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "伊豆大島町元町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京利島村東山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "熱海市泉",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "三島市東本町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "富士宮市弓沢町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "富士宮市野中",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "伊豆市中伊豆グラウンド",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "東伊豆町奈良本",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "松崎町江奈",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡清水区蒲原新栄",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "熱海市網代",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "伊東市大原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "御殿場市萩原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "御殿場市茱萸沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "裾野市石脇",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "西伊豆町一色",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "群馬県",
+      "addr": "神流町生利",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "さいたま北区宮原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "さいたま大宮区天沼町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "さいたま緑区中尾",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "川越市旭町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "秩父市中津川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "本庄市児玉町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "草加市高砂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "富士見市鶴馬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "川島町下八ツ林",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "埼玉美里町木部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "館山市長須賀",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "市原市姉崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "千葉県",
+      "addr": "南房総市富浦町青木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "小海町豊里",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "佐久穂町畑",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

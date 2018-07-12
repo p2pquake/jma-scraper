@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/13 02:31:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/13 02:28:00",
+    "hypocenter": {
+      "name": "岩手県内陸南部",
+      "latitude": 39.5,
+      "longitude": 141.5,
+      "depth": 20,
+      "magnitude": 3.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "岩手県",
+      "addr": "宮古市区界",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

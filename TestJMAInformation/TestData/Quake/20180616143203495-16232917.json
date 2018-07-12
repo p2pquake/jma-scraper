@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/16 23:32:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/16 23:29:00",
+    "hypocenter": {
+      "name": "紀伊水道",
+      "latitude": 34.0,
+      "longitude": 134.8,
+      "depth": 50,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "徳島県",
+      "addr": "小松島市横須町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "徳島県",
+      "addr": "阿南市羽ノ浦町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

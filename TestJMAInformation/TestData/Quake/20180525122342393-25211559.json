@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/25 21:23:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/25 21:16:00",
+    "hypocenter": {
+      "name": "新潟県中越地方",
+      "latitude": 37.0,
+      "longitude": 138.6,
+      "depth": 10,
+      "magnitude": 3.2
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

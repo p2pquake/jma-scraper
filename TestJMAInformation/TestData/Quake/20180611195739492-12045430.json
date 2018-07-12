@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/12 04:57:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/12 04:54:00",
+    "hypocenter": {
+      "name": "大隅半島東方沖",
+      "latitude": 31.2,
+      "longitude": 131.5,
+      "depth": 30,
+      "magnitude": 5.5
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

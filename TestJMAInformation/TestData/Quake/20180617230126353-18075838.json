@@ -1,0 +1,234 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/18 08:01:00",
+    "type": "ScalePrompt",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/18 07:58:00",
+    "hypocenter": {
+      "name": "",
+      "latitude": -200.0,
+      "longitude": -200.0,
+      "depth": -1,
+      "magnitude": -1.0
+    },
+    "maxScale": 55,
+    "domesticTsunami": "Checking",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "大阪府",
+      "addr": "大阪府北部",
+      "scale": 55,
+      "isArea": true
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都府南部",
+      "scale": 50,
+      "isArea": true
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "滋賀県南部",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県南東部",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "奈良県",
+      "addr": "奈良県",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "福井県",
+      "addr": "福井県嶺南",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜県美濃中西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "愛知県",
+      "addr": "愛知県西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "三重県",
+      "addr": "三重県北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "滋賀県北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都府北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪府南部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県南西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県淡路島",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "香川県",
+      "addr": "香川県東部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "石川県",
+      "addr": "石川県加賀",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "福井県",
+      "addr": "福井県嶺北",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜県美濃東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "愛知県",
+      "addr": "愛知県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "三重県",
+      "addr": "三重県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "三重県",
+      "addr": "三重県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根県隠岐",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岡山県",
+      "addr": "岡山県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岡山県",
+      "addr": "岡山県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島県南西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "徳島県",
+      "addr": "徳島県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "香川県",
+      "addr": "香川県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛媛県東予",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/03 05:50:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/03 05:43:00",
+    "hypocenter": {
+      "name": "父島近海",
+      "latitude": 26.6,
+      "longitude": 142.7,
+      "depth": 10,
+      "magnitude": 4.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

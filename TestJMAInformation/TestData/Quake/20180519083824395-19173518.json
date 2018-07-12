@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/19 17:38:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/19 17:35:00",
+    "hypocenter": {
+      "name": "北海道北西沖",
+      "latitude": 44.9,
+      "longitude": 141.6,
+      "depth": 10,
+      "magnitude": 2.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "天塩町川口",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

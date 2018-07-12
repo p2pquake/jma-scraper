@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/02 08:51:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/02 08:47:00",
+    "hypocenter": {
+      "name": "台湾付近",
+      "latitude": 23.9,
+      "longitude": 122.3,
+      "depth": 10,
+      "magnitude": 5.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "与那国町久部良",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "与那国町役場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "竹富町船浮",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "与那国町祖納",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

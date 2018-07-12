@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/30 21:33:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/30 21:27:00",
+    "hypocenter": {
+      "name": "網走地方",
+      "latitude": 43.5,
+      "longitude": 144.0,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "<u>釧路市阿寒町阿寒湖温泉</u>",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "下線付き表示の震度情報を更新しました。",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
+}

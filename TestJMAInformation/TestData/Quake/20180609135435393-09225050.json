@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/09 22:54:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/09 22:50:00",
+    "hypocenter": {
+      "name": "静岡県東部",
+      "latitude": 35.2,
+      "longitude": 138.6,
+      "depth": 20,
+      "magnitude": 3.4
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/04 14:43:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/04 14:39:00",
+    "hypocenter": {
+      "name": "大阪府南部",
+      "latitude": 34.3,
+      "longitude": 135.2,
+      "depth": 10,
+      "magnitude": 2.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山市一番丁",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/28 07:52:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/28 07:49:00",
+    "hypocenter": {
+      "name": "宗谷地方北部",
+      "latitude": 45.3,
+      "longitude": 141.8,
+      "depth": 0,
+      "magnitude": 3.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "稚内市開運",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "稚内市中央",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

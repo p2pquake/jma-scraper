@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/07/01 12:44:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/07/01 12:42:00",
+    "hypocenter": {
+      "name": "大阪府北部",
+      "latitude": 34.9,
+      "longitude": 135.6,
+      "depth": 10,
+      "magnitude": 3.6
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

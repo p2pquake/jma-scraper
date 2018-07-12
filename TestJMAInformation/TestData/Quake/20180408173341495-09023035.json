@@ -1,0 +1,342 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/09 02:33:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/09 02:30:00",
+    "hypocenter": {
+      "name": "島根県西部",
+      "latitude": 35.2,
+      "longitude": 132.6,
+      "depth": 10,
+      "magnitude": 3.9
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "島根県",
+      "addr": "大田市大田町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市多伎町小田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市湖陵町二部",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "大田市仁摩町仁万",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市三刀屋町三刀屋",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市加茂町加茂中",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "川本町川本",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根美郷町君谷",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根美郷町粕淵",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "松江市玉湯町湯町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "松江市宍道町宍道",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "浜田市殿町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市今市町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市塩冶有原町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市平田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市佐田町反辺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市大社町杵築南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "出雲市斐川町荘原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "大田市温泉津町小浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "江津市江津町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "江津市桜江町川戸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市大東町大東",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市掛合町掛合",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "雲南市木次町里方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "奥出雲町三成",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "飯南町頓原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "飯南町下赤名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根美郷町都賀本郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "邑南町下口羽",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "島根県",
+      "addr": "邑南町瑞穂支所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "米子市博労町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "米子市東町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "境港市東本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "倉敷市児島小川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "倉敷市水島北幸町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "倉敷市船穂町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "総社市地頭片山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "総社市清音軽部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "真庭市禾津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岡山県",
+      "addr": "里庄町里見",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "福山市松永町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "福山市内海町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島三次市布野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島三次市君田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島三次市吉舎町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "庄原市高野町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "庄原市口和町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "東広島市西条栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "安芸高田市向原町長田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "神石高原町油木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "岩国市横山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "香川県",
+      "addr": "観音寺市坂本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市吉海町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

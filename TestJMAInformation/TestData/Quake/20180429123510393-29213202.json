@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/29 21:35:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/29 21:32:00",
+    "hypocenter": {
+      "name": "青森県下北地方",
+      "latitude": 41.2,
+      "longitude": 141.0,
+      "depth": 10,
+      "magnitude": 3.6
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

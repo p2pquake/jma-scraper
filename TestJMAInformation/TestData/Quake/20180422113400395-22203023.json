@@ -1,0 +1,60 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/22 20:34:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/22 20:30:00",
+    "hypocenter": {
+      "name": "新島・神津島近海",
+      "latitude": 34.2,
+      "longitude": 139.2,
+      "depth": 10,
+      "magnitude": 3.9
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "神津島村役場",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "新島村大原",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "新島村式根島",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "神津島村金長",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "新島村本村",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "東京都",
+      "addr": "三宅村阿古",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

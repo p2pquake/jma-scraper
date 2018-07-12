@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/18 03:45:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/18 03:42:00",
+    "hypocenter": {
+      "name": "釧路沖",
+      "latitude": 42.7,
+      "longitude": 145.5,
+      "depth": 50,
+      "magnitude": 5.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

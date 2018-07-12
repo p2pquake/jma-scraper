@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/23 06:35:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/23 06:32:00",
+    "hypocenter": {
+      "name": "宮城県沖",
+      "latitude": 38.9,
+      "longitude": 142.1,
+      "depth": 50,
+      "magnitude": 5.1
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

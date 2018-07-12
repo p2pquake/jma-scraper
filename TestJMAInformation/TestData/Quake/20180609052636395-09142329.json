@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/09 14:26:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/09 14:23:00",
+    "hypocenter": {
+      "name": "埼玉県秩父地方",
+      "latitude": 35.9,
+      "longitude": 138.8,
+      "depth": 10,
+      "magnitude": 2.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "埼玉県",
+      "addr": "秩父市中津川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "丹波山村丹波",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

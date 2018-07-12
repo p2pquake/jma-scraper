@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/19 03:24:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/19 03:21:00",
+    "hypocenter": {
+      "name": "大阪府北部",
+      "latitude": 34.9,
+      "longitude": 135.6,
+      "depth": 10,
+      "magnitude": 2.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "京都府",
+      "addr": "大山崎町円明寺",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

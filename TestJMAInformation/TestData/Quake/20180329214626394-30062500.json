@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/30 06:46:00",
+    "type": "Foreign",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/30 06:26:00",
+    "hypocenter": {
+      "name": "パプアニューギニア、ニューブリテン",
+      "latitude": -5.6,
+      "longitude": 151.6,
+      "depth": -1,
+      "magnitude": 7.2
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "WarningNearby"
+  },
+  "points": []
+}
