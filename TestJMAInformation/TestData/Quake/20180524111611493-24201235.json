@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/24 20:16:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/24 20:12:00",
+    "hypocenter": {
+      "name": "沖縄本島北西沖",
+      "latitude": 27.7,
+      "longitude": 127.8,
+      "depth": 110,
+      "magnitude": 4.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

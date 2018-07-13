@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/29 04:17:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/29 04:14:00",
+    "hypocenter": {
+      "name": "沖縄本島近海",
+      "latitude": 26.3,
+      "longitude": 127.8,
+      "depth": 20,
+      "magnitude": 2.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄市美里",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

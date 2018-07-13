@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/26 17:03:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/26 17:00:00",
+    "hypocenter": {
+      "name": "広島県北部",
+      "latitude": 34.9,
+      "longitude": 132.9,
+      "depth": 10,
+      "magnitude": 4.9
+    },
+    "maxScale": 40,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/16 05:58:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/16 05:54:00",
+    "hypocenter": {
+      "name": "台湾付近",
+      "latitude": 24.6,
+      "longitude": 121.8,
+      "depth": 70,
+      "magnitude": 4.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

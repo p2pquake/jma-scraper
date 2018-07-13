@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/07/06 10:40:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/07/06 10:36:00",
+    "hypocenter": {
+      "name": "相模湾",
+      "latitude": 35.2,
+      "longitude": 139.2,
+      "depth": 10,
+      "magnitude": 1.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "神奈川県",
+      "addr": "箱根町湯本",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

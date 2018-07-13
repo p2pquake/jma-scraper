@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/22 06:23:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/22 06:20:00",
+    "hypocenter": {
+      "name": "茨城県北部",
+      "latitude": 36.7,
+      "longitude": 140.6,
+      "depth": 10,
+      "magnitude": 3.5
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

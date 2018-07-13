@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/26 18:47:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/26 18:44:00",
+    "hypocenter": {
+      "name": "茨城県南部",
+      "latitude": 36.2,
+      "longitude": 139.8,
+      "depth": 60,
+      "magnitude": 4.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

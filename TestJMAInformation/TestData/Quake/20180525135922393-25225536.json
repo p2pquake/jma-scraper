@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/25 22:59:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/25 22:56:00",
+    "hypocenter": {
+      "name": "長野県北部",
+      "latitude": 36.9,
+      "longitude": 138.6,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

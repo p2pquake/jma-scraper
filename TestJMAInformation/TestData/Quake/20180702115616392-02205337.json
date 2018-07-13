@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/07/02 20:56:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/07/02 20:53:00",
+    "hypocenter": {
+      "name": "青森県東方沖",
+      "latitude": 41.2,
+      "longitude": 142.8,
+      "depth": 20,
+      "magnitude": 5.0
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

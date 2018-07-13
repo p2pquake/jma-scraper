@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/01 13:29:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/01 13:22:00",
+    "hypocenter": {
+      "name": "五島列島近海",
+      "latitude": 33.1,
+      "longitude": 129.5,
+      "depth": 20,
+      "magnitude": 2.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "長崎県",
+      "addr": "平戸市志々伎町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

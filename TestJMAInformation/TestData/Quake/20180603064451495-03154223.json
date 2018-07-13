@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/03 15:44:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/03 15:42:00",
+    "hypocenter": {
+      "name": "徳島県南部",
+      "latitude": 33.9,
+      "longitude": 134.3,
+      "depth": 10,
+      "magnitude": 2.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "徳島県",
+      "addr": "美馬市木屋平",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

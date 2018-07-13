@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/07/10 14:50:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/07/10 14:47:00",
+    "hypocenter": {
+      "name": "茨城県沖",
+      "latitude": 36.3,
+      "longitude": 141.8,
+      "depth": 20,
+      "magnitude": 4.3
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

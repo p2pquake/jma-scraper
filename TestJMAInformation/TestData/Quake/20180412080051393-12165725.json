@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/12 17:00:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/12 16:57:00",
+    "hypocenter": {
+      "name": "北海道西方沖",
+      "latitude": 43.6,
+      "longitude": 139.6,
+      "depth": 230,
+      "magnitude": 5.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

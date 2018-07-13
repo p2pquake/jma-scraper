@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/17 15:31:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/17 15:27:00",
+    "hypocenter": {
+      "name": "群馬県南部",
+      "latitude": 36.4,
+      "longitude": 139.2,
+      "depth": 20,
+      "magnitude": 4.7
+    },
+    "maxScale": 45,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

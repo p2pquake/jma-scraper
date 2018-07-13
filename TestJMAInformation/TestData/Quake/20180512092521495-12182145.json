@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/12 18:25:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/12 18:21:00",
+    "hypocenter": {
+      "name": "トカラ列島近海",
+      "latitude": 29.1,
+      "longitude": 129.1,
+      "depth": 0,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島十島村宝島",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

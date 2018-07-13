@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/07/07 20:28:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/07/07 20:23:00",
+    "hypocenter": {
+      "name": "千葉県東方沖",
+      "latitude": 35.1,
+      "longitude": 140.6,
+      "depth": 50,
+      "magnitude": 6.0
+    },
+    "maxScale": 45,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

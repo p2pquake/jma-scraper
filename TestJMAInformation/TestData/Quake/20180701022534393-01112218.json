@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/07/01 11:25:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/07/01 11:22:00",
+    "hypocenter": {
+      "name": "国後島付近",
+      "latitude": 43.5,
+      "longitude": 145.3,
+      "depth": 130,
+      "magnitude": 4.2
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

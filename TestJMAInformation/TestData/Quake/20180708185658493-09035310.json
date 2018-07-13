@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/07/09 03:56:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/07/09 03:53:00",
+    "hypocenter": {
+      "name": "佐賀県南部",
+      "latitude": 33.4,
+      "longitude": 130.4,
+      "depth": 20,
+      "magnitude": 4.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

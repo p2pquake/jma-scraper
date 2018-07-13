@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/06 07:18:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/06 07:15:00",
+    "hypocenter": {
+      "name": "秋田県内陸北部",
+      "latitude": 40.0,
+      "longitude": 140.5,
+      "depth": 10,
+      "magnitude": 3.8
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/06/11 03:56:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/06/11 03:53:00",
+    "hypocenter": {
+      "name": "徳島県北部",
+      "latitude": 34.0,
+      "longitude": 134.4,
+      "depth": 50,
+      "magnitude": 3.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "徳島県",
+      "addr": "勝浦町久国",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

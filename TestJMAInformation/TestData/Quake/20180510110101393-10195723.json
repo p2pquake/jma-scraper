@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/10 20:01:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/10 19:57:00",
+    "hypocenter": {
+      "name": "福島県沖",
+      "latitude": 37.8,
+      "longitude": 141.8,
+      "depth": 40,
+      "magnitude": 4.6
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

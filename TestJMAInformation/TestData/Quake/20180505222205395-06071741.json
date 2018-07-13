@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/05/06 07:22:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/05/06 07:17:00",
+    "hypocenter": {
+      "name": "秋田県内陸北部",
+      "latitude": 40.0,
+      "longitude": 140.6,
+      "depth": 10,
+      "magnitude": 3.0
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市阿仁水無",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市米内沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市新田目",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

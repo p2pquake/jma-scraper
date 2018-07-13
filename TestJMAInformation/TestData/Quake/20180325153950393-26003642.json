@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/03/26 00:39:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/03/26 00:36:00",
+    "hypocenter": {
+      "name": "八丈島東方沖",
+      "latitude": 32.6,
+      "longitude": 140.9,
+      "depth": 50,
+      "magnitude": 4.7
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

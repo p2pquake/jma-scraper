@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/04/21 18:52:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/04/21 18:47:00",
+    "hypocenter": {
+      "name": "千葉県東方沖",
+      "latitude": 35.6,
+      "longitude": 141.2,
+      "depth": 30,
+      "magnitude": 5.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

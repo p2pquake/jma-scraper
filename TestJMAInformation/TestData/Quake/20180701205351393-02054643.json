@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2018/07/02 05:53:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2018/07/02 05:46:00",
+    "hypocenter": {
+      "name": "オホーツク海南部",
+      "latitude": 46.8,
+      "longitude": 145.3,
+      "depth": 410,
+      "magnitude": 5.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}
