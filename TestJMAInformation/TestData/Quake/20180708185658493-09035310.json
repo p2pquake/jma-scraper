@@ -19,5 +19,72 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "福岡県",
+      "addr": "福岡県福岡",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "福岡県",
+      "addr": "福岡県筑後",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "佐賀県",
+      "addr": "佐賀県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "福岡県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "福岡中央区",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "福岡早良区",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "久留米市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "佐賀県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "佐賀市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "鳥栖市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "神埼市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

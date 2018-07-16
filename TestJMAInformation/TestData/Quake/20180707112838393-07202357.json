@@ -19,5 +19,252 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "千葉県北東部",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉県北西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉県南部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "茨城県",
+      "addr": "茨城県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "茨城県",
+      "addr": "茨城県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "栃木県",
+      "addr": "栃木県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "埼玉県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "埼玉県",
+      "addr": "埼玉県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京都２３区",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京都多摩東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "東京都",
+      "addr": "三宅島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "神奈川県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "神奈川県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨県中・西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨県東部・富士五湖",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡県伊豆",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "千葉県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "長南町",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "千葉中央区",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "千葉若葉区",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "館山市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "木更津市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "茂原市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "東金市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "勝浦市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "市原市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "鴨川市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "君津市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "南房総市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "山武市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "いすみ市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大網白里市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "九十九里町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "横芝光町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "一宮町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "睦沢町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "長生村",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "白子町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "長柄町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大多喜町",
+      "scale": 40,
+      "isArea": false
+    }
+  ]
 }

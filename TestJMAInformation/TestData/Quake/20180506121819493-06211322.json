@@ -19,5 +19,36 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "熊本県",
+      "addr": "熊本県熊本",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "熊本県",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "宇城市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "熊本西区",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "宇土市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

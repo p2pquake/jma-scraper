@@ -19,5 +19,42 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "大分県",
+      "addr": "大分県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎県北部平野部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "大分県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "佐伯市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "宮崎県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "延岡市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

@@ -19,5 +19,42 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜県美濃東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "愛知県",
+      "addr": "愛知県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "岐阜県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "恵那市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "愛知県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "新城市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }
