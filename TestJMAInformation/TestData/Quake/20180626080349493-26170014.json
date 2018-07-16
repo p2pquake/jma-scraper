@@ -19,5 +19,144 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "島根県",
+      "addr": "島根県東部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島県北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島県南東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "香川県",
+      "addr": "香川県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "島根県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "飯南町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "安来市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "雲南市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "奥出雲町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "川本町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "島根美郷町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "邑南町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "広島県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "広島三次市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "庄原市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "安芸高田市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "神石高原町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "鳥取県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "境港市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "香川県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "土庄町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

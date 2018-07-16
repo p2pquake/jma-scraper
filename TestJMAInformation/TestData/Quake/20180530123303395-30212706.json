@@ -22,13 +22,7 @@
   "points": [
     {
       "pref": "北海道",
-      "addr": "<u>釧路市阿寒町阿寒湖温泉</u>",
-      "scale": 30,
-      "isArea": false
-    },
-    {
-      "pref": "北海道",
-      "addr": "下線付き表示の震度情報を更新しました。",
+      "addr": "釧路市阿寒町阿寒湖温泉",
       "scale": 30,
       "isArea": false
     }

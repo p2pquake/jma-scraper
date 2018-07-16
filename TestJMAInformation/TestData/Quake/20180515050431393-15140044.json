@@ -19,5 +19,66 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "神奈川県",
+      "addr": "神奈川県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "神奈川県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨県東部・富士五湖",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "神奈川県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "三浦市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "中井町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "山北町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "山梨県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大月市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "富士河口湖町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

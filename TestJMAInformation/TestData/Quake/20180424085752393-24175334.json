@@ -19,5 +19,120 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "釧路地方中南部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室地方中部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室地方南部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "網走地方",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室地方北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "北海道",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "根室市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "浜中町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "別海町",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "釧路市",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "清里町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "釧路町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "厚岸町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "標茶町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "鶴居村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "白糠町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "中標津町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "標津町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "羅臼町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

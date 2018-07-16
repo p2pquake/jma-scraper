@@ -19,5 +19,24 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "島根県",
+      "addr": "島根県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "島根県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大田市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

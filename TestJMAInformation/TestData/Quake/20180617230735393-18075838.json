@@ -19,5 +19,546 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "大阪府",
+      "addr": "大阪府北部",
+      "scale": 55,
+      "isArea": true
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都府南部",
+      "scale": 50,
+      "isArea": true
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "滋賀県南部",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県南東部",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "奈良県",
+      "addr": "奈良県",
+      "scale": 45,
+      "isArea": true
+    },
+    {
+      "pref": "福井県",
+      "addr": "福井県嶺南",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜県美濃中西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "愛知県",
+      "addr": "愛知県西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "三重県",
+      "addr": "三重県北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "滋賀県",
+      "addr": "滋賀県北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都府北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "大阪府",
+      "addr": "大阪府南部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県北部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県南西部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "兵庫県淡路島",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "香川県",
+      "addr": "香川県東部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "石川県",
+      "addr": "石川県加賀",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "福井県",
+      "addr": "福井県嶺北",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "岐阜県美濃東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "愛知県",
+      "addr": "愛知県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "三重県",
+      "addr": "三重県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "三重県",
+      "addr": "三重県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "和歌山県",
+      "addr": "和歌山県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "鳥取県",
+      "addr": "鳥取県中部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "島根県",
+      "addr": "島根県隠岐",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岡山県",
+      "addr": "岡山県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "岡山県",
+      "addr": "岡山県南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島県南西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "徳島県",
+      "addr": "徳島県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "香川県",
+      "addr": "香川県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛媛県東予",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "大阪府",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大阪北区",
+      "scale": 55,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "高槻市",
+      "scale": 55,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "枚方市",
+      "scale": 55,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "茨木市",
+      "scale": 55,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "箕面市",
+      "scale": 55,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大阪都島区",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大阪東淀川区",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大阪旭区",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大阪淀川区",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "豊中市",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "吹田市",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "寝屋川市",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "摂津市",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "交野市",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "島本町",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大阪福島区",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大阪此花区",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大阪港区",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大阪西淀川区",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大阪生野区",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "池田市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "守口市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大東市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "四條畷市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "豊能町",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "能勢町",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "京都府",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "京都中京区",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "京都伏見区",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "京都西京区",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "亀岡市",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "長岡京市",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "八幡市",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大山崎町",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "久御山町",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "宇治市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "城陽市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "向日市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "京田辺市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "南丹市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "井手町",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "精華町",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "滋賀県",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大津市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "兵庫県",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "尼崎市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "西宮市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "伊丹市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "川西市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "奈良県",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "大和郡山市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "御所市",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "高取町",
+      "scale": 45,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "広陵町",
+      "scale": 45,
+      "isArea": false
+    }
+  ]
 }

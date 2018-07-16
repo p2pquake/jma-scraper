@@ -19,5 +19,24 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "宮崎県",
+      "addr": "宮崎県北部平野部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "宮崎県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "高鍋町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

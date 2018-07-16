@@ -19,5 +19,24 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "鹿児島県十島村",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "鹿児島県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "鹿児島十島村",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

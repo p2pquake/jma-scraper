@@ -19,5 +19,24 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "釧路地方中南部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "北海道",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "釧路市",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

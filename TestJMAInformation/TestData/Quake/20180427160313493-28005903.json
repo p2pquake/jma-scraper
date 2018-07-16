@@ -19,5 +19,24 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "沖縄県西表島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "沖縄県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "竹富町",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

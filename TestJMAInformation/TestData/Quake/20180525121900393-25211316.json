@@ -19,5 +19,66 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "長野県",
+      "addr": "長野県北部",
+      "scale": 50,
+      "isArea": true
+    },
+    {
+      "pref": "新潟県",
+      "addr": "新潟県上越",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "新潟県",
+      "addr": "新潟県中越",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "群馬県",
+      "addr": "群馬県北部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "長野県",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "栄村",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "新潟県",
+      "scale": 50,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "十日町市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "上越市",
+      "scale": 40,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "津南町",
+      "scale": 40,
+      "isArea": false
+    }
+  ]
 }

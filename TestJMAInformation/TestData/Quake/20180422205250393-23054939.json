@@ -19,5 +19,36 @@
     "domesticTsunami": "None",
     "foreignTsunami": "Unknown"
   },
-  "points": []
+  "points": [
+    {
+      "pref": "東京都",
+      "addr": "神津島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "東京都",
+      "addr": "新島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "",
+      "addr": "東京都",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "新島村",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "",
+      "addr": "神津島村",
+      "scale": 30,
+      "isArea": false
+    }
+  ]
 }

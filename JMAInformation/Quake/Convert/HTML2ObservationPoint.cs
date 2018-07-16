@@ -95,6 +95,7 @@ namespace P2PQuake.JMAInformation.Quake.Convert
                 body = Regex.Replace(body, "<.+?>", " ");
                 body = Regex.Replace(body, @"[¥\r¥\n 　	]+", " ", RegexOptions.Multiline);
                 body = Regex.Replace(body, "^ ", "");
+                body = Regex.Replace(body, " +［震度", " +［震度");
 
                 strArray = body.Split(' ');
             }
@@ -128,6 +129,7 @@ namespace P2PQuake.JMAInformation.Quake.Convert
                 body = Regex.Replace(body, @"[¥\r¥\n 　	]+", " *", RegexOptions.Multiline);
                 body = Regex.Replace(body, "[ 　	]+", " ");
                 body = Regex.Replace(body, "^ ", "");
+                body = Regex.Replace(body, "<.+?>", " ");
 
                 strArray = body.Split(' ');
             }
@@ -164,11 +166,13 @@ namespace P2PQuake.JMAInformation.Quake.Convert
                 return null;
 
             // 終了位置サーチ
-            //  "津波" という文字を含む行まで．
+            //  "津波" または "市区町村］" という文字を含む行まで．
             int endIndex = array.Length;
             for (int i = startIndex + 1; i < array.Length; i++)
             {
-                if (array[i].Contains("津波"))
+                if (array[i].Contains("津波") ||
+                    // Regex.IsMatch(array[i], "市区?町村］") ||
+                    array[i].Contains("下線付き"))
                 {
                     endIndex = i;
                     break;
