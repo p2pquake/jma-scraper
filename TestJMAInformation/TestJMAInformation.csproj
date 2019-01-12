@@ -41,6 +41,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Quake\Convert\MonoDateTest.cs" />
     <Compile Include="Tsunami\SmokeTest.cs" />
+    <Compile Include="Quake\SmokeTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -4587,7 +4588,6 @@
     <None Include="TestData\Tsunami\yoho_201310260250.html" />
     <None Include="TestData\Tsunami\yoho_201504201048.html" />
     <None Include="TestData\Tsunami\yoho_201611220704.html" />
-    <None Include="Quake\SmokeTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Tsunami\" />
