@@ -9,11 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuakeReceiver", "QuakeRecei
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuakeAnalyzer", "QuakeAnalyzer\QuakeAnalyzer.csproj", "{DA146290-2F63-4B69-9A83-7FE298C80609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJMAInformation", "TestJMAInformation\TestJMAInformation.csproj", "{CAA09F17-1F87-4BD4-9042-725608F47334}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsunamiAnalyzer", "TsunamiAnalyzer\TsunamiAnalyzer.csproj", "{49608776-2ADE-4571-93F9-37A89947CEB5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsunamiReceiver", "TsunamiReceiver\TsunamiReceiver.csproj", "{0846FB7E-5DD0-4FAD-8C5B-88604BD94357}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestJMAInformation", "TestJMAInformation\TestJMAInformation.csproj", "{2C454D74-0820-421A-A1AD-05FB3BCE78FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,14 +47,6 @@ Global
 		{DA146290-2F63-4B69-9A83-7FE298C80609}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DA146290-2F63-4B69-9A83-7FE298C80609}.Release|x86.ActiveCfg = Release|x86
 		{DA146290-2F63-4B69-9A83-7FE298C80609}.Release|x86.Build.0 = Release|x86
-		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{CAA09F17-1F87-4BD4-9042-725608F47334}.Debug|x86.Build.0 = Debug|Any CPU
-		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|x86.ActiveCfg = Release|Any CPU
-		{CAA09F17-1F87-4BD4-9042-725608F47334}.Release|x86.Build.0 = Release|Any CPU
 		{49608776-2ADE-4571-93F9-37A89947CEB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{49608776-2ADE-4571-93F9-37A89947CEB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49608776-2ADE-4571-93F9-37A89947CEB5}.Debug|x86.ActiveCfg = Debug|Any CPU
@@ -71,6 +63,14 @@ Global
 		{0846FB7E-5DD0-4FAD-8C5B-88604BD94357}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0846FB7E-5DD0-4FAD-8C5B-88604BD94357}.Release|x86.ActiveCfg = Release|Any CPU
 		{0846FB7E-5DD0-4FAD-8C5B-88604BD94357}.Release|x86.Build.0 = Release|Any CPU
+		{2C454D74-0820-421A-A1AD-05FB3BCE78FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C454D74-0820-421A-A1AD-05FB3BCE78FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C454D74-0820-421A-A1AD-05FB3BCE78FB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2C454D74-0820-421A-A1AD-05FB3BCE78FB}.Debug|x86.Build.0 = Debug|Any CPU
+		{2C454D74-0820-421A-A1AD-05FB3BCE78FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C454D74-0820-421A-A1AD-05FB3BCE78FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C454D74-0820-421A-A1AD-05FB3BCE78FB}.Release|x86.ActiveCfg = Release|Any CPU
+		{2C454D74-0820-421A-A1AD-05FB3BCE78FB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,31 +80,6 @@ Global
 		Policies = $0
 		$0.DotNetNamingPolicy = $1
 		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
-		$1.ResourceNamePolicy = FileFormatDefault
 		$0.TextStylePolicy = $4
-		$2.inheritsSet = null
-		$2.scope = text/x-csharp
-		$0.CSharpFormattingPolicy = $3
-		$3.AlignEmbeddedUsingStatements = False
-		$3.AlignEmbeddedIfStatements = False
-		$3.inheritsSet = Mono
-		$3.inheritsScope = text/x-csharp
-		$3.scope = text/x-csharp
-		$4.inheritsSet = VisualStudio
-		$4.inheritsScope = text/plain
-		$4.scope = text/plain
-		$0.StandardHeader = $5
-		$5.Text = 
-		$5.IncludeInNewFiles = True
-		$0.VersionControlPolicy = $6
-		$6.CommitMessageStyle = $7
-		$7.LastFilePostfix = "@:\n  "
-		$7.IncludeDirectoryPaths = True
-		$6.inheritsSet = Mono
-		$0.ChangeLogPolicy = $8
-		$8.UpdateMode = None
-		$8.MessageStyle = $9
-		$9.LineAlign = 0
-		$8.inheritsSet = Mono
 	EndGlobalSection
 EndGlobal
