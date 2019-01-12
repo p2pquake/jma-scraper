@@ -1,0 +1,51 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2016/11/22 08:09:00",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "宮城県",
+      "grade": "Warning",
+      "immediate": false
+    },
+    {
+      "name": "福島県",
+      "grade": "Warning",
+      "immediate": false
+    },
+    {
+      "name": "青森県太平洋沿岸",
+      "grade": "Watch",
+      "immediate": false
+    },
+    {
+      "name": "岩手県",
+      "grade": "Watch",
+      "immediate": false
+    },
+    {
+      "name": "茨城県",
+      "grade": "Watch",
+      "immediate": false
+    },
+    {
+      "name": "千葉県九十九里・外房",
+      "grade": "Watch",
+      "immediate": false
+    },
+    {
+      "name": "千葉県内房",
+      "grade": "Watch",
+      "immediate": false
+    },
+    {
+      "name": "伊豆諸島",
+      "grade": "Watch",
+      "immediate": false
+    }
+  ]
+}

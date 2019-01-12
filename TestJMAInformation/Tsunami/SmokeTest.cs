@@ -15,7 +15,7 @@ namespace TestJMAInformation.Tsunami
     {
         private static IEnumerable<TestCaseData> GenerateTestCases()
         {
-            string directory = @"../../TestData/Tsunami";
+            string directory = Path.Combine(System.AppDomain.CurrentDomain.BaseDirectory, @"../../TestData/Tsunami");
             string[] files = Directory.GetFiles(directory, "*.htm*");
 
             foreach (string path in files)

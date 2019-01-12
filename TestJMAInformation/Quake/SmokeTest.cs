@@ -15,7 +15,7 @@ namespace TestJMAInformation.Quake
     {
         private static IEnumerable<TestCaseData> GenerateTestCases()
         {
-            string directory = @"../../TestData/Quake";
+            string directory = Path.Combine(System.AppDomain.CurrentDomain.BaseDirectory, @"../../TestData/Quake");
             string[] files = Directory.GetFiles(directory, "*.htm*");
 
             foreach (string path in files)
