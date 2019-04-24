@@ -1,0 +1,10 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/05/03 04:10:00",
+    "type": "Focus"
+  },
+  "cancelled": true,
+  "areas": []
+}

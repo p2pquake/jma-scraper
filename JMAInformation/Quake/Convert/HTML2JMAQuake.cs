@@ -109,7 +109,7 @@ namespace P2PQuake.JMAInformation.Quake.Convert
             string html = getHtml(true, false, false, false, true);
             DateTime issueTime = DateTime.MinValue;
 
-            Match match = Regex.Match(html, @"(..)\s*(\d+)年\s*(\d+)月\s*(\d+)日\s*(\d+)時\s*(\d+)分");
+            Match match = Regex.Match(html, @"(..)\s*(\d+|元)年\s*(\d+)月\s*(\d+)日\s*(\d+)時\s*(\d+)分");
             if (match.Success)
                 issueTime = MonoDate.Parse(match.Value); //, new CultureInfo("ja-JP", true));
 

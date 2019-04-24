@@ -18,15 +18,15 @@ namespace P2PQuake.JMAInformation.Quake.Convert
             }
 
             // 和暦表記
-            Match warekiMatch = Regex.Match(s , @"^(?<nengou>\S+?)(?<year>\d+)(?<postfix>年\d+月\d+日\d+時\d+分)$");
+            Match warekiMatch = Regex.Match(s , @"^(?<nengou>\S+?)(?<year>\d+|元)(?<postfix>年\d+月\d+日\d+時\d+分)$");
             if (warekiMatch.Success)
             {
                 //Console.WriteLine("和暦マッチ");
-                int offsetYear = calcNengoOffset(warekiMatch.Groups["nengou"].Value);
+                int offsetYear = CalcNengoOffset(warekiMatch.Groups["nengou"].Value);
                 if (offsetYear > 0)
                 {
                     // 和暦が認識できた場合
-                    string date = (offsetYear + int.Parse(warekiMatch.Groups["year"].Value)).ToString() +
+                    string date = (offsetYear + ParseYear(warekiMatch.Groups["year"].Value)).ToString() +
                                   warekiMatch.Groups["postfix"];
                     return DateTime.ParseExact(date, "yyyy年M月d日H時m分", null);
                 }
@@ -59,14 +59,22 @@ namespace P2PQuake.JMAInformation.Quake.Convert
             throw new FormatException("与えられた日時は解析できない形式です。");
         }
 
-        private static int calcNengoOffset(string nengo)
+        private static int CalcNengoOffset(string nengo)
         {
-            int offset = -1;
-
             if (nengo == "平成")
-                offset = 1988;
+                return 1988;
+            if (nengo == "令和")
+                return 2018;
 
-            return offset;
+            return -1;
+        }
+
+        private static int ParseYear(string year)
+        {
+            if (year == "元")
+                return 1;
+
+            return int.Parse(year);
         }
     }
 }

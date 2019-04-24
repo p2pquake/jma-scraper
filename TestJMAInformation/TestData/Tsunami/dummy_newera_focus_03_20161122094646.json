@@ -1,0 +1,31 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/11/22 09:46:00",
+    "type": "Focus"
+  },
+  "cancelled": false,
+  "areas": [
+    {
+      "name": "岩手県",
+      "grade": "Watch",
+      "immediate": false
+    },
+    {
+      "name": "宮城県",
+      "grade": "Watch",
+      "immediate": false
+    },
+    {
+      "name": "福島県",
+      "grade": "Watch",
+      "immediate": false
+    },
+    {
+      "name": "茨城県",
+      "grade": "Watch",
+      "immediate": false
+    }
+  ]
+}
