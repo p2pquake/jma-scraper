@@ -34,7 +34,7 @@ namespace TestJMAInformation.Quake
             reader.Close();
 
             Core core = JMAQuakeConverter.fromString(content);
-            string json = JsonConvert.SerializeObject(core, Formatting.Indented);
+            string json = JsonConvert.SerializeObject(core, Formatting.Indented).Replace("\r", "");
 
             if (!File.Exists(expectedPath))
             {

@@ -34,7 +34,7 @@ namespace TestJMAInformation.Tsunami
             reader.Close();
 
             Core core = JMATsunamiConverter.fromString(content);
-            string json = JsonConvert.SerializeObject(core, Formatting.Indented);
+            string json = JsonConvert.SerializeObject(core, Formatting.Indented).Replace("\r", "");
 
             if (!File.Exists(expectedPath))
             {
