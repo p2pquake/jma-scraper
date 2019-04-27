@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
-using System.Data.SQLite;
+using System.Data.Common;
+using Mono.Data.Sqlite;
 
 namespace QuakeReceiver.URLManager
 {
@@ -11,8 +12,8 @@ namespace QuakeReceiver.URLManager
         /// </summary>
         string fileName;
 
-        private SQLiteConnection con = null;
-        private SQLiteCommand    cmd = null;
+        private SqliteConnection con = null;
+        private DbCommand        cmd = null;
 
         public UrlUpdateManager ()
         {
@@ -73,14 +74,14 @@ namespace QuakeReceiver.URLManager
             try {
                 cmd.CommandText = "CREATE TABLE urls (url TEXT PRIMARY KEY, last_modified INTEGER, last_checked INTEGER)";
                 cmd.ExecuteNonQuery();
-            } catch (SQLiteException e) { }
+            } catch (SqliteException e) { }
 
             close ();
         }
 
         private void open()
         {
-            con = new SQLiteConnection("Data Source=" + fileName);
+            con = new SqliteConnection("Data Source=" + fileName);
             cmd = con.CreateCommand();
             con.Open();
         }
