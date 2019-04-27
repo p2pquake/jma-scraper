@@ -13,9 +13,9 @@ namespace P2PQuake.JMAInformation.Tsunami.Convert.Receive
         // 気象庁 津波情報の一覧ページURL
         private string[] urls = {
 #if LOCAL
-            "http://www.p2pquake.net/test/list.html",
+            "https://www.p2pquake.net/test/list.html",
 #else
-            "http://www.jma.go.jp/jp/tsunami/list.html", // 津波予報一覧
+            "https://www.jma.go.jp/jp/tsunami/list.html", // 津波予報一覧
 #endif
         };
             

@@ -10,7 +10,7 @@ namespace QuakeReceiver
 {
     class MainClass
     {
-        private static readonly string JMA_QUAKE_INDEX_URL = "http://www.jma.go.jp/jp/quake/";
+        private static readonly string JMA_QUAKE_INDEX_URL = "https://www.jma.go.jp/jp/quake/";
 
         public static void Main (string[] args)
         {
