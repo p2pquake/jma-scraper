@@ -12,9 +12,9 @@ namespace TsunamiReceiver
     class Program
     {
 #if LOCAL
-        private static readonly string JMA_TSUNAMI_INDEX_URL = "http://www.p2pquake.net/test/";
+        private static readonly string JMA_TSUNAMI_INDEX_URL = "https://www.p2pquake.net/test/";
 #else
-        private static readonly string JMA_TSUNAMI_INDEX_URL = "http://www.jma.go.jp/jp/tsunami/";
+        private static readonly string JMA_TSUNAMI_INDEX_URL = "https://www.jma.go.jp/jp/tsunami/";
 #endif
 
         public static void Main(string[] args)
