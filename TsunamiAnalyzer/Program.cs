@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using Newtonsoft.Json;
 using P2PQuake.JMAInformation.Tsunami;
 using P2PQuake.JMAInformation.Tsunami.Convert;
@@ -29,8 +26,6 @@ namespace TsunamiAnalyzer
             StreamReader reader = new StreamReader(inputFileName, Encoding.UTF8);
             string content = reader.ReadToEnd();
             reader.Close();
-
-            // Console.WriteLine (content);
 
             Core core = JMATsunamiConverter.fromString(content);
             string json = JsonConvert.SerializeObject(core, Formatting.Indented);

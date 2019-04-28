@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Net;
-using System.Text;
 using P2PQuake.JMAInformation;
 using P2PQuake.JMAInformation.Tsunami.Convert.Receive;
 using TsunamiReceiver.URLManager;
@@ -11,11 +9,7 @@ namespace TsunamiReceiver
 {
     class Program
     {
-#if LOCAL
-        private static readonly string JMA_TSUNAMI_INDEX_URL = "https://www.p2pquake.net/test/";
-#else
         private static readonly string JMA_TSUNAMI_INDEX_URL = "https://www.jma.go.jp/jp/tsunami/";
-#endif
 
         public static void Main(string[] args)
         {

@@ -1,5 +1,4 @@
 using System;
-using System.Data.Linq;
 using System.Net;
 using System.Collections.Generic;
 using P2PQuake.JMAInformation;
