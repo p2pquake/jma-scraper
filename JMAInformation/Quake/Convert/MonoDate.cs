@@ -3,8 +3,19 @@ using System.Text.RegularExpressions;
 
 namespace P2PQuake.JMAInformation.Quake.Convert
 {
+    /// <summary>
+    /// ランタイムに依存しない日時のパーサクラス
+    /// </summary>
     public class MonoDate
     {
+        /// <summary>
+        /// <p>日時をパースします．</p>
+        /// <ul>
+        /// <li>和暦は「平成」「令和」のみ対応です．未対応の元号が入力された場合，現在日時により今年または昨年として補完します．</li>
+        /// <li>「元年」記法にも対応しています．</li>
+        /// </ul>
+        /// </summary>
+        /// <param name="input">年月日時分（西暦または和暦）</param>
         public static DateTime Parse(string input)
         {
             string s = Regex.Replace(input, "[ 　]+", "");
