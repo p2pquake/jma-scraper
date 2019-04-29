@@ -65,7 +65,6 @@
     <Compile Include="Quake\Convert\JMAQuake.cs" />
     <Compile Include="Quake\Convert\JMAQuakeDefines.cs" />
     <Compile Include="Quake\Convert\Receive\UrlExtractor.cs" />
-    <Compile Include="Quake\Convert\MonoDate.cs" />
     <Compile Include="Quake\Convert\JMAQuakeConverter.cs" />
     <Compile Include="Quake\Core.cs" />
     <Compile Include="Quake\Earthquake.cs" />
@@ -77,9 +76,14 @@
     <Compile Include="Tsunami\Convert\Receive\UrlExtractor.cs" />
     <Compile Include="Tsunami\Core.cs" />
     <Compile Include="Tsunami\Issue.cs" />
+    <Compile Include="Common\Convert\MonoDate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Common\" />
+    <Folder Include="Common\Convert\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

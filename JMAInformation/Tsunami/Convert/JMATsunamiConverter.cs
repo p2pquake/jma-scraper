@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
-using P2PQuake.JMAInformation.Quake.Convert;
+using P2PQuake.JMAInformation.Common.Convert;
 
 namespace P2PQuake.JMAInformation.Tsunami.Convert
 {

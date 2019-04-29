@@ -4,6 +4,7 @@ using System.Text;
 using System.Globalization;
 
 using System.Text.RegularExpressions;
+using P2PQuake.JMAInformation.Common.Convert;
 
 namespace P2PQuake.JMAInformation.Quake.Convert
 {

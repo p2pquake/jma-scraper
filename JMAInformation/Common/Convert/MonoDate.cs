@@ -1,7 +1,7 @@
 using System;
 using System.Text.RegularExpressions;
 
-namespace P2PQuake.JMAInformation.Quake.Convert
+namespace P2PQuake.JMAInformation.Common.Convert
 {
     /// <summary>
     /// ランタイムに依存しない日時のパーサクラス
