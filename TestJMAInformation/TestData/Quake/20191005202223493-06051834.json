@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/06 05:22:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/06 05:18:00",
+    "hypocenter": {
+      "name": "奄美大島北西沖",
+      "latitude": 28.1,
+      "longitude": 128.1,
+      "depth": 0,
+      "magnitude": 5.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

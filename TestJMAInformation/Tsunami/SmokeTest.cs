@@ -47,7 +47,7 @@ namespace TestJMAInformation.Tsunami
             }
 
             StreamReader expectedReader = new StreamReader(expectedPath, Encoding.UTF8);
-            string expectedJson = expectedReader.ReadToEnd();
+            string expectedJson = expectedReader.ReadToEnd().Replace("\r", "");
             expectedReader.Close();
 
             Assert.AreEqual(expectedJson, json);

@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/05 03:16:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/05 03:13:00",
+    "hypocenter": {
+      "name": "石川県能登地方",
+      "latitude": 37.5,
+      "longitude": 137.3,
+      "depth": 10,
+      "magnitude": 2.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "石川県",
+      "addr": "珠洲市正院町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

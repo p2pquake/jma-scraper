@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2018/07/12 13:49:00",
+    "time": "2019/07/12 13:49:00",
     "type": "DetailScale",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2018/07/12 13:46:00",
+    "time": "2019/07/12 13:46:00",
     "hypocenter": {
       "name": "岩手県沖",
       "latitude": 40.1,

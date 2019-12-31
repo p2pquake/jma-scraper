@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/07 08:05:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/07 08:02:00",
+    "hypocenter": {
+      "name": "伊予灘",
+      "latitude": 33.8,
+      "longitude": 132.4,
+      "depth": 50,
+      "magnitude": 4.3
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "広島県",
+      "addr": "広島県南西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛媛県中予",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "山口県",
+      "addr": "山口県東部",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

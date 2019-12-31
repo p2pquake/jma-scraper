@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/15 16:00:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/15 15:57:00",
+    "hypocenter": {
+      "name": "上川地方北部",
+      "latitude": 44.7,
+      "longitude": 142.3,
+      "depth": 10,
+      "magnitude": 3.1
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "上川地方北部",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}
