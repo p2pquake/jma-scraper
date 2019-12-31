@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/22 14:54:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/22 14:51:00",
+    "hypocenter": {
+      "name": "釧路沖",
+      "latitude": 42.9,
+      "longitude": 145.5,
+      "depth": 50,
+      "magnitude": 4.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "浜中町茶内",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室市牧の内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室市厚床",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室市落石東",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "根室市珸瑶瑁",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "浜中町湯沸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "標茶町塘路",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

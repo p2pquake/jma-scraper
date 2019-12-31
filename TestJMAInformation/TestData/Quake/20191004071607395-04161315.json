@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/04 16:16:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/04 16:13:00",
+    "hypocenter": {
+      "name": "長野県北部",
+      "latitude": 36.8,
+      "longitude": 138.3,
+      "depth": 10,
+      "magnitude": 2.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "新潟県",
+      "addr": "妙高市田口",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "信濃町柏原東裏",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "飯綱町芋川",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

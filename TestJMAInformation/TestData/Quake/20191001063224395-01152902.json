@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/01 15:32:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/01 15:29:00",
+    "hypocenter": {
+      "name": "十勝地方南部",
+      "latitude": 42.3,
+      "longitude": 143.1,
+      "depth": 50,
+      "magnitude": 3.9
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "浦河町野深",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "浦河町潮見",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "浦河町築地",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "更別村更別",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "十勝大樹町東本通",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "十勝大樹町生花",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "幕別町忠類錦町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

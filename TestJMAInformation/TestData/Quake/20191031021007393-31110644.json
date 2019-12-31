@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/31 11:10:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/31 11:06:00",
+    "hypocenter": {
+      "name": "千葉県北西部",
+      "latitude": 35.8,
+      "longitude": 140.1,
+      "depth": 70,
+      "magnitude": 4.1
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

@@ -1,0 +1,372 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/31 09:30:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/31 09:27:00",
+    "hypocenter": {
+      "name": "愛媛県南予",
+      "latitude": 33.5,
+      "longitude": 132.4,
+      "depth": 40,
+      "magnitude": 4.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市三間町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "久万高原町久万",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "松山市北持田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "松山市富久町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "松山市北条辻",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "松山市中島大浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市大西町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "今治市菊間町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市住吉町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市丸穂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "宇和島市吉田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "八幡浜市五反田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "八幡浜市保内町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西条市丹原町鞍瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "大洲市肱川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "大洲市長浜",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "大洲市大洲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "大洲市河辺町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "伊予市双海町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "伊予市中山町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西予市野村町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西予市城川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "西予市宇和町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "東温市南方",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "砥部町総津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "砥部町宮内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "内子町内子",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "内子町平岡",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "内子町小田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "伊方町三崎",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "伊方町湊浦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "伊方町三机",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "松野町松丸",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛媛鬼北町成川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛媛鬼北町近永",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛南町船越",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛媛県",
+      "addr": "愛南町柏",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島安佐北区可部南",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市二河町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市広",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市下蒲刈町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市豊浜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市川尻町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "呉市安浦町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "東広島市黒瀬町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "府中町大通り",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "大崎上島町中野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "柳井市大畠",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "周防大島町平野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "周防大島町西安下庄",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "周防大島町久賀",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "周防大島町東和総合支所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "宿毛市桜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "梼原町広野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "高知県",
+      "addr": "四万十町大正",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "大分市佐賀関",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "臼杵市臼杵",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "国東市田深",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

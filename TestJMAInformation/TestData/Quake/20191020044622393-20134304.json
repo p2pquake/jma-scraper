@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/20 13:46:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/20 13:43:00",
+    "hypocenter": {
+      "name": "浦河沖",
+      "latitude": 41.9,
+      "longitude": 142.3,
+      "depth": 70,
+      "magnitude": 4.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

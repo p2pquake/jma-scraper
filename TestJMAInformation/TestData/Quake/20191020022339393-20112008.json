@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/20 11:23:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/20 11:20:00",
+    "hypocenter": {
+      "name": "東京都多摩東部",
+      "latitude": 35.7,
+      "longitude": 139.4,
+      "depth": 30,
+      "magnitude": 3.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

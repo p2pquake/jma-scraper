@@ -1,0 +1,78 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/26 22:14:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/26 22:10:00",
+    "hypocenter": {
+      "name": "京都府南部",
+      "latitude": 35.1,
+      "longitude": 135.7,
+      "depth": 10,
+      "magnitude": 2.9
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "京都府",
+      "addr": "京都中京区西ノ京",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都北区紫竹",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都北区中川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都上京区薮ノ内町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都下京区河原町塩小路",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都右京区太秦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都右京区嵯峨樒原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都山科区安朱川向町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "亀岡市安町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

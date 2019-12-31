@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/18 06:14:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/18 06:12:00",
+    "hypocenter": {
+      "name": "釧路地方北部",
+      "latitude": 43.6,
+      "longitude": 144.4,
+      "depth": 10,
+      "magnitude": 2.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "弟子屈町サワンチサップ",
+      "scale": 20,
+      "isArea": false
+    }
+  ]
+}

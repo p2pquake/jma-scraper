@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/24 19:13:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/24 19:10:00",
+    "hypocenter": {
+      "name": "薩摩半島西方沖",
+      "latitude": 31.6,
+      "longitude": 129.6,
+      "depth": 0,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

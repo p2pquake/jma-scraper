@@ -1,0 +1,72 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/12 18:25:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/12 18:22:00",
+    "hypocenter": {
+      "name": "千葉県南東沖",
+      "latitude": 34.7,
+      "longitude": 140.7,
+      "depth": 80,
+      "magnitude": 5.7
+    },
+    "maxScale": 40,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "千葉県",
+      "addr": "千葉県南部",
+      "scale": 40,
+      "isArea": true
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉県北東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "千葉県",
+      "addr": "千葉県北西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "東京都",
+      "addr": "東京都２３区",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "東京都",
+      "addr": "三宅島",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "神奈川県東部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "神奈川県",
+      "addr": "神奈川県西部",
+      "scale": 30,
+      "isArea": true
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡県伊豆",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

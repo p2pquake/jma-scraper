@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/24 03:15:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/24 03:12:00",
+    "hypocenter": {
+      "name": "和歌山県南方沖",
+      "latitude": 33.6,
+      "longitude": 135.3,
+      "depth": 30,
+      "magnitude": 3.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

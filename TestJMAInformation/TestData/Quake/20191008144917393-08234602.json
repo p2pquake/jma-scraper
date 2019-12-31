@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/08 23:49:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/08 23:46:00",
+    "hypocenter": {
+      "name": "岐阜県飛騨地方",
+      "latitude": 36.1,
+      "longitude": 137.5,
+      "depth": 10,
+      "magnitude": 2.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

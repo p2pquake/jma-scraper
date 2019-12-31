@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/20 07:14:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/20 07:11:00",
+    "hypocenter": {
+      "name": "岐阜県美濃東部",
+      "latitude": 35.3,
+      "longitude": 137.2,
+      "depth": 10,
+      "magnitude": 2.8
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

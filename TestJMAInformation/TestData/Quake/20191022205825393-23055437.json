@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/23 05:58:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/23 05:54:00",
+    "hypocenter": {
+      "name": "父島近海",
+      "latitude": 26.6,
+      "longitude": 141.7,
+      "depth": 120,
+      "magnitude": 4.8
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

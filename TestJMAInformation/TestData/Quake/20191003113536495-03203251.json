@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/03 20:35:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/03 20:32:00",
+    "hypocenter": {
+      "name": "播磨灘",
+      "latitude": 34.6,
+      "longitude": 134.3,
+      "depth": 10,
+      "magnitude": 2.6
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "香川県",
+      "addr": "土庄町大部",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

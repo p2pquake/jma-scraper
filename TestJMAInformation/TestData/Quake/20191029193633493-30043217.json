@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/30 04:36:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/30 04:32:00",
+    "hypocenter": {
+      "name": "京都府南部",
+      "latitude": 35.0,
+      "longitude": 135.5,
+      "depth": 0,
+      "magnitude": 3.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "京都府",
+      "addr": "京都府南部",
+      "scale": 30,
+      "isArea": true
+    }
+  ]
+}

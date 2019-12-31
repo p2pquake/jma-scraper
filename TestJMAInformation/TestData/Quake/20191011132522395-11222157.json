@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/11 22:25:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/11 22:21:00",
+    "hypocenter": {
+      "name": "浦河沖",
+      "latitude": 42.0,
+      "longitude": 143.1,
+      "depth": 30,
+      "magnitude": 3.7
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "様似町栄町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "えりも町えりも岬",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/15 08:19:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/15 08:15:00",
+    "hypocenter": {
+      "name": "択捉島付近",
+      "latitude": 44.4,
+      "longitude": 146.9,
+      "depth": 110,
+      "magnitude": 5.3
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

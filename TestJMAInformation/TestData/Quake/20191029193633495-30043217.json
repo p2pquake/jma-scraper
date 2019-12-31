@@ -1,0 +1,288 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/30 04:36:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/30 04:32:00",
+    "hypocenter": {
+      "name": "京都府南部",
+      "latitude": 35.0,
+      "longitude": 135.5,
+      "depth": 0,
+      "magnitude": 3.8
+    },
+    "maxScale": 30,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "京都府",
+      "addr": "亀岡市安町",
+      "scale": 30,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都西京区大枝",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "八幡市八幡",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都北区中川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都中京区西ノ京",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都下京区河原町塩小路",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都右京区京北周山町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都右京区太秦",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都右京区嵯峨",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都右京区嵯峨樒原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都伏見区竹田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都伏見区醍醐",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都伏見区向島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京都西京区樫原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "亀岡市余部町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "城陽市寺田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "向日市寺戸町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "長岡京市開田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京田辺市田辺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "南丹市園部町小桜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "南丹市八木町八木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "大山崎町円明寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "久御山町田井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "京都府",
+      "addr": "京丹波町蒲生",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "高槻市桃園町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "島本町若山台",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "豊能町余野",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "能勢町森上",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "能勢町役場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "高槻市立第２中学校",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "高槻市消防本部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "枚方市大垣内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "寝屋川市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "箕面市箕面",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "箕面市粟生外院",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大阪府",
+      "addr": "交野市私部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "三田市下里",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "加古川市加古川町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "三田市下深田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "丹波篠山市北新町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "丹波篠山市杉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "丹波篠山市宮田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "兵庫県",
+      "addr": "加東市天神",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "山添村大西",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/09 16:50:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/09 16:48:00",
+    "hypocenter": {
+      "name": "東京都23区",
+      "latitude": 35.7,
+      "longitude": 139.6,
+      "depth": 30,
+      "magnitude": 3.5
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

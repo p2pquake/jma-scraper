@@ -1,0 +1,36 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/24 19:13:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/24 19:10:00",
+    "hypocenter": {
+      "name": "薩摩半島西方沖",
+      "latitude": 31.6,
+      "longitude": 129.6,
+      "depth": 0,
+      "magnitude": 3.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "鹿児島県",
+      "addr": "薩摩川内市下甑町青瀬",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "鹿児島県",
+      "addr": "薩摩川内市下甑町手打",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

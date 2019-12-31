@@ -1,0 +1,498 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/02 02:18:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/02 02:15:00",
+    "hypocenter": {
+      "name": "静岡県中部",
+      "latitude": 35.0,
+      "longitude": 138.2,
+      "depth": 30,
+      "magnitude": 4.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "静岡県",
+      "addr": "静岡駿河区曲金",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "浜松天竜区春野町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "島田市川根町家山",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "島田市川根町笹間上",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "掛川市三俣",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡菊川市赤土",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "牧之原市静波",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "川根本町上長尾",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡森町森",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡葵区駒形通",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡葵区梅ヶ島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡葵区追手町県庁",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡葵区追手町市役所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡清水区千歳町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "浜松中区元城町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "浜松南区江之島町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "浜松北区三ヶ日町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "浜松天竜区佐久間町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "浜松天竜区龍山町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "富士宮市野中",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "島田市中央町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "島田市金谷代官町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "磐田市福田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "磐田市下野部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "焼津市宗高",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "掛川市篠場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "掛川市長谷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "藤枝市岡出山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "袋井市新屋",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "袋井市浅名",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "下田市中",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "湖西市吉美",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "御前崎市池新田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "静岡菊川市堀之内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "牧之原市鬼女新田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "東伊豆町奈良本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "東伊豆町稲取",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "河津町田中",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "松崎町江奈",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "西伊豆町一色",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "西伊豆町仁科",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "吉田町住吉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "静岡県",
+      "addr": "川根本町東藤川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山梨県",
+      "addr": "山梨南部町栄小学校",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "飯田市高羽町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "飯田市上郷黒田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "飯田市南信濃",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "飯田市上村",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "中川村大草",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "長野高森町下市田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "根羽村役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "下條村睦沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "売木村役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "泰阜村梨久保",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "泰阜村役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "喬木村役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "豊丘村神稲",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "王滝村鈴ヶ沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "長野県",
+      "addr": "王滝村役場",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "中津川市かやの木町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "中津川市本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "恵那市岩村町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "恵那市上矢作町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "岐阜県",
+      "addr": "恵那市山岡町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "豊田市大洞町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "豊田市小坂町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "豊田市長興寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "豊田市大沼町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "豊田市坂上町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "新城市乗本",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "新城市矢部",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "新城市長篠",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "新城市作手高里松風呂",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "新城市作手高里縄手上",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "新城市東入船",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "愛知みよし市三好町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "東郷町春木",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "豊根村下黒川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "愛知県",
+      "addr": "豊根村富山",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

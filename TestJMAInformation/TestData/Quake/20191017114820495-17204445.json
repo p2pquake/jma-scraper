@@ -1,0 +1,42 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/17 20:48:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/17 20:44:00",
+    "hypocenter": {
+      "name": "与那国島近海",
+      "latitude": 24.1,
+      "longitude": 122.5,
+      "depth": 20,
+      "magnitude": 5.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "沖縄県",
+      "addr": "与那国町祖納",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "与那国町久部良",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "沖縄県",
+      "addr": "与那国町役場",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

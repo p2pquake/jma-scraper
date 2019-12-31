@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/21 04:10:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/21 04:07:00",
+    "hypocenter": {
+      "name": "秋田県内陸北部",
+      "latitude": 40.0,
+      "longitude": 140.5,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

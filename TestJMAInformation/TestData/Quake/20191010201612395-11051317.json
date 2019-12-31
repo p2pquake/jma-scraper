@@ -1,0 +1,48 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/11 05:16:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/11 05:13:00",
+    "hypocenter": {
+      "name": "日高地方東部",
+      "latitude": 42.3,
+      "longitude": 143.0,
+      "depth": 50,
+      "magnitude": 3.5
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "浦河町潮見",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "浦河町築地",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "十勝大樹町生花",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "幕別町忠類錦町",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

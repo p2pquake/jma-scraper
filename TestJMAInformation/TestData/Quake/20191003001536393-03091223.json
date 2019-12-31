@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/03 09:15:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/03 09:12:00",
+    "hypocenter": {
+      "name": "長野県北部",
+      "latitude": 36.8,
+      "longitude": 138.2,
+      "depth": 10,
+      "magnitude": 2.5
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

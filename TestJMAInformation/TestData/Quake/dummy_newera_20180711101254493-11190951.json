@@ -2,12 +2,12 @@
   "expire": null,
   "issue": {
     "source": "気象庁",
-    "time": "2018/07/11 19:12:00",
+    "time": "2019/07/11 19:12:00",
     "type": "ScaleAndDestination",
     "correct": "None"
   },
   "earthquake": {
-    "time": "2018/07/11 19:09:00",
+    "time": "2019/07/11 19:09:00",
     "hypocenter": {
       "name": "熊本県天草・芦北地方",
       "latitude": 32.3,

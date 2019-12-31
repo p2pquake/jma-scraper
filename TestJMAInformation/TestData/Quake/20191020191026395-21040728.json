@@ -1,0 +1,66 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/21 04:10:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/21 04:07:00",
+    "hypocenter": {
+      "name": "秋田県内陸北部",
+      "latitude": 40.0,
+      "longitude": 140.5,
+      "depth": 10,
+      "magnitude": 3.4
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市阿仁水無",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大館市桜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "大館市比内町扇田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市米内沢",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "北秋田市新田目",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "仙北市西木町上桧木内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "秋田県",
+      "addr": "小坂町小坂砂森",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

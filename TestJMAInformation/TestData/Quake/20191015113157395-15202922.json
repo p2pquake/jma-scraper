@@ -1,0 +1,72 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/15 20:31:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/15 20:29:00",
+    "hypocenter": {
+      "name": "三重県中部",
+      "latitude": 34.6,
+      "longitude": 136.4,
+      "depth": 10,
+      "magnitude": 3.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "三重県",
+      "addr": "津市白山町川口",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市一志町田尻",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市島崎町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市片田薬王寺町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "津市安濃町東観音寺",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "松阪市魚町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "三重県",
+      "addr": "鈴鹿市西条",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "奈良県",
+      "addr": "御杖村菅野",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/07 08:05:00",
+    "type": "Destination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/07 08:02:00",
+    "hypocenter": {
+      "name": "伊予灘",
+      "latitude": 33.8,
+      "longitude": 132.4,
+      "depth": 50,
+      "magnitude": 4.3
+    },
+    "maxScale": -1,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

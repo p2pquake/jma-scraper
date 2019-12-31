@@ -1,0 +1,23 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/24 04:13:00",
+    "type": "ScaleAndDestination",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/24 04:10:00",
+    "hypocenter": {
+      "name": "石垣島近海",
+      "latitude": 24.8,
+      "longitude": 123.4,
+      "depth": 90,
+      "magnitude": 4.4
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": []
+}

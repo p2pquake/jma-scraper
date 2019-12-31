@@ -1,0 +1,30 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/02 13:43:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/02 13:39:00",
+    "hypocenter": {
+      "name": "福島県沖",
+      "latitude": 37.7,
+      "longitude": 141.9,
+      "depth": 20,
+      "magnitude": 4.2
+    },
+    "maxScale": 10,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "福島県",
+      "addr": "天栄村下松本",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

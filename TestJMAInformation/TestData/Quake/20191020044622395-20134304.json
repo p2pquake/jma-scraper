@@ -1,0 +1,156 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/20 13:46:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/20 13:43:00",
+    "hypocenter": {
+      "name": "浦河沖",
+      "latitude": 41.9,
+      "longitude": 142.3,
+      "depth": 70,
+      "magnitude": 4.1
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "北海道",
+      "addr": "安平町追分柏が丘",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "新ひだか町静内山手町",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "札幌東区元町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "函館市泊町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "函館市新浜町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "函館市川汲町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "江別市緑町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "千歳市北栄",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "新千歳空港",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "千歳市若草",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "千歳市支笏湖温泉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "恵庭市京町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "胆振伊達市大滝区本町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "厚真町鹿沼",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "安平町早来北進",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "日高地方日高町門別",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "新冠町北星町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "新ひだか町静内御幸町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "北海道",
+      "addr": "新ひだか町三石旭町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "東通村砂子又蒲谷地",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "東通村砂子又沢内",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "青森県",
+      "addr": "階上町道仏",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}

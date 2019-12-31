@@ -1,0 +1,390 @@
+﻿{
+  "expire": null,
+  "issue": {
+    "source": "気象庁",
+    "time": "2019/10/14 13:05:00",
+    "type": "DetailScale",
+    "correct": "None"
+  },
+  "earthquake": {
+    "time": "2019/10/14 13:02:00",
+    "hypocenter": {
+      "name": "周防灘",
+      "latitude": 33.8,
+      "longitude": 131.7,
+      "depth": 20,
+      "magnitude": 4.0
+    },
+    "maxScale": 20,
+    "domesticTsunami": "None",
+    "foreignTsunami": "Unknown"
+  },
+  "points": [
+    {
+      "pref": "山口県",
+      "addr": "山口市秋穂二島",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "山口市秋穂東",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "防府市寿",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "防府市西浦",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "平生町平生",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "宇部市常盤町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "山口市前町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "山口市小郡下郷",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "山口市亀山町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "山口市阿知須",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "萩市川上",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "下松市大手町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "岩国市横山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "岩国市玖珂町阿山",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "岩国市美川町高ケ原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "岩国市周東町下久原",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "岩国市玖珂総合支所",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "光市中央",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "光市岩田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "長門市三隅",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "柳井市南町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "美祢市秋芳町秋吉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "美祢市大嶺町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "周南市桜馬場通り",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "周南市熊毛中央町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "周南市岐山通り",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "山陽小野田市日の出",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "上関町長島",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "山口県",
+      "addr": "田布施町下田布施",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "豊後高田市香々地",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "宇佐市上田",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "国東市国見町西方寺",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "国東市国見町伊美",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "姫島村役場",
+      "scale": 20,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "中津市上宮永",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "中津市植野",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "中津市耶馬溪町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "中津市豊田町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "中津市三光",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "中津市本耶馬渓町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "豊後高田市御玉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "豊後高田市真玉",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "杵築市南杵築",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "杵築市山香町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "宇佐市院内町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "宇佐市安心院町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "国東市鶴川",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "国東市田深",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "国東市安岐町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "大分県",
+      "addr": "国東市武蔵町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島西区己斐",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "広島佐伯区利松",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "廿日市市津田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "広島県",
+      "addr": "江田島市沖美町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "北九州小倉南区横代東町",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "行橋市今井",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "赤村内田",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "苅田町若久",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "吉富町広津",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "上毛町東下",
+      "scale": 10,
+      "isArea": false
+    },
+    {
+      "pref": "福岡県",
+      "addr": "上毛町垂水",
+      "scale": 10,
+      "isArea": false
+    }
+  ]
+}
