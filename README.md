@@ -1,3 +1,9 @@
+# DEPRECATED
+
+気象庁 Web サイトのリニューアルにより、利用できなくなりました。 [p2pquake/jmaxml-seis-parser-go](https://github.com/p2pquake/jmaxml-seis-parser-go) をご利用ください。
+
+Due to the renewal of the Japan Meteorological Agency website, jma-scraper is no longer available. Please consider using [p2pquake/jmaxml-seis-parser-go](https://github.com/p2pquake/jmaxml-seis-parser-go) instead.
+
 ## jma-scraper
 
 jma-scraperは，気象庁Webサイトの地震情報・津波予報のパーサです．
